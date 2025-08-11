@@ -1,4 +1,4 @@
-Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum solum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. Simile est linguae Esperanto. 
+Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum solum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. Simile est linguae Latinae. 
 
 1. Nullus est articulus, neque definitus neque indefinitus.
 
@@ -56,4 +56,5 @@ Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum,
 8. Praepositiones semper accusativum regunt.
 
 9. Exemplum: Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
+
 

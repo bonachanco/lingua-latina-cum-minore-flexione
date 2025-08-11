@@ -1,4 +1,18 @@
-# lingua-latina-cum-minore-flexione
+# Lingua Latina cum minore flexione
+
+## Cui schema simile est?
+
+| Schema           | simile est linguae ...    | Exampla                                                                                                                                                                                                                                                                                                                                   |
+|------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Originale | Latina(e) | Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen. |
+| I  | Latina(e) | Pater noster, quis es in caelis, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelo et in terra. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malo. Amen. |
+| II | Latina(e) | Pater noster, quis es in caeli, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terra. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen. |
+| III | Italica(e) | Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotdidiano ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen. |
+| IV |  Italica(e) | Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotdidiano ad nos hodie, et dimittere debiti nostri ad nos, et nos dimittere ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen. |
+| V |  Interlingua(e) | Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotdidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimittere ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen. |
+| VI | Ido | Patro nostre, qui es in caeli, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotdidiane ad nos hodie, et dimittere debita nostre ad nos, et nos dimittere ad debitori nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen. |
+
+## Regulae grammaticae omissae
 
 | Regula grammatica omissa                             | Orig. | I | II | III | IV | V | VI |
 |------------------------------------------------------|-------|---|----|-----|----|---|----|

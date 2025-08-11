@@ -41,4 +41,4 @@ Hoc schema casus removit (sed tria genera servat) et conjugationem simplificavit
   
 8. Praepositiones plerumque accusativum regunt. Quaedam praepositiones exigunt eo pro id. Quaedam praepositiones exigunt utrumque eo et id: in, super, sub.
 
-9. Exemplum: Patro nostro, qui es in caela, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotdidiano ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+9. Exemplum: Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotdidiano ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
