@@ -1,11 +1,9 @@
----
-layout: default
----
+# Lingua latina cum minore flexione
 
 ## Cui schema simile est?
 
-| Schema           | simile est linguae ...    | Exempla                                                                                                                                                                                                                                                                                                                                   |
-|------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Schema           | simile est linguae  | Exempla           |
+|------------------|---------------------|-------------------|
 | [Originale](Schema-originale.md) | Latinae | Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen. |
 | [I](Schema-I.md)  | Latinae | Pater noster, quis es in caelis, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelo et in terra. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malo. Amen. |
 | [II](Schema-II.md) | Latinae | Pater noster, quis es in caeli, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terra. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen. |
