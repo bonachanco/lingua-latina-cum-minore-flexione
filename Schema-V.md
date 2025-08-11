@@ -44,7 +44,7 @@ Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: 
 
 
 
-## 6. Verba. 
+## 6. Verba
 
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. Omnia verba deponentia ut non-deponentia adhibentur. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in act. voce sit "homo".

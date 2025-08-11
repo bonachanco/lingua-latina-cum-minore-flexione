@@ -66,7 +66,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 
 
-## 6. Verba. 
+## 6. Verba
 
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
