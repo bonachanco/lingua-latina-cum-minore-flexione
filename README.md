@@ -14,7 +14,7 @@
 
 ## Regulae grammaticae omissae
 
-| Regula grammatica omissa                             | [Orig.](Schema%20originale.md) | [I](Schema%20I.md) | [II](Schema%20II.md) | [III](Schema%20III.md) | [IV](Schema%20IV.md) | [V](Schema%20V.md) | [VI](Schema%20VI.md) |
+| Regula grammatica omissa                             | [Originale](Schema%20originale.md) | [I](Schema%20I.md) | [II](Schema%20II.md) | [III](Schema%20III.md) | [IV](Schema%20IV.md) | [V](Schema%20V.md) | [VI](Schema%20VI.md) |
 |------------------------------------------------------|-------|---|----|-----|----|---|----|
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
 | Coniugatio passiva                                   | X     | X | X  | X   | X  | X | X  |
