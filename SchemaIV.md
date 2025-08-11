@@ -32,7 +32,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 - Ordinalia: primo, secundo, tertio, quarto, quinto, sexto, septimo, octavo, nono, decimo etc.
 
 
-## 5. Pronomina.
+## 5. Pronomina
 
 
 - Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a (pl. mei); tuo -a; nostro -a; vestro -a; suo -a.

@@ -41,7 +41,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 - Ordinalia: primus, secundus, tertius, quartus, quintus, sextus, septimus, octavus, nonus, decimus etc.
 
 
-## 5. Pronomina.
+## 5. Pronomina
 
 - Personalia: ego mei mihi me me; tu tui tibi te te; nos nostrum,nostri nobis nos nobis; vos vestrum,vestri vobis vos vobis; - sui sibi se se.
 	- Nostri et vestri sunt generalia. Nostrum et vestrum sunt partitiva, ut in "unus nostrum."

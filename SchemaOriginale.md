@@ -2,13 +2,15 @@
 layout: default
 ---
 
-# Schema II
+# Schema orginale
 
-Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum et nominativum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. 
+Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum solum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. 
+
 
 ## 1. Articulus
 
-Articulus nullus est, neque definitus neque indefinitus.
+
+Nullus est articulus, neque definitus neque indefinitus.
 
 
 ## 2. Substantiva
@@ -40,7 +42,8 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 - Cardinalia: unus -a -um, duo duae duo (acc. -os -as -o), tres tria (acc. tres tria), quattuor, quinque, sex, septem, octo, novem, decem etc. 
 - Ordinalia: primus, secundus, tertius, quartus, quintus, sextus, septimus, octavus, nonus, decimus etc.
 
-## 5. Pronomina.
+
+## 5. Pronomina
 
 - Personalia: ego, me; tu, te; nos, nos; vos, vos; -, se.
 - Adiectiva possessiva: meus -a -um; tuus -a -um; noster -tra -trum; vester -tra -trum; suus -a -um.
@@ -66,7 +69,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 ## 6. Verba. 
 
 
-Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
+Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
 - **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** thema perfectum + -i (deponens: es + ppa.); **plpf.** thema perfectum + -era (deponens: era + ppa.); **perf. fut.** thema perfectum + -eri (deponens: eri + ppa.).
 - **Con. act.**: **praes.** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Utimur saepe coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
@@ -86,9 +89,11 @@ Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant
 
 ## 8. Praepositiones
 
-Praepositiones plerumque accusativum regunt. Quaedam praepositiones regunt casum nominativum: ab, cum, de, ex, pro, sine. Quaedam praepositiones regunt utrumque casum: in, super, sub.
+
+Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Pater noster, quis es in caeli, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terra. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
+Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
+
 
