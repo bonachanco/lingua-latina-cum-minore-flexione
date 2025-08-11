@@ -1,4 +1,4 @@
-Hoc schema casus ac genus neutrum removit et coniugationem simplificavit. Simile est linguae Italicae.
+Hoc schema casus ac genus neutrum removit et coniugationem simplificavit. 
 
 1. Nullus est articulus, neque definitus neque indefinitus.
 

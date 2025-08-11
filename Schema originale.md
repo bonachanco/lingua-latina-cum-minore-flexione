@@ -1,4 +1,4 @@
-Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum solum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. Simile est linguae Latinae. 
+Hoc schema servat omnes declinationes et coniugationes, praeter casus genetivum, dativum et ablativum, vocem passivam et personas. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Praepositiones accusativum solum regunt, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto. 
 
 1. Nullus est articulus, neque definitus neque indefinitus.
 

@@ -1,4 +1,4 @@
-Hoc schema declinationes et coniugationes, praeter vocem passivam et personas, servat. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Genetivus per "de", dativus per "ad" saepe, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.  Simile est linguae Latinae. 
+Hoc schema declinationes et coniugationes, praeter vocem passivam et personas, servat. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Genetivus per "de", dativus per "ad" saepe, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
 
 1. Nullus est articulus, neque definitus neque indefinitus.
 

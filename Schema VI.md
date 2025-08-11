@@ -1,4 +1,4 @@
-Hoc schema casus, genera et declinationes adiectivorum removit sed vestigium generis neutri pluralis servat. Coniugationem simplificavit, sed themata verborum servat. Simile est linguae Ido. 
+Hoc schema casus, genera et declinationes adiectivorum removit sed vestigium generis neutri pluralis servat. Coniugationem simplificavit, sed themata verborum servat. 
 
 1. Nullus est articulus, neque definitus neque indefinitus.
 
