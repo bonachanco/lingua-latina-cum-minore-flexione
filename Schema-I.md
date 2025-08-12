@@ -82,4 +82,4 @@ Praepositiones plerumque accusativum regunt. Quaedam praepositiones regunt casum
 
 ## 9. Exemplum
 
-Pater noster, quis es in caelis, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelo et in terra. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malo. Amen.
+Pater noster, qui es in caelis, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelo et in terra. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malo. Amen.
