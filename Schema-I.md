@@ -4,7 +4,7 @@ layout: default
 
 # Schema I
 
-Hoc schema declinationes et coniugationes, praeter vocem passivam et personas, servat. Coniunctivus ad optativum et ad orationem irrealis solum adhibetur. Genetivus per "de", dativus per "ad" saepe, et utitur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
+Declinationes et coniugationes, praeter vocem passivam et personas, servantur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Dativus et genitivus praepositionibus exprimi possunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
 ## 1. Articulus
 
@@ -63,7 +63,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 ## 6. Verba
 
-Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
+Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genitivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
 - **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** thema perfectum + -i (deponens: es + ppa.); **plpf.** thema perfectum + -era (deponens: era + ppa.); **perf. fut.** thema perfectum + -eri (deponens: eri + ppa.).
 - **Con. act.**: **praes. ** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Utimur saepe coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
