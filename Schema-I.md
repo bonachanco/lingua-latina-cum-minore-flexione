@@ -22,7 +22,7 @@ In declinationibus sunt tria genera, duo numeri, quinque casus (nominativus, gen
 - Declinatio IV (n): -u, -us -ui -u -u; -ua -uum -ibus -ua -ibus
 - Declinatio V (mf): -es -ei -ei -em -e; -es -erum -ebus -es -ebus
 
-Genetivus per "de", dativus per "ad" saepe exprimitur. Vocativus singularis masculinus in declinatione secunda terminatur in -i (si nominativus in -ius terminatur) aut in -e (si nominativus in -us terminatur). Locativus singularis in declinationibus prima et secunda formatur ut genetivus singulis, in tertiā declinatione ut ablativus singularis; locativus pluralis semper correspondet ablativo plurali.
+Dativus praepositione "ad" et genetivus praepositione "de" exprimi potest. Vocativus singularis masculinus in declinatione secunda terminatur in -i (si nominativus in -ius terminatur) aut in -e (si nominativus in -us terminatur). Locativus singularis in declinationibus prima et secunda formatur ut genetivus singulis, in tertiā declinatione ut ablativus singularis; locativus pluralis semper correspondet ablativo plurali.
 
 Regula thematis -i (gen. pl. -ium) declinationis tertiae: aut thema isosyllabicum est, aut in duabus consonantibus terminatur (ut urbs), aut in -al vel -ar terminatur. Participium praesens etiam habet nominativum plurale in -ia et ablativum singulare in -i; sed, si ut nomen adhibetur, ablativus singulare in -e terminatur. Irregularia (quae thema -i- non habent): iuvenis, senex, canis, sedes, pater, mater, frater.
 
