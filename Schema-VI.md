@@ -12,7 +12,7 @@ Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt duo numeri et quattuor declinationes: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu.  Neutra substantiva etiam pluralizari per -a possunt, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
+In declinationibus sunt duo numeri et quinque declinationes: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i aut -e, declinatio V sg. -e, pl. -i aut -e. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu.  Neutra substantiva etiam pluralizari per -a possunt, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
