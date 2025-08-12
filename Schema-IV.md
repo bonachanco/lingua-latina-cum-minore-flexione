@@ -26,7 +26,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 ## 5. Pronomina
 
 - Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a (pl. mei); tuo -a; nostro -a; vestro -a; suo -a.
-- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro f. pl. Pronomen neutrum interrogativum est que. Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque. Pronomen distributivum: -que.
+- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro f. pl.; pronomen neutrum interrogativum est que. Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque. Pronomen distributivum: -que.
 - Pronomina demonstrativa: **illo**: sg. illo -a, pl. illi -e. **Isto**, **ipso** declinantur ut **illo**. **Idem** non declinatur.
 
 ## 6. Verba
