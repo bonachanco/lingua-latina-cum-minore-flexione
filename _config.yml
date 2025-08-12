@@ -1,6 +1,6 @@
 title: Lingua Latina cum minore flexione
 description: >- # this means to ignore newlines until "baseurl:"
-  Iterum alia lingua Latina simplificata
+  Alia lingua Latina simplificata (iterum), cum grammatica classica compatibilis
 baseurl: "/lingua-latina-cum-minore-flexione" # the subpath of your site, e.g. /blog
 url: "https://bonachanco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bonachanco
