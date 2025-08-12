@@ -1,6 +1,6 @@
 # Lingua latina cum minore flexione
 
-Vide [Github Pages pro Lingua latina cum minore flexione](https://bonachanco.github.io/lingua-latina-cum-minore-flexione/).
+Vide [Github Pages pro Lingua Latina cum minore flexione](https://bonachanco.github.io/lingua-latina-cum-minore-flexione/).
 
 ## Regulae grammaticae omissae
 
