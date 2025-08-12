@@ -4,7 +4,7 @@ layout: default
 
 # Schema orginale
 
-Omnes declinationes et coniugationes servantur, praeter casus genitivum, dativum atque ablativum, vocem passivam et personas. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
+Omnes declinationes et coniugationes servantur, praeter casus genetivum, dativum atque ablativum, vocem passivam et personas. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
 ## 1. Articulus
 

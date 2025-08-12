@@ -4,7 +4,7 @@ layout: default
 
 # Schema I
 
-Declinationes et coniugationes, praeter vocem passivam et personas, servantur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Dativus et genitivus praepositionibus exprimi possunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
+Declinationes et coniugationes, praeter vocem passivam et personas, servantur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Dativus et genetivus praepositionibus exprimi possunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
 ## 1. Articulus
 
@@ -31,7 +31,7 @@ Regula thematis -i (gen. pl. -ium) declinationis tertiae: aut thema isosyllabicu
 Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -ia secundum regulam thematis in -i. Cum adiectivum genus neutrum habet et pluralis nominativus in -ia terminatur, singularis ablativus omnium generum in -i terminatur. Adiectiva quorum singularis ablativus in -e terminatur et pluralis nominativus accusativusque in -a terminatur, sunt: iuvenis, senex (quae neutri generis non sunt), pauper, dives, vetus, necnon adiectiva comparativa. Gradus comparativus formatur suffixo -ior (masculinum/femininum) et -ius (neutrum), pluralis nominativus neutrius -iora, singularis ablativus -iore. Superlativus formatur suffixo -issimus. Coniunctio gradus comparativi est quam.
 
 - Exempla: bonus, -a, -um; pauper (pluralis nominativus: paupera); acer, acris, acre (pluralis nominativus: acria); omnis, omne (pluralis nominativus: omnia); ingens (pluralis nominativus: ingentia; singularis ablativus: ingenti aut ingente, cum ut nomine adhibetur).
-- Alter -ra -rum, uter -ra -rum, alius, nullus, ullus, solus, totus, unus habent  singularis genitivum in -īus et singularis dativum in -ī. Nemo declinatur ut nemo, nullius, nemini, neminem, nullo.
+- Alter -ra -rum, uter -ra -rum, alius, nullus, ullus, solus, totus, unus habent  singularis genetivum in -īus et singularis dativum in -ī. Nemo declinatur ut nemo, nullius, nemini, neminem, nullo.
   
 ## 4. Numeri
 
@@ -60,7 +60,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 ## 6. Verba
 
-Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genitivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
+Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
 - **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** thema perfectum + -i (deponens: es + ppa.); **plpf.** thema perfectum + -era (deponens: era + ppa.); **perf. fut.** thema perfectum + -eri (deponens: eri + ppa.).
 - **Con. act.**: **praes. ** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
