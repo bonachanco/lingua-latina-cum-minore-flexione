@@ -5,7 +5,7 @@ Vide [Github Pages pro Lingua Latina cum minore flexione](https://bonachanco.git
 ## Regulae grammaticae omissae
 
 | Regula grammatica omissa                             | [Originale](Schema-originale.md) | [I](Schema-I.md) | [II](Schema-II.md) | [III](Schema-III.md) | [IV](Schema-IV.md) | [V](Schema-V.md) | [VI](Schema-VI.md) |
-|------------------------------------------------------|-------|---|----|-----|----|---|----|
+|------------------------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
 | Coniugatio passiva                                   | X     | X | X  | X   | X  | X | X  |
 | Infinitivus passivus                                 |       |   |    | X   | X  | X | X  |
