@@ -71,4 +71,4 @@ Praepositiones semper accusativum regunt.
 ## 9. Exemplum
 
 
-Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotdidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimittere ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimittere ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.

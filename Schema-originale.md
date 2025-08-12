@@ -94,6 +94,6 @@ Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotdidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
+Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
 
 
