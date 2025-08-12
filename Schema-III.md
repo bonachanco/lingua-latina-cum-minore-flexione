@@ -20,7 +20,7 @@ In declinationibus sunt tria genera et duo numeri.
 - Declinatione IV (mfn): sg. -u; pl. -u
 - Declinatione V (mf): sg. -e; pl. -e
 
-Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Nominativus et accusativus sunt identici praeter pronomina "ego", "tu", "is" et "idem". Substantiva neutra a masculinis solum in plurali differunt. Neutra substantiva pluralizantur per -a, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
+Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici praeter pronomina "ego", "tu", "is" et "idem". Substantiva neutra a masculinis solum in plurali differunt. Neutra substantiva pluralizantur per -a, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
