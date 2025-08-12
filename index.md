@@ -17,7 +17,7 @@ layout: default
 ## Regulae grammaticae omissae
 
 | Regula grammatica omissa                             | [Originale](Schema-originale) | [I](Schema-I) | [II](Schema-II) | [III](Schema-III) | [IV](Schema-IV) | [V](Schema-V) | [VI](Schema-VI) |
-|------------------------------------------------------|-------|---|----|-----|----|---|----|
+|------------------------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
 | Coniugatio passiva                                   | X     | X | X  | X   | X  | X | X  |
 | Infinitivus passivus                                 |       |   |    | X   | X  | X | X  |
