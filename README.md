@@ -27,5 +27,5 @@
 | Casus accusativus                                    |       |   |    | X   | X  | X | X  |
 | Genus neutrum grammaticum                            |       |   |    |     | X  | X | X  |
 | Genus masculinum et femininum grammaticum            |       |   |    |     |    | X | X  |
-| Adiectiva declinantur in numero genereque            |       |   |    |     |    | X | X  |
+| Adiectiva declinantur in genere, numeroque           |       |   |    |     |    | X | X  |
 | Numerus pluralis in "-s" terminatur                  |       |   |    | X   | X  |   | X  |
