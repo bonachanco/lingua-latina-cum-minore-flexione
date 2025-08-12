@@ -21,12 +21,10 @@ In declinationibus sunt tria genera, duo numeri, quinque casus (nominativus, gen
 - Declinatio IV (mf): -us -us -ui -um -u; -us -uum -ibus -us -ibus
 - Declinatio IV (n): -u, -us -ui -u -u; -ua -uum -ibus -ua -ibus
 - Declinatio V (mf): -es -ei -ei -em -e; -es -erum -ebus -es -ebus
-- Genetivus per "de", dativus per "ad" saepe exprimitur. 
-- Regula thematis -i (gen. pl. -ium) declinationis tertiae: aut thema isosyllabicum est, aut in duabus consonantibus terminatur (ut urbs), aut in -al vel -ar terminatur. Participium praesens etiam habet nominativum plurale in -ia et ablativum singulare in -i; sed, si ut nomen adhibetur, ablativus singulare in -e terminatur.
-	- Irregularia (quae thema -i- non habent): iuvenis, senex, canis, sedes, pater, mater, frater.
-- Vocativus singularis masculinus in declinatione secunda terminatur in -i (si nominativus in -ius terminatur) aut in -e (si nominativus in -us terminatur).
-- Locativus singularis in declinationibus prima et secunda formatur ut genetivus singulis, in tertiā declinatione ut ablativus singularis; locativus pluralis semper correspondet ablativo plurali.
 
+Genetivus per "de", dativus per "ad" saepe exprimitur. Vocativus singularis masculinus in declinatione secunda terminatur in -i (si nominativus in -ius terminatur) aut in -e (si nominativus in -us terminatur). Locativus singularis in declinationibus prima et secunda formatur ut genetivus singulis, in tertiā declinatione ut ablativus singularis; locativus pluralis semper correspondet ablativo plurali.
+
+Regula thematis -i (gen. pl. -ium) declinationis tertiae: aut thema isosyllabicum est, aut in duabus consonantibus terminatur (ut urbs), aut in -al vel -ar terminatur. Participium praesens etiam habet nominativum plurale in -ia et ablativum singulare in -i; sed, si ut nomen adhibetur, ablativus singulare in -e terminatur. Irregularia (quae thema -i- non habent): iuvenis, senex, canis, sedes, pater, mater, frater.
 
 ## 3. Adiectiva
 
@@ -39,7 +37,6 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 - Cardinalia: unus/-a/-um unius uni unum/-a/-um uno/-a/-o, duo/-ae/-o duorum/-arum/-orum duobus/-abus/-obus duos/-as/-o duobus/-abus/-obus, tres/-ia trium tribus tres/-ia tribus, quattuor, quinque, sex, septem, octo, novem, decem etc. 
 - Ordinalia: primus, secundus, tertius, quartus, quintus, sextus, septimus, octavus, nonus, decimus etc.
-
 
 ## 5. Pronomina
 
@@ -75,16 +72,13 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 - **Gerundium**: thema praesens + -andi -endi -endi -iendi -iendi (gen. -i, dat. -o, acc. -um abl. -o). **Supinum**: thema supinum + acc. -um abl. -u
 - **Irregularia verba**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol; **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **ind. perf.** fui, tuli, es factus, ivi, potui, volui; **con. praes.** si, fera, fia, ea, possi, veli; **part. praes.** ens (vulgariter) ferens, fiens (vulgariter), iens, potens, volens, **supinum** statum (vulgariter), latum, factum, itum, potitum (vulgariter), volitum (vulgariter). 
 
-
 ## 7. Adverbia
 
 Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
 
-
 ## 8. Praepositiones
 
 Praepositiones plerumque accusativum regunt. Quaedam praepositiones regunt casum ablativum: ab, cum, de, ex, pro, sine. Quaedam praepositiones regunt utrumque casum: in, super, sub.
-
 
 ## 9. Exemplum
 

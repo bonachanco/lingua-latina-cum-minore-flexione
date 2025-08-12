@@ -6,15 +6,11 @@ layout: default
 
 Omnes declinationes et coniugationes servantur, praeter casus genitivum, dativum atque ablativum, vocem passivam et personas. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
-
 ## 1. Articulus
-
 
 Nullus est articulus, neque definitus neque indefinitus.
 
-
 ## 2. Substantiva
-
 
 In declinationibus sunt tria genera, duo numeri et duo casus (nom., acc.).
 
@@ -26,22 +22,17 @@ In declinationibus sunt tria genera, duo numeri et duo casus (nom., acc.).
 - Declinatio IV (mf): -us, -um; -us, -us
 - Declinatio IV (n): -u, -u; -ua, -ua
 - Declinatio V (mf): -es, -em; -es, -es
-- Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur.
-- Nomen neutrum tertiae declinationis habet pluralem in -ia, si isosyllabum est vel terminatur in -al, -ar. Participium perfectum etiam habet nominativum pluralem in -ia.
 
+Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Nomen neutrum tertiae declinationis habet pluralem in -ia, si isosyllabum est vel terminatur in -al, -ar. Participium perfectum etiam habet nominativum pluralem in -ia.
 
 ## 3. Adiectiva
 
-
 Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -ia. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bonus -a -um; pauper nt. pl. paupera; acer acris acre nt. pl. acria; omnis omne nt. pl. omnia; ingens nt. pl.  ingentia. Gradus comparativus formatur suffixo -ior (masculinum/femininum) et -ius (neutrum), pluralis nominativus neutrius -iora. Superlativus formatur suffixo -issimus. Coniunctio gradus comparativi est quam.
-
 
 ## 4. Numeri
 
-
 - Cardinalia: unus -a -um, duo duae duo (acc. -os -as -o), tres tria (acc. tres tria), quattuor, quinque, sex, septem, octo, novem, decem etc. 
 - Ordinalia: primus, secundus, tertius, quartus, quintus, sextus, septimus, octavus, nonus, decimus etc.
-
 
 ## 5. Pronomina
 
@@ -64,10 +55,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 	- idem eadem idem (alii sequi is + dem, -m + d- > -nd-)
 	- hic haec hoc; hunc hanc hoc; hi hae haec; hos has haec
 
-
-
 ## 6. Verba
-
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
@@ -81,19 +69,14 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 - **Gerundium**: thema praesens + -andi -endi -endi -iendi -iendi (gen. -i, dat. -o, acc. -um abl. -o). **Supinum**: thema supinum + acc. -um abl. -u
 - **Irregularia verba**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol; **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **ind. perf.** fui, tuli, es factus, ivi, potui, volui; **con. praes.** si, fera, fia, ea, possi, veli; **part. praes.** ens (vulgariter) ferens, fiens (vulgariter), iens, potens, volens, **supinum** statum (vulgariter), latum, factum, itum, potitum (vulgariter), volitum (vulgariter). 
 
-
 ## 7. Adverbia
-
 
 Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
-
 
 Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
 Pater noster, quis es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
-
-

@@ -12,9 +12,7 @@ Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt duo numeri et quattuor declinationes: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Nominativus et accusativus sunt identici, praeter pronomina ego et tu. 
-
-- Neutra substantiva etiam pluralizari per -a possunt, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
+In declinationibus sunt duo numeri et quattuor declinationes: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Nominativus et accusativus sunt identici, praeter pronomina ego et tu.  Neutra substantiva etiam pluralizari per -a possunt, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
@@ -24,27 +22,20 @@ Adiectiva non declinantur et in -e terminantur. Gradus comparativus formatur suf
 - Substantivum abstractum formari potest per adiectivum substantivatum + ipse (ut bono ipse).
 - Pronomen ex adjectivo declinationis pronominis formari potest sine mutatione pro persona masculini generis aut genere ignoto, per suffixum -a pro persona feminina, per -o pro re, et per -i pro personis et rebus, e.g.: une, mei, tue, sue, ille pro persona masculini generis aut genere ignoto, uno, meo, tuo, suo, illo pro re.
 - Adiectivum declinationis I & II vel declinationis pronominis terminari in -a potest ad modificandum substantivum singulare femininum grammaticum.
-	- Substantiva quae terminantur in -ione, -ie (tamen non substantiva derivata ex "die"), -tate, -tute, -tudine praecipue feminina grammatica sunt.
-
+	- Substantiva quae terminantur in -a, -ione, -ie (tamen non substantiva derivata ex "die"), -tate, -tute, -tudine praecipue feminina grammatica sunt.
 
 ## 4. Numeri
-
 
 - Cardinalia: un aut une (pronomine: une - una - uno - uni), duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc. 
 - Ordinalia: prime, secunde, tertie, quarte, quinte, sexte, septime, octave, none, decime etc (declinationis I aut II).
 
-
 ## 5. Pronomina
-
 
 Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: mi aut mei (pronomine: mei - mea - meo - mei); tue; nostre; vestre; sue. Pronomina demonstrativa: ille - illa - illo - illi, iste - ista - isto - isti. Adiectiva demonstrativa (invariantia): ille, iste, ipse, idem.
 
 Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro persona singulari et plurali, que pro re et rebus et ut adiectivum adhibitur. Pronomina et adiectiva indefinita: aliqui alique; quidam quedam; quiquam quequam; quicumque quecumque. Pronomen et adiectivum distributivum: quique queque.
 
-
-
 ## 6. Verba
-
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. Omnia verba deponentia ut non-deponentia adhibentur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in act. voce sit "homo".
 
@@ -58,14 +49,11 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 - **Gerundium**: thema praes. + -ando -endo -endo -iendo -iendo. **Supinum**: thema supinum + -u
 - **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facte, ivi, potui, volui; **part. pass. praes.** state (vulgaliter), late, facte, ite, potite (rare), volite (vulgaliter).
 
-
 ## 7. Adverbia
-
 
 Adiectiva declinationis I et II adverbium formant suffixo -ē; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issimē. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
-
 
 Praepositiones semper accusativum regunt.
 
