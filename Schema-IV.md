@@ -46,15 +46,15 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. Omnia verba deponentia ut non-deponentia adhibentur. Utimur coniunctivis pro optato et oratione irreali. Agens actionis exprimitur per "ab". Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, utitur passiva voce ut activa voce impersonali, quasi subiectum in act. voce sit "homo".
 
-- **Ind. act.**: **praes.** thema praes. + -a -e -e -i -i; **impf.** thema praes. + -ava -eva -eva -eva -iva; **fut.** thema praes. + -ara -era -era -era -ira; **perf.** habe + ppp. aut thema perf. + -i; **plpf.** habeva + ppp. aut thema perf. + -era; **perf. fut.** habera + ppp. aut thema perf. + -eri.
+- **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** habe + ppp. aut thema perf. + -i; **plpf.** habeba + ppp. aut thema perf. + -era; **perf. fut.** habebi + ppp. aut thema perf. + -eri.
 - **Con. act.**: **impf.** thema praes. + -are -ere -ere -ere -ire; **plpf.** habere + ppp. aut thema perf. + -isse. Utimur coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
-- **Ind. et con. pass.**: Ind. ab "esse" (es; esseva; essera; habe stato aut fui; habeva stato aut fuera; habera stato aut fueri) et con. ab "esse" (esse; habere stato aut fuisse) + ppp.
+- **Ind. et con. pass.**: Ind. ab "esse" (es; era; eri; fui; fuera; fueri) et con. ab "esse" (esse; fuisse) + ppp.
 - **Inf. act.**: **praes.** thema praes. + -are -ere -ere -ere -ire; **perf.** habere + ppp. aut thema perf. + -isse; **fut.** esse + pfa.;  **perf. potentiale** fuisse + pfa.
-- **Inf. pass.**: **praes.** esse + ppp.; **perf.** habere stato + ppp. aut fuisse + ppp.; **fut.** iri + ppp. aut esse + gerundivo; **perf. fut.** fore + ppp.
+- **Inf. pass.**: **praes.** esse + ppp.; **perf.** fuisse + ppp.; **fut.** iri + ppp.; **perf. fut.** fore + ppp.
 - **Part. act.**: **praes.** thema praes. + -ante -ente -ente -iente -iente; **fut. (pfa.)** thema supinum + -uro.
 - **Part. pass.**: **perf. (ppp.)** thema supinum + -o; **fut. (gerundivum)** thema praes. + -ando -endo -endo -iendo -iendo.
 - **Gerundium**: thema praes. + -ando -endo -endo -iendo -iendo. **Supinum**: thema supinum + -u
-- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
+- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
 
 
 ## 7. Adverbia

@@ -23,12 +23,12 @@ layout: default
 | Infinitivus passivus                                 |       |   |    | X   | X  | X | X  |
 | Coniugatio in omnes personas, 3. pres. sing. excepta | X     | X | X  | X   | X  | X | X  |
 | Coniugatio in 3. pers. sing.                         |       |   |    | X   | X  | X | X  |
-| Classicus indicativus imperfectus et futurus         |       |   |    | X   | X  | X | X  |
 | Duo casus praepositionis                             | X     |   |    | X   | X  | X | X  |
 | Casus genetivus & dativus                            | X     | X | X  | X   | X  | X | X  |
 | Casus ablativus                                      | X     |   | X  | X   | X  | X | X  |
 | Casus accusativus                                    |       |   |    | X   | X  | X | X  |
-| Genus neutrum                                        |       |   |    |     | X  | X |    |
-| Declinatio adiectiva                                 |       |   |    |     |    | X | X  |
+| Genus neutrum grammaticum                            |       |   |    |     | X  | X | X  |
+| Genus masculinum et femininum grammaticum            |       |   |    |     |    | X | X  |
+| Adiectiva declinantur in numero genereque            |       |   |    |     |    | X | X  |
 | Numerus pluralis in "-s" terminatur                  |       |   |    | X   | X  |   | X  |
 
