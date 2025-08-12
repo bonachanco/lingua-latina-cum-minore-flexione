@@ -66,7 +66,7 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genitivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
 - **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** thema perfectum + -i (deponens: es + ppa.); **plpf.** thema perfectum + -era (deponens: era + ppa.); **perf. fut.** thema perfectum + -eri (deponens: eri + ppa.).
-- **Con. act.**: **praes. ** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Utimur saepe coniunctivo imperfecto et plusquamperfecto pro coniunctivo praesenti et perfecto.
+- **Con. act.**: **praes. ** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 - **Ind. et con. pass. verborum non-deponentium (vulgariter)**: indicativi et coniunctivi de "esse" (i.e. es era eri fui fuera fueri si esse fueri fuisse) + ppp. 
 - **Inf. act.**: **praes.** thema praesens + -are -ere -ere -ere -ire (deponens: thema praesens + -ari -eri -i -i -iri); **perf.** thema perfectum + -isse (deponens: esse + ppp.) ; **fut.** esse + pfa.; **perf. fut. verborum deponentium** fore + ppa.; **perf. potentialis** fuisse + pfa.
 - **Inf. pass. verborum non-deponentium**: **praes.** thema praesens + -ari -eri -i -i -iri; **perf.** esse + ppp.; **fut.** iri + ppp.; **perf. fut. verborum non-deponentium** fore + ppp.
@@ -78,7 +78,7 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 
 ## 7. Adverbia
 
-Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbiorum suffixa, quibus utimur sine mutatione, ut "solum".
+Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
 
 
 ## 8. Praepositiones
