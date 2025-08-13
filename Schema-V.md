@@ -4,7 +4,7 @@ layout: default
 
 # Schema V
 
-Casus, genera et declinationes substantivorum ac adiectivorum tolluntur. Coniugationes simplificantur, sed themata verborum servantur.
+Genus neutrum et declinationes substantivorum tolluntur, et conjugationes simpliciores fiunt.
 
 ## 1. Articulus
 
@@ -12,25 +12,22 @@ Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt duo numeri et quattuor declinationes: declinatio I sg. -a, pl. -as, declinatio II sg. -o pl. -os, declinatio III sg. -e pl. -es, declinatio IV sg. -u, pl. -us. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu. 
+In declinationibus sunt duo genera (masculinum et femininum) et duo numeri: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i aut -e, declinatio V sg. -e, pl. -i aut -e. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu. 
 
 ## 3. Adiectiva
 
-Adiectiva non declinantur et in -e terminantur. Gradus comparativus formatur suffixo -iore. Superlativus formatur suffixo -issime. Coniunctio gradus comparativi est quam. Suffixum adiectivi -e omitti potest, praesertim pro -ce (ut classic, graec). 
-
-- Substantivum ex adiectivo declinationis III formari potest sine mutatione. Substantivum ex adiectivo declinationis I et II, et pronomen ex adjectivo declinationis pronominis, formari potest per suffixum -o pro persona singulari masculini generis vel re, et per -a pro persona singulari feminini generis. Exempli gratia: bono, uno, alio.
-- Substantivum abstractum formari potest per adiectivum substantivatum + ipse (ut bono ipse).
+Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -i. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bono -a -i -e; paupere -i; acre -i; omne -i; ingente -i. Gradus comparativus formatur suffixo -iore. Superlativus formatur suffixo -issimo. Coniunctio gradus comparativi est quam.
 
 ## 4. Numeri
 
-- Cardinalia: un (pronomine: uno - una - unos - unas), duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
-- Ordinalia: prime, secunde, tertie, quarte, quinte, sexte, septime, octave, none, decime etc (declinationis I aut II).
+- Cardinalia: uno -a, duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
+- Ordinalia: primo, secundo, tertio, quarto, quinto, sexto, septimo, octavo, nono, decimo etc.
 
 ## 5. Pronomina
 
-Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: mi (pronomine: meo - mea - meos - meas); tue; nostre; vestre; sue. Pronomina demonstrativa: sg. m. ille iste f. illa ista, nt. illo isto; pl. illes illas illos istes istas istos. Adiectiva demonstrativa (invariantia): ille, iste, ipse, idem.
-
-Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro persona singulari et plurali, que pro re et rebus et ut adiectivum adhibitur. Pronomina et adiectiva indefinita: aliqui alique; quidam quedam; quiquam quequam; quicumque quecumque. Pronomen et adiectivum distributivum: quique queque.
+- Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a (pl. mei); tuo -a; nostro -a; vestro -a; suo -a.
+- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro f. pl.; pronomen neutrum interrogativum est que. Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque. Pronomen distributivum: -que.
+- Pronomina demonstrativa: **illo**: sg. illo -a, pl. illi -e. **Isto**, **ipso** declinantur ut **illo**. **Idem** non declinatur.
 
 ## 6. Verba
 
@@ -48,7 +45,7 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 
 ## 7. Adverbia
 
-Adiectiva declinationis I et II adverbium formant suffixo -ē; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issimē. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
+Adiectiva declinationis I et II adverbium formant suffixo -e; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
 
@@ -56,4 +53,4 @@ Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimitti ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotidiano ad nos hodie, et dimittere debiti nostri ad nos, et nos dimitti ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.

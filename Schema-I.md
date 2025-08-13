@@ -4,7 +4,7 @@ layout: default
 
 # Schema I
 
-Declinationes et coniugationes, praeter vocem passivam et personas, servantur. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Dativus et genetivus praepositionibus exprimi possunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
+Declinationes et coniugationes servantur. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Dativus et genetivus praepositionibus exprimi possunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
 ## 1. Articulus
 

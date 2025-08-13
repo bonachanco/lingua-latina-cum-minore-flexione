@@ -4,7 +4,7 @@ layout: default
 
 # Schema IV
 
-Genus neutrum et declinationes substantivorum tolluntur, et conjugationes simpliciores fiunt.
+Casus tolluntur, sed tria genera servantur, coniugationesque simplificantur.
 
 ## 1. Articulus
 
@@ -12,22 +12,34 @@ Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt duo genera (masculinum et femininum) et duo numeri: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i aut -e, declinatio V sg. -e, pl. -i aut -e. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu. 
+In declinationibus sunt tria genera et duo numeri.
+
+- Declinatione I (mf): sg. -a; pl. -e
+- Declinatione II (mn): sg. -o; pl. -i (m) -a (n)
+- Declinatione III (mfn): sg. -e; pl. -i (mf) -i/-a (n)
+- Declinatione IV (mfn): sg. -u; pl. -i aut -u
+- Declinatione V (mf): sg. -e; pl. -i aue -e
+
+Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici praeter pronomina "ego", "tu", "is" et "idem". Substantiva neutra a masculinis solum in plurali differunt. Neutra substantiva pluralizantur per -a, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
-Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -i. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bono -a -i -e; paupere -i; acre -i; omne -i; ingente -i. Gradus comparativus formatur suffixo -iore. Superlativus formatur suffixo -issimo. Coniunctio gradus comparativi est quam.
+Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -i. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bono -a -o -i -e -a; paupere -i -a; acre -i; omne -i; ingente -i. Gradus comparativus formatur suffixo -iore, pluralis nominativus neutrius -iora. Superlativus formatur suffixo -issimo. Coniunctio gradus comparativi est quam.
 
 ## 4. Numeri
 
-- Cardinalia: uno -a, duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
+- Cardinalia: uno -a -o, duo -e -o, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
 - Ordinalia: primo, secundo, tertio, quarto, quinto, sexto, septimo, octavo, nono, decimo etc.
 
 ## 5. Pronomina
 
-- Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a (pl. mei); tuo -a; nostro -a; vestro -a; suo -a.
-- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro f. pl.; pronomen neutrum interrogativum est que. Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque. Pronomen distributivum: -que.
-- Pronomina demonstrativa: **illo**: sg. illo -a, pl. illi -e. **Isto**, **ipso** declinantur ut **illo**. **Idem** non declinatur.
+- Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a -o (pl. mei); tuo -a -o; nostro -a -o; vestro -a -o; suo -a -o.
+- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro nt. sg. & nt. pl. & f. pl.
+	- Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque.
+	- Pronomen et adiectivum distributivum: -que.
+- Pronomina demonstrativa:
+	- **Ille**: m. sg. nom. ille (illo + subiectivo), acc. illo, pl. illi; f. sg. illa, pl. ille; nt. sg. illo, pl. illa. **Iste**, **ipse** declinantur ut **ille**.
+	- **Is**: m. sg. nom. is, acc. eo, pl. ei; f. sg. ea, pl. ei; nt. sg. nom. & acc. id, abl. eo; pl. ea. **Idem** declinatur ut **is**.
 
 ## 6. Verba
 
@@ -49,8 +61,8 @@ Adiectiva declinationis I et II adverbium formant suffixo -e; adiectiva declinat
 
 ## 8. Praepositiones
 
-Praepositiones semper accusativum regunt.
+Praepositiones plerumque accusativum regunt. Quaedam praepositiones exigunt eo pro id. Quaedam praepositiones exigunt utrumque eo et id: in, super, sub.
 
 ## 9. Exemplum
 
-Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotidiano ad nos hodie, et dimittere debiti nostri ad nos, et nos dimitti ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotidiano ad nos hodie, et dimittere debita nostra ad nos, et nos dimitti ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.

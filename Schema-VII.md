@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Schema VI
+# Schema VII
 
-Casus, genera et declinationes substantivorum ac adiectivorum tolluntur. Coniugationes simplificantur, sed themata verborum servantur.
+Casus, genera et declinationes adiectivorum removentur, sed vestigium generis neutri pluralis servatur. Coniugationes simplificantur, sed themata verborum servantur.
 
 ## 1. Articulus
 
@@ -12,23 +12,26 @@ Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt duo numeri et quattuor declinationes: declinatio I sg. -a, pl. -as, declinatio II sg. -o pl. -os, declinatio III sg. -e pl. -es, declinatio IV sg. -u, pl. -us. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu. 
+In declinationibus sunt duo numeri et quinque declinationes: declinatio I sg. -a, pl. -e, declinatio II sg. -o pl. -i, declinatio III sg. -e pl. -i, declinatio IV sg. -u, pl. -i aut -e, declinatio V sg. -e, pl. -i aut -e. Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici, praeter pronomina ego et tu.  Neutra substantiva etiam pluralizari per -a possunt, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
 Adiectiva non declinantur et in -e terminantur. Gradus comparativus formatur suffixo -iore. Superlativus formatur suffixo -issime. Coniunctio gradus comparativi est quam. Suffixum adiectivi -e omitti potest, praesertim pro -ce (ut classic, graec). 
 
-- Substantivum ex adiectivo declinationis III formari potest sine mutatione. Substantivum ex adiectivo declinationis I et II, et pronomen ex adjectivo declinationis pronominis, formari potest per suffixum -o pro persona singulari masculini generis vel re, et per -a pro persona singulari feminini generis. Exempli gratia: bono, uno, alio.
+- Substantivum ex adiectivo declinationis III formari potest sine mutatione. Substantivum ex adiectivo declinationis I et II formari potest per suffixum -o pro persona singulari masculini generis vel re, et per -a pro persona singulari feminini generis.
 - Substantivum abstractum formari potest per adiectivum substantivatum + ipse (ut bono ipse).
+- Pronomen ex adjectivo declinationis pronominis formari potest sine mutatione pro persona masculini generis aut genere ignoto, per suffixum -a pro persona feminina, per -o pro re, et per -i pro personis et rebus, e.g.: une, mei, tue, sue, ille pro persona masculini generis aut genere ignoto, uno, meo, tuo, suo, illo pro re.
+- Adiectivum declinationis I & II vel declinationis pronominis terminari in -a potest ad modificandum substantivum singulare femininum grammaticum.
+	- Substantiva quae terminantur in -a, -ione, -ie (tamen non substantiva derivata ex "die"), -tate, -tute, -tudine praecipue feminina grammatica sunt.
 
 ## 4. Numeri
 
-- Cardinalia: un (pronomine: uno - una - unos - unas), duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
+- Cardinalia: un aut une (pronomine: une - una - uno - uni), duo, tri, quattuor, quinque, sex, septem, octo, novem, decem etc. 
 - Ordinalia: prime, secunde, tertie, quarte, quinte, sexte, septime, octave, none, decime etc (declinationis I aut II).
 
 ## 5. Pronomina
 
-Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: mi (pronomine: meo - mea - meos - meas); tue; nostre; vestre; sue. Pronomina demonstrativa: sg. m. ille iste f. illa ista, nt. illo isto; pl. illes illas illos istes istas istos. Adiectiva demonstrativa (invariantia): ille, iste, ipse, idem.
+Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: mi aut mei (pronomine: mei - mea - meo - mei); tue; nostre; vestre; sue. Pronomina demonstrativa: ille - illa - illo - illi, iste - ista - isto - isti. Adiectiva demonstrativa (invariantia): ille, iste, ipse, idem.
 
 Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro persona singulari et plurali, que pro re et rebus et ut adiectivum adhibitur. Pronomina et adiectiva indefinita: aliqui alique; quidam quedam; quiquam quequam; quicumque quecumque. Pronomen et adiectivum distributivum: quique queque.
 
@@ -56,4 +59,4 @@ Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimitti ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+Patro nostre, qui es in caeli, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debita nostre ad nos, et nos dimitti ad debitori nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
