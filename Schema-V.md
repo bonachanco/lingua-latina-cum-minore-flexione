@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schema V
 
 Genus neutrum et declinationes substantivorum tolluntur, et conjugationes simpliciores fiunt.

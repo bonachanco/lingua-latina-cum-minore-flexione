@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schema III (quod schema originale est)
 
 Declinationes et coniugationes servantur, praeter casus genetivum, dativum atque ablativum. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.

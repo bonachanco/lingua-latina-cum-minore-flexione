@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schema VI
 
 Casus, genera et declinationes substantivorum ac adiectivorum tolluntur. Coniugationes simplificantur, sed themata verborum servantur.

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schema IV
 
 Casus tolluntur, sed tria genera servantur, coniugationesque simplificantur.

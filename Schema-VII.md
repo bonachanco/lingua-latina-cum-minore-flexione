@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schema VII
 
 Casus, genera et declinationes adiectivorum removentur, sed vestigium generis neutri pluralis servatur. Coniugationes simplificantur, sed themata verborum servantur.

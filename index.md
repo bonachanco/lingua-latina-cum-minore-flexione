@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Cui schema simile est?
 
 | Schema           | simile est linguae ...  | Exemplum           |
