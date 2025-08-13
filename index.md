@@ -22,7 +22,7 @@ layout: default
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
 | Coniugatio in personas et coniugatio passiva         |       |   |    | X   | X  | X | X  |
 | Duo casus praepositionis                             | X     |   |    | X   | X  | X | X  |
-| Casus genetivus & dativus                            | X     | X | X  | X   | X  | X | X  |
+| Casus genetivus & dativus                            | X     |   | X  | X   | X  | X | X  |
 | Casus ablativus                                      | X     |   | X  | X   | X  | X | X  |
 | Casus accusativus                                    |       |   |    | X   | X  | X | X  |
 | Genus neutrum grammaticum                            |       |   |    |     | X  | X | X  |
