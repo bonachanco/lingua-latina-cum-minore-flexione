@@ -17,14 +17,15 @@ layout: default
 ## Regulae grammaticae omissae
 
 | Regula omissa | [I](Schema-I) | [II](Schema-II) | [III](Schema-III) | [IV](Schema-IV) | [V](Schema-V) | [VI](Schema-VI) | [VII](Schema-VII) |
-|------------------------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
-| Imperativus                                          | X     | X | X  | X   | X  | X | X  |
-| Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
-| Casus genetivus, dativus & ablativus                 |       | X | X  | X   | X  | X | X  |
-| Duo casus praepositionis                             |       |   | X  | X   | X  | X | X  |
-| Coniugatio in personas et coniugatio passiva         |       |   |    | X   | X  | X | X  |
-| Casus accusativus                                    |       |   |    | X   | X  | X | X  |
-| Genus neutrum grammaticum                            |       |   |    |     | X  | X | X  |
-| Genus masculinum et femininum grammaticum            |       |   |    |     |    | X | X  |
-| Adiectiva declinantur in genere, numeroque           |       |   |    |     |    | X | X  |
-| Genus pronominum in numero plurali                   |       |   |    |     |    |   | X  |
+|-----------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
+| Imperativus                             | X     | X | X  | X   | X  | X | X  |
+| Coniunctivus praes. et perf.            | X     | X | X  | X   | X  | X | X  |
+| Casus gen., dat. & abl.                 |       | X | X  | X   | X  | X | X  |
+| Duo casus praepositionis                |       |   | X  | X   | X  | X | X  |
+| Coniugatio in personas                  |       |   |    | X   | X  | X | X  |
+| Coniugatio passiva & deponentia         |       |   |    | X   | X  | X | X  |
+| Casus accusativus                       |       |   |    | X   | X  | X | X  |
+| Genus neutrum grammaticum               |       |   |    |     | X  | X | X  |
+| Genus masculinum et femininum           |       |   |    |     |    | X | X  |
+| Declinatio adiectivi                    |       |   |    |     |    | X | X  |
+| Genus pronominum in numero plurali      |       |   |    |     |    |   | X  |
