@@ -1,4 +1,5 @@
-Vocabularium ex Unua Libro
+## Vocabularium ex Unua Libro
+
 A
 
 a – (adjectival ending) – (no Latin equivalent)
