@@ -64,11 +64,11 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (e.g. hab-, hab
 
 - **Infixa indictivi et coniunctivi thematis praesentis**: **ind. praes.** -a- -e- -u- -iu- -iu-; **ind. impf.** -aba- -eba- -eba- -ieba- -ieba- ; **ind. fut.** -abu-, -ebu-, -e-, -ie-, -ie-; **con. praes.**  -e- -ea- -a- -ia- -ia-; **con. impf.** -are- -ere- -ere- -ere- -ire-. Infixa -u-/-iu- et -abu-/-ebu- mutantur in -i-/-i- et -abi-/-ebi- cum terminationes praeter -nt et -ntur sequuntur. 
 
-- **Infix indictivi et coniunctivi thematis perfecti pro voce activa**: **ind. perf.** -i-; **ind. plpf.** -era-; **ind. perf. fut.** -eri-; **con. perf.** -eri-; **con. plpf.** -isse-.
+- **Infix indictivi et coniunctivi thematis perfecti pro voce activa**: **ind. perf.** -; **ind. plpf.** -era-; **ind. perf. fut.** -eri-; **con. perf.** -eri-; **con. plpf.** -isse-.
 
-- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur; **ind. perf. act.** -i -isti -t -imus -istis -erunt.
+- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur; **ind. perf. act.** -i -isti -it -imus -istis -erunt.
 
-  - Regulae optionales: **ind. praes. act. 1sg.** -o -o -o -io -io; **ind. praes. dep. et pass. 1sg.** -or -or -or -ior -ior; **ind. fut. act. 1sg.** -abo -ebo -am -iam -iam; **ind. fut. dep. et pass.  1sg.** -abor -ebor -ar -iar -iar; **ind. perf. fut. act.  1sg.** -ero. Terminatio -eris pro -ris in **omnibus tertiis coniugationibus ind. praes.** adhibetur.
+  - Regulae optionales: **ind. praes. act. 1sg.** -o -o -o -io -io; **ind. praes. dep. & pass. 1sg.** -or -or -or -ior -ior; **ind. fut. act. 1sg.** -abo -ebo -am -iam -iam; **ind. fut. dep. & pass. 1sg.** -abor -ebor -ar -iar -iar; **ind. perf. fut. act.  1sg.** -ero; **ind. praes. dep. & pass. 2sg. pro coni. III -ere (-o/-io)**: -eris. 
 
 - **Circumlocutio v. dep. et vocis pass.**: **ind. perf.** sum etc. + ppa./ppp.; **ind. plpf.** eram etc. + ppa./ppp.; **ind. perf. fut.** ero etc. + ppa./ppp.; **con. perf.** sim etc. + ppa./ppp.; **con. plpf.** essem etc. + ppa./ppp.
 
