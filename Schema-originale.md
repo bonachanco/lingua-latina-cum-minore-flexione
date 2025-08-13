@@ -4,7 +4,7 @@ layout: default
 
 # Schema orginale
 
-Omnes declinationes et coniugationes servantur, praeter casus genetivum, dativum atque ablativum, vocem passivam et personas. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
+Omnes declinationes et coniugationes servantur, praeter casus genetivum, dativum atque ablativum, vocem passivam et personas. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones accusativum solum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
 
 ## 1. Articulus
 
@@ -57,17 +57,31 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 ## 6. Verba
 
-Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Verba omnia in tertia persona singulari terminantur -t. Verba omnia deponentia coniugantur sicut non-deponentia in indicativo et coniunctivo praesenti, imperfecto, futuro. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
+Tria themata sunt in lingua Latina: praesens, perfecta et supina (e.g. hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. 
 
-- **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** thema perfectum + -i (deponens: es + ppa.); **plpf.** thema perfectum + -era (deponens: era + ppa.); **perf. fut.** thema perfectum + -eri (deponens: eri + ppa.).
-- **Con. act.**: **praes.** thema praesens + -e -ea -a -ia -ia; **impf.** thema praesens + -are -ere -ere -ere -ire; **perf.** thema perfectum + -eri (deponens: si + ppa.); **plpf.** thema perfectum + -isse (deponens: esse + ppa.). Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
-- **Ind. et con. pass. verborum non-deponentium (vulgariter)**: indicativi et coniunctivi de "esse" (i.e. es era eri fui fuera fueri si esse fueri fuisse) + ppp. 
-- **Inf. act.**: **praes.** thema praesens + -are -ere -ere -ere -ire (deponens: thema praesens + -ari -eri -i -i -iri); **perf.** thema perfectum + -isse (deponens: esse + ppp.) ; **fut.** esse + pfa.; **perf. fut. verborum deponentium** fore + ppa.; **perf. potentialis** fuisse + pfa.
-- **Inf. pass. verborum non-deponentium**: **praes.** thema praesens + -ari -eri -i -i -iri; **perf.** esse + ppp.; **fut.** iri + ppp.; **perf. fut. verborum non-deponentium** fore + ppp.
-- **Part. act.**: **praes.** thema praesens + -ans -ens -ens -iens -iens; **perf. (ppa.) verborum deponentium** thema supinum + -us; **fut. (pfa.)** thema supinum + -urus.
-- **Part. pass.**: **perf. (ppp.) verborum non-deponentium** thema supinum + -us; **fut. (gerundivum)** thema praesens + -andus -endus -endus -iendus -iendus
+- **Infixa indictivi et coniunctivi thematis praesentis**: **ind. praes.** -a- -e- -i- -i- -i-; **ind. impf.** -aba- -eba- -eba- -ieba- -ieba- ; **ind. fut.** -abi-, -ebi-, -e-, -ie-, -ie-; **con. praes.**  -e- -ea- -a- -ia- -ia-; **con. impf.** -are- -ere- -ere- -ere- -ire-.
+
+- **Infix indictivi et coniunctivi thematis perfecti pro voce activa**: **ind. perf.** -i-; **ind. plpf.** -era-; **ind. perf. fut.** -eri-; **con. perf.** -eri-; **con. plpf.** -isse-.
+
+- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur. 
+
+  - Regulae optionales: **ind. perf. act.** -i -isti -t -imus -istis -erunt; **1. p. s. ind. praes. act.** -o -o -o -io -io; **dep. et pass.** -or -or -or -ior -ior; **1. p. s. ind. fut. act.** -abo -ebo -am -iam -iam; **dep. et pass.** -abor -ebor -ar -iar -iar; **1. p. s. ind. perf. fut. act.** -ero. Infixa -i-/-i-/-i- in **ind. praes.** et -abi-/-ebi- mutantur in -u-/-iu-/-iu- et -abu-/-ebu- cum -nt et -ntur sequuntur. Terminatio -eris pro -ris in **omnibus tertiis coniugationibus ind. praes.** adhibetur.
+
+- **Circumlocutio v. dep. et vocis pass.**: **ind. perf.** sum etc. + ppa./ppp.; **ind. plpf.** eram etc. + ppa./ppp.; **ind. perf. fut.** ero etc. + ppa./ppp.; **con. perf.** sim etc. + ppa./ppp.; **con. plpf.** essem etc. + ppa./ppp.
+
+- **Inf. act.**: **praes.** thema praesens + -are -ere -ere -ere -ire; (**v. dep.** thema praesens + -ari -eri -i -i -iri); **perf.** thema perfectum + -isse; **fut.** esse + pfa.; **perf. fut. v. dep.** fore + ppa.; **perf. potentialis** fuisse + pfa.
+
+- **Inf. pass. v. non-dep.**: **praes.** thema praesens + -ari -eri -i -i -iri; **perf.** esse + ppp.; **fut.** iri + ppp.; **perf. fut. v. non-dep.** fore + ppp.
+
+- **Part. act.**: **praes.** thema praesens + -ans -ens -ens -iens -iens; **perf. (ppa.) v. dep.** thema supinum + -us; **fut. (pfa.)** thema supinum + -urus.
+
+- **Part. pass.**: **perf. (ppp.) v. non-dep.** thema supinum + -us; **fut. (gerundivum)** thema praesens + -andus -endus -endus -iendus -iendus
+
 - **Gerundium**: thema praesens + -andi -endi -endi -iendi -iendi (gen. -i, dat. -o, acc. -um abl. -o). **Supinum**: thema supinum + acc. -um abl. -u
-- **Irregularia verba**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol; **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **ind. perf.** fui, tuli, es factus, ivi, potui, volui; **con. praes.** si, fera, fia, ea, possi, veli; **part. praes.** ens (vulgariter) ferens, fiens (vulgariter), iens, potens, volens, **supinum** statum (vulgariter), latum, factum, itum, potitum (vulgariter), volitum (vulgariter). 
+
+- **Irregularia verba**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** sum/es/est/sumus/estis/sunt, fero/fers/fert/ferimus/feritis/ferunt, fio/fit/fiunt etc., eo/it/eunt, possum etc., volo/vis/volt/volumus/voltis/volunt; **ind. impf.** eram, ferebam, fiebam, ibam, poteram, volebam; **ind. fut.** ero/erit/erunt, feram/feret/ferent, fie, ibo/ibit/ibunt, potero, volam/volet/volent; **ind. perf.** fui, tuli, sum factus, ivi, potui, volui; **con. praes.** sim, feram, fiam, eam, possim, velim; **part. praes.** ens (vulgariter) ferens, fiens (vulgariter), iens, potens, volens, **supinum** statum (vulgariter), latum, factum, itum, potitum (vulgariter), volitum (vulgariter). 
+
+Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
 
 ## 7. Adverbia
 
@@ -79,4 +93,4 @@ Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Pater noster, qui es in caelos, nomen tuum esset sanctificatum. Regnum tuum adveniret, voluntas tua esset facta, sicut in caelum et in terram. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos, et nos dimittere ad debitores nostros. Et ne inducere nos in tentationem, sed liberare nos a malum. Amen.
+Pater noster, qui es in caelos, nomen tuum sanctificaretur. Regnum tuum adveniret, voluntas tua fieret, sicut in caelum et in terram. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittimus ad debitores nostros. Et ne induceres nos in tentationem, sed liberare nos a malum. Amen.

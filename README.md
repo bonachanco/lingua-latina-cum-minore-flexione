@@ -6,11 +6,9 @@ Vide [Github Pages pro Lingua Latina cum minore flexione](https://bonachanco.git
 
 | Regula grammatica omissa                             | [Originale](Schema-originale.md) | [I](Schema-I.md) | [II](Schema-II.md) | [III](Schema-III.md) | [IV](Schema-IV.md) | [V](Schema-V.md) | [VI](Schema-VI.md) |
 |------------------------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
+| Imperativus                                          | X     | X | X  | X   | X  | X | X  |
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
-| Coniugatio passiva                                   | X     | X | X  | X   | X  | X | X  |
-| Infinitivus passivus                                 |       |   |    | X   | X  | X | X  |
-| Coniugatio in omnes personas, 3. pres. sing. excepta | X     | X | X  | X   | X  | X | X  |
-| Coniugatio in 3. pers. sing.                         |       |   |    | X   | X  | X | X  |
+| Coniugatio in personas et coniugatio passiva         |       |   |    | X   | X  | X | X  |
 | Duo casus praepositionis                             | X     |   |    | X   | X  | X | X  |
 | Casus genetivus & dativus                            | X     | X | X  | X   | X  | X | X  |
 | Casus ablativus                                      | X     |   | X  | X   | X  | X | X  |
