@@ -62,13 +62,13 @@ Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatio
 
 Tria themata sunt in lingua Latina: praesens, perfecta et supina (e.g. hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et primam personam indicativus praesentis: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-o). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. 
 
-- **Infixa indictivi et coniunctivi thematis praesentis**: **ind. praes.** -a- -e- -i- -i- -i-; **ind. impf.** -aba- -eba- -eba- -ieba- -ieba- ; **ind. fut.** -abi-, -ebi-, -e-, -ie-, -ie-; **con. praes.**  -e- -ea- -a- -ia- -ia-; **con. impf.** -are- -ere- -ere- -ere- -ire-.
+- **Infixa indictivi et coniunctivi thematis praesentis**: **ind. praes.** -a- -e- -u- -iu- -iu-; **ind. impf.** -aba- -eba- -eba- -ieba- -ieba- ; **ind. fut.** -abu-, -ebu-, -e-, -ie-, -ie-; **con. praes.**  -e- -ea- -a- -ia- -ia-; **con. impf.** -are- -ere- -ere- -ere- -ire-. Infixa -u-/-iu- et -abu-/-ebu- mutantur in -i-/-i- et -abi-/-ebi- cum terminationes praeter -nt et -ntur sequuntur. 
 
 - **Infix indictivi et coniunctivi thematis perfecti pro voce activa**: **ind. perf.** -i-; **ind. plpf.** -era-; **ind. perf. fut.** -eri-; **con. perf.** -eri-; **con. plpf.** -isse-.
 
-- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur. 
+- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur; **ind. perf. act.** -i -isti -t -imus -istis -erunt.
 
-  - Regulae optionales: **ind. perf. act.** -i -isti -t -imus -istis -erunt; **1. p. s. ind. praes. act.** -o -o -o -io -io; **dep. et pass.** -or -or -or -ior -ior; **1. p. s. ind. fut. act.** -abo -ebo -am -iam -iam; **dep. et pass.** -abor -ebor -ar -iar -iar; **1. p. s. ind. perf. fut. act.** -ero. Infixa -i-/-i-/-i- in **ind. praes.** et -abi-/-ebi- mutantur in -u-/-iu-/-iu- et -abu-/-ebu- cum -nt et -ntur sequuntur. Terminatio -eris pro -ris in **omnibus tertiis coniugationibus ind. praes.** adhibetur.
+  - Regulae optionales: **1. p. s. ind. praes. act.** -o -o -o -io -io; **dep. et pass.** -or -or -or -ior -ior; **1. p. s. ind. fut. act.** -abo -ebo -am -iam -iam; **dep. et pass.** -abor -ebor -ar -iar -iar; **1. p. s. ind. perf. fut. act.** -ero. Terminatio -eris pro -ris in **omnibus tertiis coniugationibus ind. praes.** adhibetur.
 
 - **Circumlocutio v. dep. et vocis pass.**: **ind. perf.** sum etc. + ppa./ppp.; **ind. plpf.** eram etc. + ppa./ppp.; **ind. perf. fut.** ero etc. + ppa./ppp.; **con. perf.** sim etc. + ppa./ppp.; **con. plpf.** essem etc. + ppa./ppp.
 
