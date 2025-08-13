@@ -16,7 +16,7 @@ layout: default
 
 ## Regulae grammaticae omissae
 
-| Regula grammatica omissa                             | [I](Schema-I) | [II](Schema-II) | [III](Schema-III) | [IV](Schema-IV) | [V](Schema-V) | [VI](Schema-VI) | [VII](Schema-VII) |
+| Regula omissa | [I](Schema-I) | [II](Schema-II) | [III](Schema-III) | [IV](Schema-IV) | [V](Schema-V) | [VI](Schema-VI) | [VII](Schema-VII) |
 |------------------------------------------------------|:-----:|:-:|:--:|:---:|:--:|:-:|:--:|
 | Imperativus                                          | X     | X | X  | X   | X  | X | X  |
 | Coniunctivus praesens et perfectus                   | X     | X | X  | X   | X  | X | X  |
