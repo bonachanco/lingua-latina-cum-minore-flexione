@@ -40,10 +40,10 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 - **Ind. et con. pass.**: Ind. ab "esse" (es; era; eri; fui; fuera; fueri) et con. ab "esse" (esse; fuisse) + ppp.
 - **Inf. act.**: **praes.** thema praes. + -are -ere -ere -ere -ire; **perf.** habere + ppp. aut thema perf. + -isse; **fut.** esse + pfa.;  **perf. potentiale** fuisse + pfa.
 - **Inf. pass.**: **praes.** esse + ppp.; **perf.** fuisse + ppp.; **fut.** iri + ppp.; **perf. fut.** fore + ppp.
-- **Part. act.**: **praes.** thema praes. + -ante -ente -ente -iente -iente; **fut. (pfa.)** thema supinum + -uro.
-- **Part. pass.**: **perf. (ppp.)** thema supinum + -o; **fut. (gerundivum)** thema praes. + -ando -endo -endo -iendo -iendo.
+- **Part. act.**: **praes.** thema praes. + -ante -ente -ente -iente -iente (decl. III); **fut. (pfa.)** thema supinum + -ure (decl. I & II).
+- **Part. pass.**: **perf. (ppp.)** thema supinum + -e (decl. I & II); **fut. (gerundivum)** thema praes. + -ande -ende -ende -iende -iende (decl. I & II).
 - **Gerundium**: thema praes. + -ando -endo -endo -iendo -iendo. **Supinum**: thema supinum + -u
-- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
+- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** state (vulgaliter), late, facte, ite, potite (rare), volite (vulgaliter).
 
 ## 7. Adverbia
 
