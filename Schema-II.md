@@ -61,7 +61,7 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (e.g. hab-, hab
 
 - **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur; **ind. perf. act.** -i -isti -it -imus -istis -erunt.
 
-  - Regulae optionales: **ind. praes. act. 1sg.** -o -o -o -io -io; **ind. praes. dep. & pass. 1sg.** -or -or -or -ior -ior; **ind. fut. act. 1sg.** -abo -ebo -am -iam -iam; **ind. fut. dep. & pass. 1sg.** -abor -ebor -ar -iar -iar; **ind. perf. fut. act.  1sg.** -ero; **ind. praes. dep. & pass. 2sg. pro coni. III -ere (-o/-io)**: -eris. 
+- **Exceptiones infxorum & terminationum**: **ind. praes. act. 1sg.** -o -eo -o -io -io; **dep. & pass. 1sg.** -or -eor -or -ior -ior; **2sg. in coni. III** -eris -eris; **ind. fut. act. 1sg.** -abo -ebo -am -iam -iam; **dep. & pass. 1sg.** -abor -ebor -ar -iar -iar; **2sg. in coni. I & II** -aberis -eberis; **ind. perf. fut. act. 1sg.** -ero.
 
 - **Circumlocutio v. dep. et vocis pass.**: **ind. perf.** sum etc. + ppa./ppp.; **ind. plpf.** eram etc. + ppa./ppp.; **ind. perf. fut.** ero etc. + ppa./ppp.; **con. perf.** sim etc. + ppa./ppp.; **con. plpf.** essem etc. + ppa./ppp.
 
