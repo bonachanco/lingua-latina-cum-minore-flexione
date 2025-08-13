@@ -84,7 +84,7 @@ Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum at
 
 ## 7. Adverbia
 
-Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
+Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in lingua Latina quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
 

@@ -41,7 +41,7 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 
 ## 7. Adverbia
 
-Adiectiva declinationis I et II adverbium formant suffixo -e; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issime. Sunt etiam alia adverbia in Latina classica quae sine mutatione adhibentur, ut brevi, solum, una.
+Adiectiva declinationis I et II adverbium formant suffixo -e; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issime. Sunt etiam alia adverbia in lingua Latina quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
 
