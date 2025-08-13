@@ -38,13 +38,13 @@ Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia
 
 - **Ind. act.**: **praes.** thema praesens + -a -e -i -i -i; **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abi, -ebi, -e, -ie, -ie; **perf.** habe + ppp. aut thema perf. + -i; **plpf.** habeba + ppp. aut thema perf. + -era; **perf. fut.** habebi + ppp. aut thema perf. + -eri.
 - **Con. act.**: **impf.** thema praes. + -are -ere -ere -ere -ire; **plpf.** habere + ppp. aut thema perf. + -isse. Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhibentur.
-- **Ind. et con. pass.**: Ind. ab "esse" (e; era; eri; fui; fuera; fueri) et con. ab "esse" (esse; fuisse) + ppp.
+- **Ind. et con. pass.**: Ind. ab "esse" (es; era; eri; fui; fuera; fueri) et con. ab "esse" (esse; fuisse) + ppp.
 - **Inf. act.**: **praes.** thema praes. + -are -ere -ere -ere -ire; **perf.** habere + ppp. aut thema perf. + -isse; **fut.** esse + pfa.;  **perf. potentiale** fuisse + pfa.
 - **Inf. pass.**: **praes.** esse + ppp.; **perf.** fuisse + ppp.; **fut.** iri + ppp.; **perf. fut.** fore + ppp.
 - **Part. act.**: **praes.** thema praes. + -ante -ente -ente -iente -iente; **fut. (pfa.)** thema supinum + -uro.
 - **Part. pass.**: **perf. (ppp.)** thema supinum + -o; **fut. (gerundivum)** thema praes. + -ando -endo -endo -iendo -iendo.
 - **Gerundium**: thema praes. + -ando -endo -endo -iendo -iendo. **Supinum**: thema supinum + -u
-- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** e, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
+- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
 
 ## 7. Adverbia
 
@@ -56,4 +56,4 @@ Praepositiones semper accusativum regunt.
 
 ## 9. Exemplum
 
-Patro nostre, qui e in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimitti ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
+Patro nostre, qui es in caelos, nomine tue esse sanctificate. Regno tue advenire, voluntate tue esse facte, sicut in caelo et in terra. Dare pane nostre quotidiane ad nos hodie, et dimittere debitos nostre ad nos, et nos dimitti ad debitores nostre. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
