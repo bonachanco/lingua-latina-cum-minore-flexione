@@ -24,7 +24,7 @@ layout: default
 | Duo casus praepositionis                             |       |   | X  | X   | X  | X | X  |
 | Coniugatio in personas et coniugatio passiva         |       |   |    | X   | X  | X | X  |
 | Casus accusativus                                    |       |   |    | X   | X  | X | X  |
-| Numerus pluralis in "-s" terminatur                  |       |   |    | X   | X  |   | X  |
 | Genus neutrum grammaticum                            |       |   |    |     | X  | X | X  |
 | Genus masculinum et femininum grammaticum            |       |   |    |     |    | X | X  |
 | Adiectiva declinantur in genere, numeroque           |       |   |    |     |    | X | X  |
+| Genus pronominum in numero plurali                   |       |   |    |     |    |   | X  |
