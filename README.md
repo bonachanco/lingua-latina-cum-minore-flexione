@@ -19,6 +19,7 @@ Vide [GitHub Pages pro Lingua Latina cum minore flexione](https://bonachanco.git
 | Coniugatio in personas          |               |        X        |         X         |
 | Coniugatio passiva & deponentia |               |        X        |         X         |
 | Declinatio casuum               |               |        X        |         X         |
+| Genus grammaticum               |               |                 |         X         |
 | Concordantia                    |               |                 |         X         |
 
 ## Vocabularia

@@ -15,6 +15,7 @@
 | Coniugatio in personas          |               |        X        |         X         |
 | Coniugatio passiva & deponentia |               |        X        |         X         |
 | Declinatio casuum               |               |        X        |         X         |
+| Genus grammaticum               |               |                 |         X         |
 | Concordantia                    |               |                 |         X         |
 
 ## Vocabularia
