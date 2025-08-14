@@ -16,3 +16,7 @@
 | Coniugatio passiva & deponentia |               |        X        |         X         |
 | Declinatio casuum               |               |        X        |         X         |
 | Concordantia                    |               |                 |         X         |
+
+## Vocabularia
+
+- [Vocabularium](Vocabularium-ex-Unua-Libro) ex [Unua Libro](https://en.wikipedia.org/wiki/Unua_Libro)
