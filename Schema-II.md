@@ -1,80 +1,64 @@
 # Schema II
 
-Declinationes et coniugationes servantur, praeter casus genetivum, dativum atque ablativum. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Praepositiones casus accusativum et nominativum regunt, coniunctivusque imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt.
+Casus tolluntur, sed tria genera servantur, coniugationesque simplificantur.
 
 ## 1. Articulus
 
-Articulus nullus est, neque definitus neque indefinitus.
+Nullus est articulus, neque definitus neque indefinitus.
 
 ## 2. Substantiva
 
-In declinationibus sunt tria genera, duo numeri et duo casus (nom., acc.).
+In declinationibus sunt tria genera et duo numeri.
 
-- Declinatio I (m/f): -as/-a, -am; -ae, -as
-- Declinatio II (m): -us, -um; -i, -os
-- Declinatio II (n): -um, -um; -a, -a
-- Declinatio III (mf): -, -em; -es, -es
-- Declinatio III (n): -, =nom.; -a/-ia, -a/-ia
-- Declinatio IV (mf): -us, -um; -us, -us
-- Declinatio IV (n): -u, -u; -ua, -ua
-- Declinatio V (mf): -es, -em; -es, -es
+- Declinatione I (mf): sg. -a; pl. -e
+- Declinatione II (mn): sg. -o; pl. -i (m) -a (n)
+- Declinatione III (mfn): sg. -e; pl. -i (mf) -i/-a (n)
+- Declinatione IV (mfn): sg. -u; pl. -i aut -u
+- Declinatione V (mf): sg. -e; pl. -i aue -e
 
-Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Nomen neutrum tertiae declinationis habet pluralem in -ia, si isosyllabum est vel terminatur in -al, -ar. Participium perfectum etiam habet nominativum pluralem in -ia.
+Genetivus per "de", dativus per "ad", ablativus per "ab" exprimitur. Casus nominativus et accusativus sunt identici praeter pronomina "ego", "tu", "is" et "idem". Substantiva neutra a masculinis solum in plurali differunt. Neutra substantiva pluralizantur per -a, declinationis II, aut declinationis III imparisyllaba nec in -al vel -ar terminata.
 
 ## 3. Adiectiva
 
-Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -ia. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bonus -a -um; pauper nt. pl. paupera; acer acris acre nt. pl. acria; omnis omne nt. pl. omnia; ingens nt. pl.  ingentia. Gradus comparativus formatur suffixo -ior (masculinum/femininum) et -ius (neutrum), pluralis nominativus neutrius -iora. Superlativus formatur suffixo -issimus. Coniunctio gradus comparativi est quam.
+Adiectiva declinantur ut nomina. Notandum est pluralem nominativum in declinatione tertia praecipue terminari in -i. Adiectiva quae habent nominativum pluralem in -a sunt pauper, dives, vetus et adiectiva comparativa. Exempla: bono -a -o -i -e -a; paupere -i -a; acre -i; omne -i; ingente -i. Gradus comparativus formatur suffixo -iore, pluralis nominativus neutrius -iora. Superlativus formatur suffixo -issimo. Coniunctio gradus comparativi est quam.
 
 ## 4. Numeri
 
-- Cardinalia: unus -a -um, duo duae duo (acc. -os -as -o), tres tria (acc. tres tria), quattuor, quinque, sex, septem, octo, novem, decem etc. 
-- Ordinalia: primus, secundus, tertius, quartus, quintus, sextus, septimus, octavus, nonus, decimus etc.
+- Cardinalia: uno -a -o, duo -e -o, tri, quattuor, quinque, sex, septem, octo, novem, decem etc.
+- Ordinalia: primo, secundo, tertio, quarto, quinto, sexto, septimo, octavo, nono, decimo etc.
 
 ## 5. Pronomina
 
-- Personalia: ego, me; tu, te; nos, nos; vos, vos; -, se.
-- Adiectiva possessiva: meus -a -um; tuus -a -um; noster -tra -trum; vester -tra -trum; suus -a -um.
-- "Quis" et similaria:
-	- Pronomen interrogativum: quis quis quid; quem quam =nom.; qui quae quae; quos quas quae.
-	- Pronomen indefinitum negativum: quisquam quisquam quicquam
-	- Pronomen indefinitum: aliquis aliqua aliquid
-	- Pronomen distributivum: quisque quaeque quidque
-	- Pronomen relativum: qui quae quod
-	- Adiectivum interrogativum: qui quae quod
-	- Pronomen indefinitum: quidam quaedam quoddam (-m + d- > -nd-)
-	- Pronomen indefinitum: quicumque quaecumque quodcumque
-- "Is" et similaria: 
-	- is ea id; eum eam =nom.; ei eae ea; eos eas ea
-	- ille illa illud (ill-)
-	- iste ista istud (ist-)
-	- ipse ipsa ipsum (ips-)
-	- idem eadem idem (alii sequi is + dem, -m + d- > -nd-)
-	- hic haec hoc; hunc hanc hoc; hi hae haec; hos has haec
+- Pronomina personalia: nom. ego, acc. me; nom. tu, acc. te; nos; vos; acc. se. Adiectiva possessiva: meo -a -o (pl. mei); tuo -a -o; nostro -a -o; vestro -a -o; suo -a -o.
+- Pronomen interrogativum relativumque et adiectivum interrogativum relativumque: qui pro sg. m. & sg. f. & m. pl., que pro nt. sg. & nt. pl. & f. pl.
+	- Pronomina et adiectiva indefinita: ali-, -dam, -quam, -cumque.
+	- Pronomen et adiectivum distributivum: -que.
+- Pronomina demonstrativa:
+	- **Ille**: m. sg. nom. ille (illo + subiectivo), acc. illo, pl. illi; f. sg. illa, pl. ille; nt. sg. illo, pl. illa. **Iste**, **ipse** declinantur ut **ille**.
+	- **Is**: m. sg. nom. is, acc. eo, pl. ei; f. sg. ea, pl. ei; nt. sg. nom. & acc. id, abl. eo; pl. ea. **Idem** declinatur ut **is**.
 
 ## 6. Verba
 
-Tria themata sunt in lingua Latina: praesens, perfecta et supina (e.g. hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et **ind praes. 1sg.**: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-io). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhiberi possunt. Agens actionis exprimitur per "ab". Res, quae actionem facit, exprimatur solum ablativo. Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in activa voce sit "homo".
+Tria themata sunt in lingua Latina: praesens, perfecta et supina (exempli gratia hab-, habu-, habit-). Praesens thema quinque coniugationes reddit, secundum infinitivum et **ind praes. 1sg.**: -are (-o) -ere (-eo) -ere (-o) -ere (-io) -ire (-io). Thema perfectum saepe fit per infixa -av-, -u-, -s-, -iv- adiuncta ad thema praesens, sed opus est videre dictionarium. Thema supinum saepe fit per infixum -at- (coniugationis I) aut -it- (aliarum) adiunctum ad thema praesens. Omnia verba deponentia ut non-deponentia adhibentur. Imperativus per infinitivum exprimitur. Coniunctivus ad exprimendum optativum atque ad orationem irrealem tantummodo adhibetur. Agens actionis exprimitur per "ab". Verbum intransitivum, et verbum quod obiectum genetivum, dativum aut ablativum regit, adhibent passiva voce ut activa voce impersonali, quasi subiectum in act. voce sit "homo".
 
-- **Infixa indictivi et coniunctivi thematis praesentis**: **ind. praes.** -a- -e- -u- -iu- -iu-; **ind. impf.** -aba- -eba- -eba- -ieba- -ieba- ; **ind. fut.** -abu-, -ebu-, -e-, -ie-, -ie-; **con. praes.**  -e- -ea- -a- -ia- -ia-; **con. impf.** -are- -ere- -ere- -ere- -ire-. Infixa -u-/-iu- et -abu-/-ebu- mutantur in -i-/-i- et -abi-/-ebi- cum terminationes praeter -nt et -ntur sequuntur. 
-- **Infix indictivi et coniunctivi thematis perfecti pro voce activa**: **ind. perf.** -; **ind. plpf.** -era-; **ind. perf. fut.** -eri-; **con. perf.** -eri-; **con. plpf.** -isse-.
-- **Terminationes personales vocis act.**: -m -s -t -mus -tis -nt; **vocis pass.**: -r -ris -tur -mur -mini -ntur; **ind. perf. act.** -i -isti -it -imus -istis -erunt.
-- **Exceptiones infxorum & terminationum**: **ind. praes. act. 1sg.** -o -eo -o -io -io; **dep. & pass. 1sg.** -or -eor -or -ior -ior; **2sg. in coni. III** -eris -eris; **ind. fut. act. 1sg.** -abo -ebo -am -iam -iam; **dep. & pass. 1sg.** -abor -ebor -ar -iar -iar; **2sg. in coni. I & II** -aberis -eberis; **ind. perf. fut. act. 1sg.** -ero.
-- **Circumlocutio v. dep. et vocis pass.**: **ind. perf.** sum etc. + ppa./ppp.; **ind. plpf.** eram etc. + ppa./ppp.; **ind. perf. fut.** ero etc. + ppa./ppp.; **con. perf.** sim etc. + ppa./ppp.; **con. plpf.** essem etc. + ppa./ppp.
-- **Inf. act.**: **praes.** thema praesens + -are -ere -ere -ere -ire; (**v. dep.** thema praesens + -ari -eri -i -i -iri); **perf.** thema perfectum + -isse; **fut.** esse + pfa.; **perf. fut. v. dep.** fore + ppa.; **perf. potentialis** fuisse + pfa.
-- **Inf. pass. v. non-dep.**: **praes.** thema praesens + -ari -eri -i -i -iri; **perf.** esse + ppp.; **fut.** iri + ppp.; **perf. fut. v. non-dep.** fore + ppp.
-- **Part. act.**: **praes.** thema praesens + -ans -ens -ens -iens -iens; **perf. (ppa.) v. dep.** thema supinum + -us; **fut. (pfa.)** thema supinum + -urus.
-- **Part. pass.**: **perf. (ppp.) v. non-dep.** thema supinum + -us; **fut. (gerundivum)** thema praesens + -andus -endus -endus -iendus -iendus
-- **Gerundium**: thema praesens + -andi -endi -endi -iendi -iendi (gen. -i, dat. -o, acc. -um abl. -o). **Supinum**: thema supinum + acc. -um abl. -u
-- **Irregularia verba**: **inf.** esse, ferre, fiere, ire, posse, velle; **ind. praes.** sum/es/est/sumus/estis/sunt, fero/fers/fert/ferimus/feritis/ferunt, fio/fit/fiunt, eo/it/eunt, possum, volo/vis/volt/volumus/voltis/volunt; **ind. impf.** eram, ferebam, fiebam, ibam, poteram, volebam; **ind. fut.** ero/erit/erunt, feram/feret/ferent, fiam/fiet/fient, ibo/ibit/ibunt, potero, volam/volet/volent; **ind. perf.** fui, tuli, sum factus, ivi, potui, volui; **con. praes.** sim, feram, fiam, eam, possim, velim; **part. praes.** ens (vulgariter) ferens, fiens (vulgariter), iens, potens, volens, **supinum** statum (vulgariter), latum, factum, itum, potitum (vulgariter), volitum (vulgariter). 
+- **Ind. act.**: **praes.** thema praesens + -a -e -u (aut -i) -iu (aut -i) -iu (aut -i); **impf.** thema praesens + -aba -eba -eba -ieba -ieba; **fut.** thema praesens + -abu (aut -abi), -ebu (aut -ebi), -e, -ie, -ie; **perf.** habe + ppp. aut thema perf. + -i; **plpf.** habeba + ppp. aut thema perf. + -era; **perf. fut.** habebi + ppp. aut thema perf. + -eri.
+- **Con. act.**: **impf.** thema praes. + -are -ere -ere -ere -ire; **plpf.** habere + ppp. aut thema perf. + -isse. Coniunctivus imperfectus et plusquamperfectus pro coniunctivo praesenti et perfecto adhibentur.
+- **Ind. et con. pass.**: Ind. ab "esse" (es; era; eri; fui; fuera; fueri) et con. ab "esse" (esse; fuisse) + ppp.
+- **Inf. act.**: **praes.** thema praes. + -are -ere -ere -ere -ire; **perf.** habere + ppp. aut thema perf. + -isse; **fut.** esse + pfa.;  **perf. potentiale** fuisse + pfa.
+- **Inf. pass.**: **praes.** esse + ppp.; **perf.** fuisse + ppp.; **fut.** iri + ppp.; **perf. fut.** fore + ppp.
+- **Part. act.**: **praes.** thema praes. + -ante -ente -ente -iente -iente; **fut. (pfa.)** thema supinum + -uro.
+- **Part. pass.**: **perf. (ppp.)** thema supinum + -o; **fut. (gerundivum)** thema praes. + -ando -endo -endo -iendo -iendo.
+- **Gerundium**: thema praes. + -ando -endo -endo -iendo -iendo. **Supinum**: thema supinum + -u
+- **Verba irregularia**: **inf.** esse (sum), ferre (fero), fiere (fio), ire (eo), posse (possum), velle (volo); **ind. praes.** es, fer, fi, i, potes, vol;  **ind. impf.** era, fereba, fieba, iba, potera, voleba; **ind. fut.** eri, fere, fie, ibi, poteri, vole; **part. praes.** ente (vulgaliter) ferente, fiente (rare), iente, potente, volente; **ind. perf.** fui, tuli, fui facto, ivi, potui, volui; **part. pass. praes.** stato (vulgaliter), lato, facto, ito, potito (rare), volito (vulgaliter).
 
 ## 7. Adverbia
 
-Adiectiva quae in neutro ablativo -o aut -e terminantur, adverbium in -e formant. Adiectiva quae in neutro ablativo -i terminantur, adverbium in -iter aut -e formant. Praesens participium adverbium in -nter efficit. Comparativum adverbii: -ius, superlativum: -issime. Sunt etiam alia adverbia in lingua Latina quae sine mutatione adhibentur, ut brevi, solum, una.
+Adiectiva declinationis I et II adverbium formant suffixo -e; adiectiva declinationis III suffixo -iter; participium praesens suffixo -nter. Comparativum: -ius, superlativum: -issime. Sunt etiam alia adverbia in lingua Latina quae sine mutatione adhibentur, ut brevi, solum, una.
 
 ## 8. Praepositiones
 
-Praepositiones plerumque accusativum regunt. Quaedam praepositiones regunt casum nominativum: ab, cum, de, ex, pro, sine. Quaedam praepositiones regunt utrumque casum: in, super, sub.
+Praepositiones plerumque accusativum regunt. Quaedam praepositiones exigunt eo pro id. Quaedam praepositiones exigunt utrumque eo et id: in, super, sub.
 
 ## 9. Exemplum
 
-Pater noster, qui es in caeli, nomen tuum sanctificaretur. Regnum tuum adveniret, voluntas tua fieret, sicut in caelum et in terra. Dare panem nostrum quotidianum ad nos hodie, et dimittere debita nostra ad nos et nos dimittimus ad debitores nostros. Et ne induceres nos in tentationem, sed liberare nos a malum. Amen.
+Patro nostro, qui es in caeli, tuo nomine esse sanctificato. Tuo regno advenire, tua voluntate esse facta, sicut in caelo et in terra. Dare pane nostro quotidiano ad nos hodie, et dimittere debita nostra ad nos, et nos dimitti ad debitori nostri. Et ne inducere nos in tentatione, sed liberare nos a malo. Amen.
