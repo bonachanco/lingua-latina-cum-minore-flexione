@@ -25,3 +25,9 @@ Vide [GitHub Pages pro Lingua Latina cum minore flexione](https://bonachanco.git
 ## Vocabularia
 
 - [Vocabularium](Vocabularium-ex-Unua-Libro.md) ex [Unua Libro](https://en.wikipedia.org/wiki/Unua_Libro)
+- [Vocabularium ab "1000 Essential Latin Words"](1000-Essential-Latin-Words.md)
+- [Vocabularium ab "1000 Essential Greek Words"](1000-Essential-Greek-Words.md)
+
+### Monitum
+
+Haec vocabularia ab intellegentia artificiali generata sunt.

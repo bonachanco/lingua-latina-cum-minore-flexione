@@ -21,3 +21,10 @@
 ## Vocabularia
 
 - [Vocabularium](Vocabularium-ex-Unua-Libro) ex [Unua Libro](https://en.wikipedia.org/wiki/Unua_Libro)
+- [Vocabularium ab "1000 Essential Latin Words"](1000-Essential-Latin-Words)
+- [Vocabularium ab "1000 Essential Greek Words"](1000-Essential-Greek-Words)
+
+### Monitum
+
+Haec vocabularia ab intellegentia artificiali generata sunt.
+

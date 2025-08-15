@@ -1,5 +1,9 @@
 ## Vocabularium ex [Unua Libro](https://en.wikipedia.org/wiki/Unua_Libro)
 
+### Monitum
+
+Hoc vocabularium ab intellegentia artificiali generatum est.
+
 ### A
 
 - a – (adjectival ending) – (no Latin equivalent)
