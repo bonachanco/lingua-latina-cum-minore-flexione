@@ -4,7 +4,7 @@
 
 Hae tabulae ab intellegentia artificiali generatae sunt.
 
-## Coetus primus, 250 verba, 50%
+### Coetus primus, 250 verba, 50%
 
 | Latin | Ancient Greek | Esperanto | English |
 |-------|---------------|-----------|---------|
@@ -259,7 +259,7 @@ Hae tabulae ab intellegentia artificiali generatae sunt.
 | volō, velle, voluī, — (verb, irreg.) | θέλω, θελήσω, ἠθέλησα, —, —, — (verb, irreg.) | voli | to wish, want |
 | vōs (pron.) | ὑμεῖς (pron.) | vi (pl.) | you (pl.) |
 
-## Coetus secundus, 400 verba, 65%
+### Coetus secundus, 400 verba, 65%
 
 | Latin | Ancient Greek | Esperanto | English |
 |---|---|---|---|
@@ -660,7 +660,7 @@ Hae tabulae ab intellegentia artificiali generatae sunt.
 | vulnus, vulneris (neut. noun, 3rd decl.) | τραῦμα, ‑ατος, τό (neut. noun, 3rd decl.) | vundo | wound |
 | vultus, ‑ūs (masc. noun, 4th decl.) | πρόσωπον, ‑ου, τό (neut. noun, 2nd decl.) | vizaĝo | face, expression |
 
-## Coetus tertius, 350 verba, 70%
+### Coetus tertius, 350 verba, 70%
 
 | Latin | Ancient Greek | Esperanto | English |
 |---|---|---|---|
