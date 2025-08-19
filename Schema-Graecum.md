@@ -3,24 +3,24 @@
 ## Substantivi et adiectivi
 
 - Declinatio I
-  - a as: a as ae an; ae arum īs ās
-  - a es: a es ae an; ae arum īs ās
-  - ē ēs: ē ēs ae ēn; ae arum īs ās
-  - as u: as ae ae an; ae arum īs ās
-  - ēs u: ēs ae ae ēn; ae arum īs ās
+  - a as: a as ae an; ae ōn īs ās
+  - a es: a es ae an; ae ōn īs ās
+  - ē ēs: ē ēs ae ēn; ae ōn īs ās
+  - as u: as ae ae an; ae ōn īs ās
+  - ēs u: ēs ae ae ēn; ae ōn īs ās
 - Declinatio II
-  - os u: os ī ō on; ī orum īs ōs
-  - on u: on ī ō on; a orum īs a
-  - eus, eōs: eus ei eo eon; ei eorum eīs eōs
+  - os u: os ī ō on; ī ōn īs ōs
+  - on u: on ī ō on; a ōn īs a
+  - eus, eōs: eus eōs eo eon; ei eōn eīs eōs
 - Declination III
-  - (m/f) - os: - is i a; es um ibus as
-  - (m/f) ēs us: ēs is i ēn; es um ibus īs
-  - (m/f) is eōs: is is i in; es ium ibus īs
-  - (m/f) ys, os: ys is i yn; yes ium ibus ys
-  - (m/f) ys, eōs: ys is i yn; es ium ibus īs
-  - (n) os us: os is i os; ē um ibus ē
-  - (n) as us: as is i as; ā um ibus ā
-  - (n) y, eōs: y yis yi y; ē yum yibus ē 
+  - (m/f) - os   : -  is i a;  es  ōn  ibus as
+  - (m/f) ēs us  : ēs is i ēn; es  ōn  ibus īs
+  - (m/f) is eōs : is is i in; es  eōn ibus īs
+  - (m/f) ys, eōs: ys is i yn; es  eōn ibus īs
+  - (m/f) ys, os : ys is i yn; yes yōn ibus ys
+  - (n) os us    : os is i os; ē   ōn  ibus ē
+  - (n) as us    : as is i as; ā   ōn  ibus ā
+  - (n) y, eōs   : y  is i y;  ē   eōn ibus ē 
 
 
 ## Verba
