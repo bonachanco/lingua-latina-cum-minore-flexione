@@ -39,9 +39,9 @@
 | --- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 |     | **Nom.** | **Gen.** | **Dat.** | **Acc.** | **Nom.** | **Gen.** | **Dat.** | **Acc.** |
 | m/f | is       | eōs      | ei       | in       | eis      | eōn      | esi      | eis      |
-| m/f | ys       | eōs      | ei       | yn       | eis      | eōn      | esi      | eis      |
-| n   | y        | eōs      | ei       | y        | ē        | eōn      | esi      | ē        |
-| m/f | ys       | yos      | yï       | yn       | yes      | yōn      | ysi      | ys       |
+| m/f | us       | eōs      | ei       | yn       | eis      | eōn      | esi      | eis      |
+| n   | u        | eōs      | ei       | u        | ē        | eōn      | esi      | ē        |
+| m/f | us       | uos      | uï       | un       | ues      | uōn      | usi      | us       |
 | m/f | eus      | eōs      | ei       | ea       | eis      | eōn      | eusi     | eas      |
 
 ## Verba
@@ -54,7 +54,7 @@
 | **Fut. p. + M**      | FP          | FP              | FP            | FP + -oi-    | —       | —              |
 | **Aor. a.&m.**       | A           | A               | A             | A + -ai-     | A + VS  | —              |
 | **Aor. p. + A**      | AP          | AP              | AP            | AP + ‑eiē-   | AP + VS | —              |
-| **Perf. a.**         | PF + -e-    | PF + -ōs/yîa/os | PF            | PF + -oi-    | PF + VS | e- + PF + ‑e-  |
+| **Perf. a.**         | PF + -e-    | PF + -ōs/uîa/os | PF            | PF + -oi-    | PF + VS | e- + PF + ‑e-  |
 | **Perf. m.&p.**      | PFP         | PFP             | PFP           | —            | —       | e- + PFP       |
 | **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-      | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
 
