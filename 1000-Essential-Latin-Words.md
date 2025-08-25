@@ -3,7 +3,7 @@
 > Hae tabulae ab intellegentia artificiali generatae sunt.
 
 | Latin                                                            | Ancient Greek                                                                                                           | Esperanto        | English                            |
-|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------|
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------- |
 | ab (prep. + abl.)                                                | ἀπό (prep. + gen.)                                                                                                      | de               | from, away from                    |
 | abeō, abīre, abiī/ābīvī, abitūrus (irr. verb, 4th conj.)         | ἀπέρχομαι, ἀπελεύσομαι, ἀπῆλθον, ἀπελήλυθα, —, — (dep. verb, 2nd aor.)                                                  | foriri           | to go away                         |
 | absum, abesse, āfuī, āfutūrus (irr. verb)                        | ἀπεῖναι (verb, pres. inf.)                                                                                              | foresti          | to be absent                       |
@@ -99,7 +99,7 @@
 | brevis, ‑e (adj. 3rd decl.)                                      | βραχύς, ‑εῖα, ‑ύ (adj. 3rd decl.)                                                                                       | mallonga         | short                              |
 | cadō, cadere, cecidī, cāsūrus (verb, 3rd conj.)                  | πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα, —, — (verb, 2nd aor.)                                                                 | fali             | to fall                            |
 | caedēs, ‑is (fem. noun, 3rd decl.)                               | φόνος, ‑ου, ὁ (masc. noun, 2nd decl.)                                                                                   | masakro          | slaughter                          |
-| caedō, caedere, cecīdī, caesus (verb, 3rd conj.)                 | κόπτω, κόψω, ἔκοψα, κέκοφα, κέκομμαι, ἐκόπην (verb, 1st aor.)                                                           | tranĉi            | to cut                             |
+| caedō, caedere, cecīdī, caesus (verb, 3rd conj.)                 | κόπτω, κόψω, ἔκοψα, κέκοφα, κέκομμαι, ἐκόπην (verb, 1st aor.)                                                           | tranĉi           | to cut                             |
 | caelum, ‑ī (neut. noun, 2nd decl.)                               | οὐρανός, ‑οῦ, ὁ (masc. noun, 2nd decl.)                                                                                 | ĉielo            | sky                                |
 | caelus (late form, see caelum)                                   | οὐρανός (see caelum)                                                                                                    | —                | sky                                |
 | campus, ‑ī (masc. noun, 2nd decl.)                               | πεδίον, ‑ου, τό (neut. noun, 2nd decl.)                                                                                 | kampo            | plain                              |

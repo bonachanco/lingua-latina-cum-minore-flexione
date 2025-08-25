@@ -10,7 +10,7 @@
 | ἵππος (híppos), ‑ου, ὁ (masc. noun, 2nd decl.)      | equus, ‑ī (masc. noun, 2nd decl.)       | hippo -i |
 | βοῦς (boûs), βοός, ὁ/ἡ (masc./fem. noun, 3rd decl.) | bōs, bovis (masc./fem. noun, 3rd decl.) | bove -i  |
 
-## II. Membra                         
+## II. Membra
 
 | Ancient Greek                                           | Latin                                      |              |
 | ------------------------------------------------------- | ------------------------------------------ | ------------ |
@@ -24,7 +24,7 @@
 | στόμα, στόματος, τό (neut. noun, 3rd decl.) stoma       | ōs, ōris (neut. noun, 3rd decl.)           | stomate -a   |
 | γλῶσσα, γλώσσης, ἡ (fem. noun, 1st decl.) glossa        | lingua, linguae (fem. noun, 1st decl.)     | glossa -e    |
 
-## III. Qualitates                     
+## III. Qualitates
 
 | Ancient Greek                                                   | Latin                                              |             |
 | --------------------------------------------------------------- | -------------------------------------------------- | ----------- |
@@ -54,10 +54,10 @@
 | αἰσχρός, ‑ά, ‑όν (adj., 2-1-2 decl.)                            | turpis, ‑e (adj., 3rd decl.)                       | aeschro -a  |
 | λαμπρός, ‑ά, ‑όν (adj., 2-1-2 decl.)                            | splendidus, ‑a, ‑um (adj., 1st/2nd decl.)          | lampro -a   |
 
-## IV. Coniunctiones / Adverbia       
+## IV. Coniunctiones / Adverbia
 
 | Ancient Greek                                   | Latin                                              |            |
-|-------------------------------------------------|----------------------------------------------------|------------|
+| ----------------------------------------------- | -------------------------------------------------- | ---------- |
 | ἀλλά (adversative conjunction)                  | sed (adversative conjunction)                      | alla       |
 | γάρ (post-positive conjunction)                 | nam / enim (post-positive conjunction)             | gar        |
 | ἐάν (εἰ-ἄν) (conditional conjunction)           | sī (conditional conjunction)                       | ean        |
@@ -93,10 +93,10 @@
 | ὥσπερ (comparative conjunction)                 | sicut / velut (comparative conjunction)            | hosper     |
 | ὥστε (consecutive conjunction)                  | itaque / ut (consecutive conjunction)              | hoste      |
 
-## V. Directio                       
+## V. Directio
 
 | Ancient Greek                         | Latin                                     |            |
-|---------------------------------------|-------------------------------------------|------------|
+| ------------------------------------- | ----------------------------------------- | ---------- |
 | ἀμφί (prep. + gen./dat./acc.)         | circa (+ acc.)                            | amphi      |
 | ἀνά (prep. + acc.)                    | per, super (+ acc.)                       | ana        |
 | ἀντί (prep. + gen.)                   | pro (+ abl.), contra                      | anti       |
@@ -123,74 +123,48 @@
 | χωρίς (prep. + gen.)                  | ab (+ abl.)                               | choris     |
 | ὧδε (adv.)                            | hic (adv.)                                | hode       |
 
-## VI. Terra                          
+## VI. Terra
 
+## VII. Ethica et Mores
 
-## VII. Ethica et Mores                
+## VIII. Familia et Amicitia et Domus
 
+## IX. Gubernatio et Societas
 
-## VIII. Familia et Amicitia et Domus   
+## X. Auxilium et Salus
 
+## XI. Humanitas et Ens
 
-## IX. Gubernatio et Societas         
+## XII. Lex et Iudicium
 
+## XIII. Vita et Mors
 
-## X. Auxilium et Salus              
+## XIV. Mensurae et Numeri
 
+## XV. Motus
 
-## XI. Humanitas et Ens               
+## XVI. Particulae
 
+## XVII. Praepositiones sine Directione
 
-## XII. Lex et Iudicium                
+## XVIII. Pronomina / Interrogativa
 
+## XIX. Religio
 
-## XIII. Vita et Mors                   
+## XX. Ostentatio et Inventio
 
+## XXI. Acceptio et Datio
 
-## XIV. Mensurae et Numeri             
+## XXII. Mens, Perceptio et Disciplina
 
+## XXIII. Sensus et Affectus
 
-## XV. Motus                          
+## XXIV. Tempus
 
+## XXV. Bellum et Pax
 
-## XVI. Particulae                     
+## XXVI. Labor et Otium
 
-
-## XVII. Praepositiones sine Directione 
-
-
-## XVIII. Pronomina / Interrogativa      
-
-
-## XIX. Religio                        
-
-
-## XX. Ostentatio et Inventio         
-
-
-## XXI. Acceptio et Datio              
-
-
-## XXII. Mens, Perceptio et Disciplina  
-
-
-## XXIII. Sensus et Affectus             
-
-
-## XXIV. Tempus                         
-
-
-## XXV. Bellum et Pax                  
-
-
-## XXVI. Labor et Otium                 
-
-
-## XXVII. Ordo Mundi                     
-
+## XXVII. Ordo Mundi
 
 ## XXVIII. Scriptura et Loquela
-
-
-
-

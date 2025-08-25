@@ -50,21 +50,21 @@
 | -------------------- | ----------- | --------------- | ------------- | ------------ | ------- | -------------- |
 | **Praes. I**         | P + V       | P + V           | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
 | **Praes. II**        | P           | P               | P             | P            | P + VS  | e- + P         |
-| **Fut. a.&m.**       | F           | F               | F             | F + oi       | —       | —              |
-| **Fut. p. + M**      | FP          | FP              | FP            | FP + oi      | —       | —              |
-| **Aor. a.&m.**       | A           | A               | A             | A + ai       | A + VS  | —              |
+| **Fut. a.&m.**       | F           | F               | F             | F + -oi-     | —       | —              |
+| **Fut. p. + M**      | FP          | FP              | FP            | FP + -oi-    | —       | —              |
+| **Aor. a.&m.**       | A           | A               | A             | A + -ai-     | A + VS  | —              |
 | **Aor. p. + A**      | AP          | AP              | AP            | AP + ‑eiē-   | AP + VS | —              |
-| **Perf. a.**         | PF + -e-    | PF + -ōs/yîa/os | PF            | PF + oi      | PF + VS | e- + PF + ‑e-  |
+| **Perf. a.**         | PF + -e-    | PF + -ōs/yîa/os | PF            | PF + -oi-    | PF + VS | e- + PF + ‑e-  |
 | **Perf. m.&p.**      | PFP         | PFP             | PFP           | —            | —       | e- + PFP       |
 | **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-      | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
 
-| Suffixa pro...      | A.                         | M.                                      |
-| ------------------- | -------------------------- | --------------------------------------- |
-| Ind. sine e- & sub. | _sg._ s e _pl._ men te si  | _sg._ mai ai tai _pl._ methai sthe ntai |
-| Ind. cum e- & opt.  | _sg._ n s - _pl._ men te n | _sg._ mēn o to _pl._ metha sthe nto     |
-| Imp.                | _sg._ e tō _pl._ te ntōn   | _sg._ o sthō _pl._ sthe sthōn           |
-| Inf.                | nai                        | sthai                                   |
-| Part.               | -n -sa -n                  | -menos -ē -on                           |
+| Suffixa pro...      | A.                                | M.                                            |
+| ------------------- | --------------------------------- | --------------------------------------------- |
+| Ind. sine e- & sub. | _sg._ -s e _pl._ -men -te -si     | _sg._ -mai -ai -tai _pl._ -methai -sthe -ntai |
+| Ind. cum e- & opt.  | _sg._ -n s - _pl._ -men -te -n    | _sg._ -mēn -o -to _pl._ -metha -sthe -nto     |
+| Imp.                | _sg._ e tō _pl._ te ntōn          | _sg._ o sthō _pl._ sthe sthōn                 |
+| Inf.                | -nai                              | -sthai                                        |
+| Part.               | m. -n f. -sa nt. -n -ntos (3-1-3) | m. -menos f. -menē nt. -menon (2-1-2)         |
 
 - Vocalis intercalaris
 

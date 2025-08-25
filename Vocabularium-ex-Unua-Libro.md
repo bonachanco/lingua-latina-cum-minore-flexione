@@ -11,28 +11,28 @@ Hoc vocabularium ab intellegentia artificiali generatum est.
 - aĉet’ – to buy – emere: emō, emere, ēmī, ēmptum
 - ad – (durative suffix) – (no Latin equivalent)
 - adiaŭ – good-bye – valē / valēte
-- aer – the air – aer, aeris  (m.)
-- afer’ – affair, business – rēs, reī  (f.)
-- agl’ – the eagle – aquila, aquilae  (f.)
+- aer – the air – aer, aeris (m.)
+- afer’ – affair, business – rēs, reī (f.)
+- agl’ – the eagle – aquila, aquilae (f.)
 - agrabl’ – agreeable – grātus, -a, -um
-- aĝ’ – the age – aetās, aetātis  (f.)
+- aĝ’ – the age – aetās, aetātis (f.)
 - ajn – ever – umquam
 - aĵ’ – (thing-forming suffix) – (no Latin equivalent)
 - akompan’ – to accompany – comitārī: comitor, comitārī, comitātus sum
 - akr’ – sharp – acer, acris, acre
-- akv’ – water – aqua, aquae  (f.)
+- akv’ – water – aqua, aquae (f.)
 - al – to, toward – ad (+ acc.)
 - ali’ – other – alius, alia, aliud
 - almenaŭ – at least – saltem
 - alt’ – high, tall – altus, -a, -um
-- alumet’ – a match – ligniculium, ligniculiī  (n.)
+- alumet’ – a match – ligniculium, ligniculiī (n.)
 - am’ – to love – amāre: amō, amāre, amāvī, amātum
-- amas’ – crowd, mass – turba, turbae  (f.)
-- amik’ – friend – amīcus, amīcī  (m.)
-- an’ – member, inhabitant – incola, incolae  (m./f.)
-- angul’ – angle, corner – angulus, angulī  (m.)
-- anĝel’ – angel – angelus, angelī  (m.)
-- anim’ – the soul – anima, animae  (f.)
+- amas’ – crowd, mass – turba, turbae (f.)
+- amik’ – friend – amīcus, amīcī (m.)
+- an’ – member, inhabitant – incola, incolae (m./f.)
+- angul’ – angle, corner – angulus, angulī (m.)
+- anĝel’ – angel – angelus, angelī (m.)
+- anim’ – the soul – anima, animae (f.)
 - ankaŭ – also, too – etiam
 - ankoraŭ – still, yet – adhūc
 - anstataŭ – instead of – prō (+ abl.)
@@ -43,8 +43,8 @@ Hoc vocabularium ab intellegentia artificiali generatum est.
 - apenaŭ – scarcely – vix
 - apud – near, beside – apud (+ acc.)
 - ar’ – (collective suffix) – (no Latin equivalent)
-- arb’ – a tree – arbor, arboris  (f.)
-- arĝent’ – silver – argentum, argentī  (n.)
+- arb’ – a tree – arbor, arboris (f.)
+- arĝent’ – silver – argentum, argentī (n.)
 - as – (present-tense ending) – (no Latin equivalent)
 - at’ – (present passive participle ending) – (no Latin equivalent)
 - atend’ – to wait for – exspectāre: exspectō, exspectāre, exspectāvī, exspectātum
@@ -52,962 +52,962 @@ Hoc vocabularium ab intellegentia artificiali generatum est.
 - aŭ – or – vel / aut
 - aŭd’ – to hear – audīre: audiō, audīre, audīvī, audītum
 - aŭskult’ – to listen to – auscultāre: auscultō, auscultāre, auscultāvī, auscultātum
-- aŭtun’ – autumn – autumnus, autumī  (m.)
-- av’ – grandfather – avus, avī  (m.)
+- aŭtun’ – autumn – autumnus, autumī (m.)
+- av’ – grandfather – avus, avī (m.)
 - avar’ – avaricious – avarus, -a, -um
-- azen’ – an ass, donkey – asinus, asinī  (m.)
+- azen’ – an ass, donkey – asinus, asinī (m.)
 
 ### B
 
-- babil’ – to prate, chatter – garrīre: garrīo, garrīre, garrīvī, garrītum  
-- bak’ – to bake – coquere: coquō, coquere, coxī, coctum  
-- bala’ – to sweep – verrere: verrō, verrere, verrī, versum  
-- balanc’ – to nod, swing – vacillāre: vacillō, vacillāre, vacillāvī, vacillātum  
-- baldaŭ – soon – mox  
-- ban’ – to bathe – lavāre: lavō, lavāre, lavāvī, lavātum  
-- bapt’ – to baptise – baptizāre: baptizō, baptizāre, baptizāvī, baptizātum  
-- bar’ – to bar, stop – obstruere: obstruō, obstruere, obstrūxī, obstrūctum  
-- barb’ – the beard – barba, barbae  (f.)  
-- barel’ – barrel, cask – cupa, cupae  (f.)  
-- baston’ – stick – baculum, baculī  (n.)  
-- bat’ – to beat – verberāre: verberō, verberāre, verberāvī, verberātum  
-- batal’ – to fight – pugnāre: pugnō, pugnāre, pugnāvī, pugnātum  
-- bedaŭr’ – to regret – paenitēre: paenitet, paenitēre, paenituit (impers.)  
-- bel – beautiful – pulcher, pulchra, pulchrum  
-- ben’ – to bless – benedīcere: benedīcō, benedīcere, benedīxī, benedictum  
-- benk’ – bench – scamnum, scamnī  (n.)  
-- best’ – animal, beast – bellua, belluae  (f.) / animal, animālis  (n.)  
-- bezon’ – to want – dēsīderāre: dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātum  
-- bier’ – beer – cervēsia, cervēsiae  (f.)  
-- bind’ – to bind – ligāre: ligō, ligāre, ligāvī, ligātum  
-- bird’ – bird – avis, avis  (f.)  
-- blank’ – white – albus, -a, -um  
-- blov’ – to blow – flare: flō, flāre, flāvī, flātum  
-- blu’ – blue – caeruleus, -a, -um  
-- bo’ – relation by marriage – (prefix) – affīnis (adj.)  
-- boj’ – to bark – latrāre: latrō, latrāre, latrāvī, latrātum  
-- bol’ – to boil – fervēre: ferbeō, fervēre, ferbuī, —  
-- bon’ – good – bonus, -a, -um  
-- bord’ – shore, bank – lītus, lītoris  (n.) / rīpa, rīpae  (f.)  
-- bot’ – boot – calceus, calceī  (m.)  
-- botel’ – bottle – ampulla, ampullae  (f.)  
-- bov’ – ox – bōs, bovis  (m./f.)  
-- branĉ’ – branch – rāmus, rāmī  (m.)  
-- brand’ – brandy – ardens aqua (phrase) / vinum ardens  
-- bril’ – to shine – micāre: micō, micāre, micuī, — / splendēre: splendeō, splendēre, —, —  
-- bros’ – brush – penicillus, penicillī  (m.)  
-- bru’ – to make a noise – strepere: strepuī, strepitum  
-- brul’ – to burn – ardēre: ardeō, ardēre, arsī, arsum  
-- brust’ – breast – pectus, pectoris  (n.)  
-- brut’ – brute – brūtus, -a, -um / bellua, belluae  (f.)  
-- buŝ’ – mouth – ōs, ōris  (n.)  
-- buter’ – butter – būtyrum, būtyrī  (n.)  
-- buton’ – button – bulla, bullae  (f.)
+- babil’ – to prate, chatter – garrīre: garrīo, garrīre, garrīvī, garrītum
+- bak’ – to bake – coquere: coquō, coquere, coxī, coctum
+- bala’ – to sweep – verrere: verrō, verrere, verrī, versum
+- balanc’ – to nod, swing – vacillāre: vacillō, vacillāre, vacillāvī, vacillātum
+- baldaŭ – soon – mox
+- ban’ – to bathe – lavāre: lavō, lavāre, lavāvī, lavātum
+- bapt’ – to baptise – baptizāre: baptizō, baptizāre, baptizāvī, baptizātum
+- bar’ – to bar, stop – obstruere: obstruō, obstruere, obstrūxī, obstrūctum
+- barb’ – the beard – barba, barbae (f.)
+- barel’ – barrel, cask – cupa, cupae (f.)
+- baston’ – stick – baculum, baculī (n.)
+- bat’ – to beat – verberāre: verberō, verberāre, verberāvī, verberātum
+- batal’ – to fight – pugnāre: pugnō, pugnāre, pugnāvī, pugnātum
+- bedaŭr’ – to regret – paenitēre: paenitet, paenitēre, paenituit (impers.)
+- bel – beautiful – pulcher, pulchra, pulchrum
+- ben’ – to bless – benedīcere: benedīcō, benedīcere, benedīxī, benedictum
+- benk’ – bench – scamnum, scamnī (n.)
+- best’ – animal, beast – bellua, belluae (f.) / animal, animālis (n.)
+- bezon’ – to want – dēsīderāre: dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātum
+- bier’ – beer – cervēsia, cervēsiae (f.)
+- bind’ – to bind – ligāre: ligō, ligāre, ligāvī, ligātum
+- bird’ – bird – avis, avis (f.)
+- blank’ – white – albus, -a, -um
+- blov’ – to blow – flare: flō, flāre, flāvī, flātum
+- blu’ – blue – caeruleus, -a, -um
+- bo’ – relation by marriage – (prefix) – affīnis (adj.)
+- boj’ – to bark – latrāre: latrō, latrāre, latrāvī, latrātum
+- bol’ – to boil – fervēre: ferbeō, fervēre, ferbuī, —
+- bon’ – good – bonus, -a, -um
+- bord’ – shore, bank – lītus, lītoris (n.) / rīpa, rīpae (f.)
+- bot’ – boot – calceus, calceī (m.)
+- botel’ – bottle – ampulla, ampullae (f.)
+- bov’ – ox – bōs, bovis (m./f.)
+- branĉ’ – branch – rāmus, rāmī (m.)
+- brand’ – brandy – ardens aqua (phrase) / vinum ardens
+- bril’ – to shine – micāre: micō, micāre, micuī, — / splendēre: splendeō, splendēre, —, —
+- bros’ – brush – penicillus, penicillī (m.)
+- bru’ – to make a noise – strepere: strepuī, strepitum
+- brul’ – to burn – ardēre: ardeō, ardēre, arsī, arsum
+- brust’ – breast – pectus, pectoris (n.)
+- brut’ – brute – brūtus, -a, -um / bellua, belluae (f.)
+- buŝ’ – mouth – ōs, ōris (n.)
+- buter’ – butter – būtyrum, būtyrī (n.)
+- buton’ – button – bulla, bullae (f.)
 
 ### C
 
-- cel’ – to aim – intendere: intendō, intendere, intendī, intentum  
-- cent – a hundred – centum (indecl.)  
-- cert’ – certain – certus, -a, -um  
-- ceter’ – the rest – cētera, cēterōrum  (n. pl.)  
-- cigar’ – cigar – sigārum, sigārī  (n.)  
-- cigared’ – cigarette – sigarella, sigārellae  (f.)  
-- citron’ – lemon – citrium, citriī  (n.) / mālum citreum
+- cel’ – to aim – intendere: intendō, intendere, intendī, intentum
+- cent – a hundred – centum (indecl.)
+- cert’ – certain – certus, -a, -um
+- ceter’ – the rest – cētera, cēterōrum (n. pl.)
+- cigar’ – cigar – sigārum, sigārī (n.)
+- cigared’ – cigarette – sigarella, sigārellae (f.)
+- citron’ – lemon – citrium, citriī (n.) / mālum citreum
 
 ### Ĉ
 
-- ĉagren’ – to grieve – dolēre: doleō, dolēre, doluī, dolitum  
-- ĉambr’ – room – cubiculum, cubiculī  (n.)  
-- ĉap’ – cap – pileus, pileī  (m.)  
-- ĉapel’ – hat – petasus, petasī  (m.)  
-- ĉar – because – quod / quia  
-- ĉe – at, near – apud (+ acc.) / ad (+ acc.)  
-- ĉemiz’ – shirt – tunica, tunicae  (f.) / subucula, subuculae  (f.)  
-- ĉen’ – chain – catēna, catēnae  (f.)  
-- ĉeriz’ – cherry – cerasus, cerasī  (f.) / cerasium, cerasiī  (n.)  
-- ĉerk’ – coffin – loculus, loculī  (m.) / arca, arcae  (f.)  
-- ĉes’ – to cease – dēsinere: dēsinō, dēsinere, dēsiī, dēsitum  
-- ĉeval’ – horse – equus, equī  (m.)  
-- ĉi – this (proximal) – hic, haec, hoc  
-- ĉia – every kind – omnis generis  
-- ĉiam – always – semper  
-- ĉie – everywhere – ubique  
-- ĉiel’ – heaven, sky – caelum, caelī  (n.)  
-- ĉio – everything – omnia, omnium  (n. pl.)  
-- ĉirkaŭ – around – circum (+ acc.)  
-- ĉiu – everyone – quisque, quisquis  
-- ĉj’ – diminutive suffix – (no Latin equivalent)  
+- ĉagren’ – to grieve – dolēre: doleō, dolēre, doluī, dolitum
+- ĉambr’ – room – cubiculum, cubiculī (n.)
+- ĉap’ – cap – pileus, pileī (m.)
+- ĉapel’ – hat – petasus, petasī (m.)
+- ĉar – because – quod / quia
+- ĉe – at, near – apud (+ acc.) / ad (+ acc.)
+- ĉemiz’ – shirt – tunica, tunicae (f.) / subucula, subuculae (f.)
+- ĉen’ – chain – catēna, catēnae (f.)
+- ĉeriz’ – cherry – cerasus, cerasī (f.) / cerasium, cerasiī (n.)
+- ĉerk’ – coffin – loculus, loculī (m.) / arca, arcae (f.)
+- ĉes’ – to cease – dēsinere: dēsinō, dēsinere, dēsiī, dēsitum
+- ĉeval’ – horse – equus, equī (m.)
+- ĉi – this (proximal) – hic, haec, hoc
+- ĉia – every kind – omnis generis
+- ĉiam – always – semper
+- ĉie – everywhere – ubique
+- ĉiel’ – heaven, sky – caelum, caelī (n.)
+- ĉio – everything – omnia, omnium (n. pl.)
+- ĉirkaŭ – around – circum (+ acc.)
+- ĉiu – everyone – quisque, quisquis
+- ĉj’ – diminutive suffix – (no Latin equivalent)
 - ĉu – whether, if – num / utrum
 
 ### D
 
-- da – of, supplying the genitive – ex (+ abl.) / dē (+ abl.)  
-- danc’ – to dance – saltāre: saltō, saltāre, saltāvī, saltātum  
-- danĝer’ – danger – perīculum, perīculī  (n.)  
-- dank’ – to thank – grātiās agere: agō, agere, ēgī, āctum  
-- daŭr’ – to endure, last – dūrāre: dūrō, dūrāre, dūrāvī, dūrātum  
-- de – from, of – dē (+ abl.) / ex (+ abl.)  
-- decid’ – to decide – dēcernere: dēcernō, dēcernere, dēcrēvī, dēcrētum  
-- defend’ – to defend – dēfendere: dēfendō, dēfendere, dēfendī, dēfēnsum  
-- dek – ten – decem (indecl.)  
-- dekstr’ – right (adj.) – dexter, dextra, dextrum  
-- demand’ – to ask – rogāre: rogō, rogāre, rogāvī, rogātum  
-- dens’ – dense, thick – densus, -a, -um  
-- dent’ – tooth – dēns, dentis  (m.)  
-- detru’ – to destroy – dēlēre: dēleō, dēlēre, dēlēvī, dēlētum  
-- dev’ – must, ought – dēbēre: dēbeō, dēbēre, dēbuī, dēbitum  
-- dezert’ – desert, wilderness – dēserta, dēsertōrum  (n. pl.) / solitūdō, solitūdinis  (f.)  
-- dezir’ – to desire – optāre: optō, optāre, optāvī, optātum  
-- Di’ – God – Deus, Deī  (m.)  
-- dik – thick, big – crassus, -a, -um  
-- diligent’ – diligence – dīligentia, dīligentiae  (f.)  
-- dimanĉ’ – Sunday – diēs Dominica / diēs Sōlis  (m.)  
-- dir’ – to say, tell – dīcere: dīcō, dīcere, dīxī, dictum  
-- dis’ – asunder, apart – dis- (prefix) / discindere: discindō, discindere, discidī, discissum  
-- disput’ – to dispute – disputāre: disputō, disputāre, disputāvī, disputātum  
-- divid’ – to divide – dīvidere: dīvidō, dīvidere, dīvīsī, dīvīsum  
-- dolĉ’ – sweet – dulcis, dulce  
-- dolor’ – pain, ache – dolor, dolōris  (m.)  
-- dom’ – house – domus, domūs  (f.)  
-- don’ – to give – dare: dō, dare, dedī, datum  
-- donac’ – to make a present – dōnāre: dōnō, dōnāre, dōnāvī, dōnātum  
-- dorm’ – to sleep – dormīre: dormiō, dormīre, dormīvī, dormītum  
-- dors’ – the back – dorsum, dorsī  (n.)  
-- du – two – duo, duae, duo  
+- da – of, supplying the genitive – ex (+ abl.) / dē (+ abl.)
+- danc’ – to dance – saltāre: saltō, saltāre, saltāvī, saltātum
+- danĝer’ – danger – perīculum, perīculī (n.)
+- dank’ – to thank – grātiās agere: agō, agere, ēgī, āctum
+- daŭr’ – to endure, last – dūrāre: dūrō, dūrāre, dūrāvī, dūrātum
+- de – from, of – dē (+ abl.) / ex (+ abl.)
+- decid’ – to decide – dēcernere: dēcernō, dēcernere, dēcrēvī, dēcrētum
+- defend’ – to defend – dēfendere: dēfendō, dēfendere, dēfendī, dēfēnsum
+- dek – ten – decem (indecl.)
+- dekstr’ – right (adj.) – dexter, dextra, dextrum
+- demand’ – to ask – rogāre: rogō, rogāre, rogāvī, rogātum
+- dens’ – dense, thick – densus, -a, -um
+- dent’ – tooth – dēns, dentis (m.)
+- detru’ – to destroy – dēlēre: dēleō, dēlēre, dēlēvī, dēlētum
+- dev’ – must, ought – dēbēre: dēbeō, dēbēre, dēbuī, dēbitum
+- dezert’ – desert, wilderness – dēserta, dēsertōrum (n. pl.) / solitūdō, solitūdinis (f.)
+- dezir’ – to desire – optāre: optō, optāre, optāvī, optātum
+- Di’ – God – Deus, Deī (m.)
+- dik – thick, big – crassus, -a, -um
+- diligent’ – diligence – dīligentia, dīligentiae (f.)
+- dimanĉ’ – Sunday – diēs Dominica / diēs Sōlis (m.)
+- dir’ – to say, tell – dīcere: dīcō, dīcere, dīxī, dictum
+- dis’ – asunder, apart – dis- (prefix) / discindere: discindō, discindere, discidī, discissum
+- disput’ – to dispute – disputāre: disputō, disputāre, disputāvī, disputātum
+- divid’ – to divide – dīvidere: dīvidō, dīvidere, dīvīsī, dīvīsum
+- dolĉ’ – sweet – dulcis, dulce
+- dolor’ – pain, ache – dolor, dolōris (m.)
+- dom’ – house – domus, domūs (f.)
+- don’ – to give – dare: dō, dare, dedī, datum
+- donac’ – to make a present – dōnāre: dōnō, dōnāre, dōnāvī, dōnātum
+- dorm’ – to sleep – dormīre: dormiō, dormīre, dormīvī, dormītum
+- dors’ – the back – dorsum, dorsī (n.)
+- du – two – duo, duae, duo
 - dum – while – dum (conj.)
 
 ### E
 
-- -e – adverb ending – -ē (Lat. adv. suffix)  
-- eben’ – even, smooth – aequus, -a, -um / lēvis, lēve  
-- ebl’ – possible – possibilis, possibile  
-- -ec’ – abstract quality suffix – -itia / -tia (Lat. suffix)  
-- eĉ – even (adv.) – etiam  
-- eduk’ – to educate – ēducāre: ēducō, ēducāre, ēducāvī, ēducātum  
-- edz’ – husband – marītus, marītī  (m.)  
-- efektiv’ – real, effective – effectīvus, -a, -um  
-- -eg’ – augmentative suffix – magnus / grandis  
-- egal’ – equal – aequus, -a, -um / pār, paris  
-- -ej’ – place suffix – -ārium / -tōrium (Lat. suffix)  
-- ek- – inceptive prefix – incipere: incipiō, incipere, incēpī, inceptum  
-- eks- – former, ex- – quondam / prīstinus  
-- ekster – outside – extrā (+ acc.) / forīs  
-- ekzempl’ – example – exemplum, exemplī  (n.)  
-- el – out of – ex (+ abl.)  
-- elekt’ – to choose – ēligere: ēligō, ēligere, ēlēgī, ēlēctum  
-- -em’ – inclined – prōnsus, -a, -um / prōclīvis  
-- en – in – in (+ abl.)  
-- enu’ – to be weary – taedēre: taedet, taedēre, taesum est (impers.)  
-- envi’ – to envy – invidēre: invideō, invidēre, invīdī, invīsum  
-- -er’ – single unit suffix – granum, granī  (n.)  
-- erar’ – to err – errāre: errō, errāre, errāvī, errātum  
-- escept’ – to except – excipere: excipiō, excipere, excēpī, exceptum  
-- esper’ – to hope – spērāre: spērō, spērāre, spērāvī, spērātum  
-- esprim’ – to express – exprimere: exprimō, exprimere, expressī, expressum  
-- est’ – to be – esse: sum, esse, fuī, futūrum  
-- estim’ – to esteem – aestimāre: aestimō, aestimāre, aestimāvī, aestimātum  
-- esting’ – to extinguish – exstinguere: exstinguō, exstinguere, exstīnxī, exstīnctum  
-- estr’ – chief – prīnceps, prīncipis  (m.) / dux, ducis  (m.)  
-- -et’ – diminutive suffix – parvus / minimus  
-- etaĝ’ – floor, story – tabulātum, tabulātī  (n.) / solum, solī  (n.)  
+- -e – adverb ending – -ē (Lat. adv. suffix)
+- eben’ – even, smooth – aequus, -a, -um / lēvis, lēve
+- ebl’ – possible – possibilis, possibile
+- -ec’ – abstract quality suffix – -itia / -tia (Lat. suffix)
+- eĉ – even (adv.) – etiam
+- eduk’ – to educate – ēducāre: ēducō, ēducāre, ēducāvī, ēducātum
+- edz’ – husband – marītus, marītī (m.)
+- efektiv’ – real, effective – effectīvus, -a, -um
+- -eg’ – augmentative suffix – magnus / grandis
+- egal’ – equal – aequus, -a, -um / pār, paris
+- -ej’ – place suffix – -ārium / -tōrium (Lat. suffix)
+- ek- – inceptive prefix – incipere: incipiō, incipere, incēpī, inceptum
+- eks- – former, ex- – quondam / prīstinus
+- ekster – outside – extrā (+ acc.) / forīs
+- ekzempl’ – example – exemplum, exemplī (n.)
+- el – out of – ex (+ abl.)
+- elekt’ – to choose – ēligere: ēligō, ēligere, ēlēgī, ēlēctum
+- -em’ – inclined – prōnsus, -a, -um / prōclīvis
+- en – in – in (+ abl.)
+- enu’ – to be weary – taedēre: taedet, taedēre, taesum est (impers.)
+- envi’ – to envy – invidēre: invideō, invidēre, invīdī, invīsum
+- -er’ – single unit suffix – granum, granī (n.)
+- erar’ – to err – errāre: errō, errāre, errāvī, errātum
+- escept’ – to except – excipere: excipiō, excipere, excēpī, exceptum
+- esper’ – to hope – spērāre: spērō, spērāre, spērāvī, spērātum
+- esprim’ – to express – exprimere: exprimō, exprimere, expressī, expressum
+- est’ – to be – esse: sum, esse, fuī, futūrum
+- estim’ – to esteem – aestimāre: aestimō, aestimāre, aestimāvī, aestimātum
+- esting’ – to extinguish – exstinguere: exstinguō, exstinguere, exstīnxī, exstīnctum
+- estr’ – chief – prīnceps, prīncipis (m.) / dux, ducis (m.)
+- -et’ – diminutive suffix – parvus / minimus
+- etaĝ’ – floor, story – tabulātum, tabulātī (n.) / solum, solī (n.)
 - etern’ – eternal – aeternus, -a, -um
 
 ### F
 
-- facil’ – light, easy – facilis, facile  
-- faden’ – thread – filum, fīlī  (n.)  
-- fajf’ – to pipe, to whistle – sībilāre: sībilō, sībilāre, sībilāvī, sībilātum  
-- fajr’ – fire – ignis, ignis  (m.)  
-- fal’ – to fall – cadere: cadō, cadere, cecidī, cāsum  
-- fald’ – to fold – plicāre: plicō, plicāre, plicāvī, plicātum  
-- famili’ – family – familia, familiae  (f.)  
-- far’ – to do, make – facere: faciō, facere, fēcī, factum  
-- far’iĝ’ – to become – fierī: fīō, fierī, factus sum  
-- fart’ – to live, be (well/ill) – valēre: valeō, valēre, valuī, valitūrum  
-- feliĉ’ – happy – fēlīx, fēlīcis  
-- fend’ – to split, chop – findere: findō, findere, fidī, fissum  
-- fenestr’ – window – fenestra, fenestrae  (f.)  
-- fer’ – iron – ferrum, ferrī  (n.)  
-- ferm’ – to shut – claudere: claudō, claudere, clausī, clausum  
-- fest’ – to feast – fēstum agere: agō, agere, ēgī, āctum  
-- fianĉ’ – betrothed, bridegroom – sponsus, sponsī  (m.)  
-- fidel’ – faithful – fidēlis, fidēle  
-- fier’ – proud – superbus, superba, superbum  
-- fil’ – son – fīlius, fīliī  (m.)  
-- fin’ – to finish – fīnīre: fīniō, fīnīre, fīnīvī, fīnītum  
-- fingr’ – finger – digitus, digitī  (m.)  
-- firm’ – firm – firmus, firma, firmum  
-- fiŝ’ – fish – piscis, piscis  (m.)  
-- flank’ – side, flank – latus, lateris  (n.)  
-- flar’ – to smell – olfacere: olfaciō, olfacere, olfēcī, olfactum  
-- flav’ – yellow – flāvus, flāva, flāvum  
-- flor’ – to flourish – flōrēre: flōreō, flōrēre, flōruī, —  
-- flu’ – to flow – fluere: fluō, fluere, flūxī, flūxum  
-- flug’ – to fly – volāre: volō, volāre, volāvī, volātum  
-- fluid’ – liquid – liquidus, liquida, liquidum  
-- foj’ – time (occurrence) – vicis, vicis  (f.)  
-- fojn’ – hay – faenum, faenī  (n.)  
-- foli’ – leaf – folium, foliī  (n.)  
-- fond’ – to found – condere: condō, condere, condidī, conditum  
-- font’ – fountain – fōns, fontis  (m.)  
-- for – away – ā / longē  
-- forges’ – to forget – obliviscī: oblīviscor, oblīvīscī, oblītus sum  
-- forĝ’ – to forge – fabricāre: fabricō, fabricāre, fabricāvī, fabricātum  
-- fork’ – fork – furcilla, furcillae  (f.)  
-- forn’ – stove – furnus, furnī  (m.)  
-- fort’ – strong – fortis, forte  
-- fos’ – to dig – fodere: fodiō, fodere, fōdī, fossum  
-- frap’ – to hit, beat – ferīre: feriō, ferīre, —, — / pulsāre: pulsō, pulsāre, pulsāvī, pulsātum  
-- frat’ – brother – frāter, frātris  (m.)  
-- fraŭl’ – bachelor – caelebs, caelibis  (m.)  
-- freŝ’ – fresh – recēns, recentis  
-- fromaĝ’ – cheese – caseus, caseī  (m.)  
-- frost’ – frost – frīgus, frīgoris  (n.)  
-- frot’ – to rub – fricāre: fricō, fricāre, fricāvī, fricātum  
-- fru’ – early – mātūrus, mātūra, mātūrum / prīmus, prīma, prīmum  
-- frukt’ – fruit – frūctus, frūctūs  (m.)  
-- frunt’ – forehead – frōns, frontis  (f.)  
-- fulm’ – lightning – fulgur, fulguris  (n.) / fulmen, fulminis  (n.)  
-- fum’ – smoke – fūmus, fūmī  (m.)  
-- fund’ – bottom – fundus, fundī  (m.)  
-- funebr’ – funeral – exsequiae, exsequiārum  (f. pl.)  
-- fung’ – mushroom – fungus, fungī  (m.)
+- facil’ – light, easy – facilis, facile
+- faden’ – thread – filum, fīlī (n.)
+- fajf’ – to pipe, to whistle – sībilāre: sībilō, sībilāre, sībilāvī, sībilātum
+- fajr’ – fire – ignis, ignis (m.)
+- fal’ – to fall – cadere: cadō, cadere, cecidī, cāsum
+- fald’ – to fold – plicāre: plicō, plicāre, plicāvī, plicātum
+- famili’ – family – familia, familiae (f.)
+- far’ – to do, make – facere: faciō, facere, fēcī, factum
+- far’iĝ’ – to become – fierī: fīō, fierī, factus sum
+- fart’ – to live, be (well/ill) – valēre: valeō, valēre, valuī, valitūrum
+- feliĉ’ – happy – fēlīx, fēlīcis
+- fend’ – to split, chop – findere: findō, findere, fidī, fissum
+- fenestr’ – window – fenestra, fenestrae (f.)
+- fer’ – iron – ferrum, ferrī (n.)
+- ferm’ – to shut – claudere: claudō, claudere, clausī, clausum
+- fest’ – to feast – fēstum agere: agō, agere, ēgī, āctum
+- fianĉ’ – betrothed, bridegroom – sponsus, sponsī (m.)
+- fidel’ – faithful – fidēlis, fidēle
+- fier’ – proud – superbus, superba, superbum
+- fil’ – son – fīlius, fīliī (m.)
+- fin’ – to finish – fīnīre: fīniō, fīnīre, fīnīvī, fīnītum
+- fingr’ – finger – digitus, digitī (m.)
+- firm’ – firm – firmus, firma, firmum
+- fiŝ’ – fish – piscis, piscis (m.)
+- flank’ – side, flank – latus, lateris (n.)
+- flar’ – to smell – olfacere: olfaciō, olfacere, olfēcī, olfactum
+- flav’ – yellow – flāvus, flāva, flāvum
+- flor’ – to flourish – flōrēre: flōreō, flōrēre, flōruī, —
+- flu’ – to flow – fluere: fluō, fluere, flūxī, flūxum
+- flug’ – to fly – volāre: volō, volāre, volāvī, volātum
+- fluid’ – liquid – liquidus, liquida, liquidum
+- foj’ – time (occurrence) – vicis, vicis (f.)
+- fojn’ – hay – faenum, faenī (n.)
+- foli’ – leaf – folium, foliī (n.)
+- fond’ – to found – condere: condō, condere, condidī, conditum
+- font’ – fountain – fōns, fontis (m.)
+- for – away – ā / longē
+- forges’ – to forget – obliviscī: oblīviscor, oblīvīscī, oblītus sum
+- forĝ’ – to forge – fabricāre: fabricō, fabricāre, fabricāvī, fabricātum
+- fork’ – fork – furcilla, furcillae (f.)
+- forn’ – stove – furnus, furnī (m.)
+- fort’ – strong – fortis, forte
+- fos’ – to dig – fodere: fodiō, fodere, fōdī, fossum
+- frap’ – to hit, beat – ferīre: feriō, ferīre, —, — / pulsāre: pulsō, pulsāre, pulsāvī, pulsātum
+- frat’ – brother – frāter, frātris (m.)
+- fraŭl’ – bachelor – caelebs, caelibis (m.)
+- freŝ’ – fresh – recēns, recentis
+- fromaĝ’ – cheese – caseus, caseī (m.)
+- frost’ – frost – frīgus, frīgoris (n.)
+- frot’ – to rub – fricāre: fricō, fricāre, fricāvī, fricātum
+- fru’ – early – mātūrus, mātūra, mātūrum / prīmus, prīma, prīmum
+- frukt’ – fruit – frūctus, frūctūs (m.)
+- frunt’ – forehead – frōns, frontis (f.)
+- fulm’ – lightning – fulgur, fulguris (n.) / fulmen, fulminis (n.)
+- fum’ – smoke – fūmus, fūmī (m.)
+- fund’ – bottom – fundus, fundī (m.)
+- funebr’ – funeral – exsequiae, exsequiārum (f. pl.)
+- fung’ – mushroom – fungus, fungī (m.)
 
 ### G
 
-- gaj’ – gay – gaudium, gaudiī  (n.) / laetus, laeta, laetum  
-- gajn’ – to win – vincere: vincō, vincere, vīcī, victum  
-- gant’ – glove – digitābulum, digitābulī  (n.) / gauntlēus, gauntlēī  (m.)  
-- gard’ – to guard – custōdīre: custōdiō, custōdīre, custōdīvī, custōdītum  
-- gast’ – guest – hospes, hospitis  (m.) / convīva, convīvae  (m./f.)  
-- ge- – of both sexes – uterque, utraque, utrumque  
-- genu’ – knee – genū, genūs  (n.)  
-- glaci’ – ice – glaciēs, glaciēī  (f.)  
-- glas’ – glass – poculum, poculī  (n.) / calix, calicis  (m.)  
-- glat’ – smooth – lēvis, lēve  
-- glav’ – sword – gladius, gladiī  (m.)  
-- glit’ – to slide – labī: labor, labī, lapsus sum / glissāre: glissō, glissāre, glissāvī, glissātum  
-- glor’ – to glorify – glōrificāre: glōrificō, glōrificāre, glōrificāvī, glōrificātum  
-- glut’ – to swallow – glutīre: gluttiō, glutīre, glutīvī, glutītum  
-- gorĝ’ – throat – gula, gulae  (f.) / guttur, gutturis  (n.)  
-- grand’ – great – magnus, magna, magnum  
-- gras’ – fat – adeps, adipis  (m./f.) / pinguis, pingue  
-- grat’ – to scratch – scabere: scabiō, scabere, scabī, — / scalpere: scalpō, scalpere, scalpsī, scalptum  
-- gratul’ – to congratulate – grātulārī: grātulor, grātulārī, grātulātus sum  
-- grav’ – grave – gravis, grave  
-- griz’ – gray – canus, cana, canum / cinereus, cinerea, cinereum  
-- gust’ – taste – gustus, gustūs  (m.)  
-- gut’ – to drop – stillāre: stillō, stillāre, stillāvī, stillātum  
-- gut’o – drop – gutta, guttae  (f.)
+- gaj’ – gay – gaudium, gaudiī (n.) / laetus, laeta, laetum
+- gajn’ – to win – vincere: vincō, vincere, vīcī, victum
+- gant’ – glove – digitābulum, digitābulī (n.) / gauntlēus, gauntlēī (m.)
+- gard’ – to guard – custōdīre: custōdiō, custōdīre, custōdīvī, custōdītum
+- gast’ – guest – hospes, hospitis (m.) / convīva, convīvae (m./f.)
+- ge- – of both sexes – uterque, utraque, utrumque
+- genu’ – knee – genū, genūs (n.)
+- glaci’ – ice – glaciēs, glaciēī (f.)
+- glas’ – glass – poculum, poculī (n.) / calix, calicis (m.)
+- glat’ – smooth – lēvis, lēve
+- glav’ – sword – gladius, gladiī (m.)
+- glit’ – to slide – labī: labor, labī, lapsus sum / glissāre: glissō, glissāre, glissāvī, glissātum
+- glor’ – to glorify – glōrificāre: glōrificō, glōrificāre, glōrificāvī, glōrificātum
+- glut’ – to swallow – glutīre: gluttiō, glutīre, glutīvī, glutītum
+- gorĝ’ – throat – gula, gulae (f.) / guttur, gutturis (n.)
+- grand’ – great – magnus, magna, magnum
+- gras’ – fat – adeps, adipis (m./f.) / pinguis, pingue
+- grat’ – to scratch – scabere: scabiō, scabere, scabī, — / scalpere: scalpō, scalpere, scalpsī, scalptum
+- gratul’ – to congratulate – grātulārī: grātulor, grātulārī, grātulātus sum
+- grav’ – grave – gravis, grave
+- griz’ – gray – canus, cana, canum / cinereus, cinerea, cinereum
+- gust’ – taste – gustus, gustūs (m.)
+- gut’ – to drop – stillāre: stillō, stillāre, stillāvī, stillātum
+- gut’o – drop – gutta, guttae (f.)
 
 ### Ĝ
 
-- ĝarden’ – garden – hortus, hortī  (m.)  
-- ĝem’ – to groan – gēmēre: gēmō, gēmēre, gēmuī, gēmitum  
-- ĝentil’ – gentle – gentīlis, gentīle / mītis, mīte  
-- ĝi – it – id (pronoun)  
-- ĝis – to, until, up to – usque ad (+ acc.)  
+- ĝarden’ – garden – hortus, hortī (m.)
+- ĝem’ – to groan – gēmēre: gēmō, gēmēre, gēmuī, gēmitum
+- ĝentil’ – gentle – gentīlis, gentīle / mītis, mīte
+- ĝi – it – id (pronoun)
+- ĝis – to, until, up to – usque ad (+ acc.)
 - ĝoj’ – to rejoice, to be glad – gaudēre: gaudeō, gaudēre, gāvīsus sum
 
-### H  
+### H
 
-- ha! – ha! ah! – eheu!  
-- hajl’ – the hail – grando, grandinis f. (gen. grandinis)  
-- haladz’ – bad exhalation – halitus foetidus m. (gen. halitūs)  
-- halt’ – to stop, to make a stay – sistere: sistō, sistere, stitī, status  
-- har’ – a hair – capillus m. (gen. capillī); crinis m. (gen. crinis)  
-- haring’ – a herring – allec, allecis m. (gen. allecis)  
-- haŭt’ – skin, hide – cutis, cutis f. (gen. cutis); pellis, pellis f. (gen. pellis)  
-- hav’ – to have – habēre: habeō, habēre, habuī, habitus  
-- hejt’ – to heat, to make a fire – calefacere: calefaciō, calefacere, calefēcī, calefactus  
-- help’ – to help, to aid – adiuvāre: adiuvō, adiuvāre, adiūvī, adiūtus  
-- herb’ – herb, grass – herba, herbae f. (gen. herbae)  
-- hered’ – to inherit – herēditāre: herēditō, herēditāre, herēditāvī, herēditātus  
-- hieraŭ – yesterday – heri  
-- ho! – oh! – ō!  
-- hodiaŭ – to-day – hodiē  
-- hom’ – man (human beings in general) – homō, hominis m./f. (gen. hominis)  
-- honest’ – honest – honestus, honesta, honestum  
-- hont’ – shame – pudor, pudōris m. (gen. pudōris); rubor, rubōris m. (gen. rubōris)  
-- hor’ – an hour – hōra, hōrae f. (gen. hōrae)  
-- horloĝ’ – a clock – hōrologium, hōrologiī n. (gen. hōrologiī)  
-- hotel’ – inn, hotel – dēversōrium, dēversōriī n. (gen. dēversōriī); caupōna, caupōnae f. (gen. caupōnae) 
-- huf’ – hoof – ungula, ungulae f. (gen. ungulae); sōleā, sōleae f. (gen. sōleae)  
-- humil’ – humble – humilis, humile  
-- hund’ – dog – canis, canis m./f. (gen. canis)  
+- ha! – ha! ah! – eheu!
+- hajl’ – the hail – grando, grandinis f. (gen. grandinis)
+- haladz’ – bad exhalation – halitus foetidus m. (gen. halitūs)
+- halt’ – to stop, to make a stay – sistere: sistō, sistere, stitī, status
+- har’ – a hair – capillus m. (gen. capillī); crinis m. (gen. crinis)
+- haring’ – a herring – allec, allecis m. (gen. allecis)
+- haŭt’ – skin, hide – cutis, cutis f. (gen. cutis); pellis, pellis f. (gen. pellis)
+- hav’ – to have – habēre: habeō, habēre, habuī, habitus
+- hejt’ – to heat, to make a fire – calefacere: calefaciō, calefacere, calefēcī, calefactus
+- help’ – to help, to aid – adiuvāre: adiuvō, adiuvāre, adiūvī, adiūtus
+- herb’ – herb, grass – herba, herbae f. (gen. herbae)
+- hered’ – to inherit – herēditāre: herēditō, herēditāre, herēditāvī, herēditātus
+- hieraŭ – yesterday – heri
+- ho! – oh! – ō!
+- hodiaŭ – to-day – hodiē
+- hom’ – man (human beings in general) – homō, hominis m./f. (gen. hominis)
+- honest’ – honest – honestus, honesta, honestum
+- hont’ – shame – pudor, pudōris m. (gen. pudōris); rubor, rubōris m. (gen. rubōris)
+- hor’ – an hour – hōra, hōrae f. (gen. hōrae)
+- horloĝ’ – a clock – hōrologium, hōrologiī n. (gen. hōrologiī)
+- hotel’ – inn, hotel – dēversōrium, dēversōriī n. (gen. dēversōriī); caupōna, caupōnae f. (gen. caupōnae)
+- huf’ – hoof – ungula, ungulae f. (gen. ungulae); sōleā, sōleae f. (gen. sōleae)
+- humil’ – humble – humilis, humile
+- hund’ – dog – canis, canis m./f. (gen. canis)
 
-### I  
+### I
 
-- i – infinitive marker – (Latin infinitive ending ‑re)  
-- ia – some – aliquis, aliqua, aliquid  
-- ial – by whatever cause – ob aliquam causam  
-- iam – sometime – aliquandō  
-- id’ – child, descendant – fīlius, fīliī m. (gen. fīliī); fīlia, fīliae f. (gen. fīliae)  
-- ie – somewhere – alicubi  
-- iel – in some manner – aliquō modō  
-- ies – someone’s – alicuius  
-- ig’ – to cause to be – facere ut: faciō, facere, fēcī, factus  
-- iĝ’ – to become – fierī: fiō, fierī, factus sum  
-- il’ – an instrument – instrumentum, instrumentī n. (gen. instrumentī)  
-- ili – they – illī, illae, illa  
-- in’ – feminine suffix – (-a, -ae f.)  
-- ind’ – worth, worthy – dignus, digna, dignum  
-- ing’ – a holder – receptāculum, receptāculī n. (gen. receptāculī)  
-- ink’ – ink – atramentum, atramentī n. (gen. atramentī)  
-- instru’ – to teach – docēre: doceō, docēre, docuī, doctus  
-- insul’ – island – īnsula, īnsulae f. (gen. īnsulae)  
-- insult’ – to insult – īnsultāre: īnsultō, īnsultāre, īnsultāvī, īnsultātus  
-- int’ – past active participle – ‑ns, ‑ntis  
-- intenc’ – to intend – intendere: intendō, intendere, intendī, intentus  
-- inter – between – inter (+ acc.)  
-- intern’ – inwardly – intrā, introrsum  
-- invit’ – to invite – invītāre: invītō, invītāre, invītāvī, invītātus  
-- io – something – aliquid  
-- iom – any, some – aliquantum  
-- ir’ – to go – īre: eō, īre, iī/īvī, itus  
-- is – past tense marker – ‑vī, ‑tus (perfect endings)  
-- ist’ – one occupied with – ‑ārius, ‑āriī m. (gen. ‑āriī)  
-- it’ – past passive participle – ‑tus, ‑ta, ‑tum  
+- i – infinitive marker – (Latin infinitive ending ‑re)
+- ia – some – aliquis, aliqua, aliquid
+- ial – by whatever cause – ob aliquam causam
+- iam – sometime – aliquandō
+- id’ – child, descendant – fīlius, fīliī m. (gen. fīliī); fīlia, fīliae f. (gen. fīliae)
+- ie – somewhere – alicubi
+- iel – in some manner – aliquō modō
+- ies – someone’s – alicuius
+- ig’ – to cause to be – facere ut: faciō, facere, fēcī, factus
+- iĝ’ – to become – fierī: fiō, fierī, factus sum
+- il’ – an instrument – instrumentum, instrumentī n. (gen. instrumentī)
+- ili – they – illī, illae, illa
+- in’ – feminine suffix – (-a, -ae f.)
+- ind’ – worth, worthy – dignus, digna, dignum
+- ing’ – a holder – receptāculum, receptāculī n. (gen. receptāculī)
+- ink’ – ink – atramentum, atramentī n. (gen. atramentī)
+- instru’ – to teach – docēre: doceō, docēre, docuī, doctus
+- insul’ – island – īnsula, īnsulae f. (gen. īnsulae)
+- insult’ – to insult – īnsultāre: īnsultō, īnsultāre, īnsultāvī, īnsultātus
+- int’ – past active participle – ‑ns, ‑ntis
+- intenc’ – to intend – intendere: intendō, intendere, intendī, intentus
+- inter – between – inter (+ acc.)
+- intern’ – inwardly – intrā, introrsum
+- invit’ – to invite – invītāre: invītō, invītāre, invītāvī, invītātus
+- io – something – aliquid
+- iom – any, some – aliquantum
+- ir’ – to go – īre: eō, īre, iī/īvī, itus
+- is – past tense marker – ‑vī, ‑tus (perfect endings)
+- ist’ – one occupied with – ‑ārius, ‑āriī m. (gen. ‑āriī)
+- it’ – past passive participle – ‑tus, ‑ta, ‑tum
 - iu – someone – aliquis, aliquī
 
 ### J
 
-- j – indicates the plural – (-ī, -ae, -a)  
-- ja – however, nevertheless – tamen, verumtamen  
-- jam – already – iam, iam pridem  
-- jar’ – year – annus, annī m. (gen. annī)  
-- Je – (preposition whose sense depends on context) – (Latin uses ad, in, apud, etc. as context demands)  
-- jen – there, here – ecce, en  
-- Jes – yes – ita, etiam, certē  
-- ju—des – the … the … – quo … eo …  
-- juĝ’ – to judge – iūdicāre: iūdicō, iūdicāre, iūdicāvī, iūdicātus  
-- jun’ – young – iuvenis, iuvene; adulescens, adulescentis  
-- just’ – just, equitable – iūstus, iūsta, iūstum  
+- j – indicates the plural – (-ī, -ae, -a)
+- ja – however, nevertheless – tamen, verumtamen
+- jam – already – iam, iam pridem
+- jar’ – year – annus, annī m. (gen. annī)
+- Je – (preposition whose sense depends on context) – (Latin uses ad, in, apud, etc. as context demands)
+- jen – there, here – ecce, en
+- Jes – yes – ita, etiam, certē
+- ju—des – the … the … – quo … eo …
+- juĝ’ – to judge – iūdicāre: iūdicō, iūdicāre, iūdicāvī, iūdicātus
+- jun’ – young – iuvenis, iuvene; adulescens, adulescentis
+- just’ – just, equitable – iūstus, iūsta, iūstum
 
-### Ĵ  
+### Ĵ
 
-- ĵaŭd’ – Thursday – dies Iovis m. (gen. dieī Iovis)  
-- ĵet – to throw, to cast – iacere: iaciō, iacere, iēcī, iactus  
+- ĵaŭd’ – Thursday – dies Iovis m. (gen. dieī Iovis)
+- ĵet – to throw, to cast – iacere: iaciō, iacere, iēcī, iactus
 - ĵur’ – to swear – iūrāre: iūrō, iūrāre, iūrāvī, iūrātus
 
 ### K
 
-- kaf’ – coffee – coffea, coffeae f. (gen. coffeae)  
-- kaj – and – et, atque  
-- kajer’ – stitched writing-book, copy-book – cōdex chartārius, cōdicis m. (gen. cōdicis)  
-- kaldron’ – kettle, caldron – caldārium, caldāriī n. (gen. caldāriī)  
-- kaleŝ’ – cab, light carriage – carpentum, carpentī n. (gen. carpentī)  
-- kalkul’ – to count, to reckon – numerāre: numerō, numerāre, numerāvī, numerātus  
-- kamen’ – chimney, fireplace – focus, focī m. (gen. focī)  
-- kamp’ – field – ager, agrī m. (gen. agrī)  
-- kanap’ – sofa – lectulus, lectulī m. (gen. lectulī)  
-- kandel’ – candle – candēla, candēlae f. (gen. candēlae)  
-- kant’ – to sing – canere: canō, canere, cecinī, cantus  
-- kap’ – head – caput, capitis n. (gen. capitis)  
-- kapt’ – to seize, to catch – capere: capiō, capere, cēpī, captus  
-- kar’ – dear – carus, cara, carum  
-- karb’ – coal – carbō, carboōnis m. (gen. carboōnis)  
-- kares’ – to caress – mulcēre: mulceō, mulcēre, mulsī, mulsus  
-- kaŝ’ – to hide, to conceal – occultāre: occultō, occultāre, occultāvī, occultātus  
-- kat’ – cat – fēlēs, fēlis f. (gen. fēlis)  
-- kaŭz’ – to cause – causāre: causō, causāre, causāvī, causātus  
-- ke – that (conj.) – quod, ut  
-- kelk’ – some, certain – quīdam, quaedam, quoddam  
-- kest’ – box, chest – arca, arcae f. (gen. arcae)  
-- kia – what (kind of) – quālis, quāle  
-- kial – why – cūr, quārē  
-- kiam – when – cum, quandō  
-- kie – where – ubi  
-- kiel – how – quōmodo, quemadmodum  
-- kies – whose – cuius  
-- kio – what, that which – quid, id quod  
-- kiom – how much, how many – quantus, quanta, quantum  
-- kis’ – to kiss – ōsculārī: ōsculor, ōsculārī, ōsculātus sum  
-- kiu – who – quī, quae, quod  
-- klar’ – clear – clārus, clāra, clārum  
-- knab’ – boy, lad – puer, puerī m. (gen. puerī)  
-- kok’ – cock – gallus, gallī m. (gen. gallī)  
-- kol’ – neck – collum, collī n. (gen. collī)  
-- koleg’ – colleague – collega, collegae m. (gen. collegae)  
-- kolekt’ – to collect – colligere: colligō, colligere, collēgī, collectus  
-- koler’ – to be angry – īrāscī: īrāscor, īrāscī, īrātus sum  
-- kolon’ – column, pillar – columna, columnae f. (gen. columnae)  
-- kolor’ – colour – color, colōris m. (gen. colōris)  
-- komb’ – to comb – pectere: pectō, pectere, pexī, pexus  
-- komenc’ – to begin – incipere: incipiō, incipere, incēpī, inceptus  
-- komerc’ – to trade – commercārī: commercor, commercārī, commercātus sum  
-- kompat’ – to compassionate – miserērī: miserēor, miserērī, miseritus sum  
-- kompren’ – to understand – comprehendere: comprehendō, comprehendere, comprehendī, comprehensus  
-- kon’ – to know – nōscere / scīre: nōscō, nōscere, nōvī, nōtus / sciō, scīre, scīvī, scītus  
-- kondiĉ’ – condition – condiciō, condiciōnis f. (gen. condiciōnis)  
-- konduk’ – to conduct – dūcere: dūcō, dūcere, dūxī, ductus  
-- konfes’ – to confess – fāteī: fāteor, fātērī, fassus sum  
-- konsent’ – to consent – consentīre: consentiō, consentīre, consēnsī, consēnsus  
-- konserv’ – to preserve – servāre: servō, servāre, servāvī, servātus  
-- konsil’ – to counsel – cōnsiliārī: cōnsiliō, cōnsiliārī, cōnsiliātus sum  
-- konsol’ – to console – cōnsōlārī: cōnsōlor, cōnsōlārī, cōnsōlātus sum  
-- konstant’ – constant – constāns, constantis  
-- konstru’ – to construct – aedificāre: aedificō, aedificāre, aedificāvī, aedificātus  
-- kontent’ – content – contentus, contenta, contentum  
-- kontraŭ – against – contrā (+ acc.)  
-- konven’ – to suit – convenīre: conveniō, convenīre, convēnī, conventus  
-- kor’ – heart – cor, cordis n. (gen. cordis)  
-- korn’ – horn – cornū, cornūs n. (gen. cornūs)  
-- korp’ – body – corpus, corporis n. (gen. corporis)  
-- kort’ – court, courtyard – atrium, atriī n. (gen. atriī)  
-- kost’ – to cost – constāre: constō, constāre, constitī, —  
-- kovr’ – to cover – operīre: operiō, operīre, operuī, opertus  
-- kraĉ’ – to spit – spuere: spuō, spuere, spuī, spūtus  
-- krajon’ – pencil, crayon – graphium, graphiī n. (gen. graphiī)  
-- kravat’ – cravat, neck-cloth – focale, focalis n. (gen. focalis)  
-- kre’ – to create – creāre: creō, creāre, creāvī, creātus  
-- kred’ – to believe – crēdere: crēdō, crēdere, crēdidī, crēditus  
-- kresk’ – to grow – crēscere: crēscō, crēscere, crēvī, crētus  
-- kret’ – chalk – creta, cretae f. (gen. cretae)  
-- kri’ – to cry – clāmāre: clāmō, clāmāre, clāmāvī, clāmātus  
-- kron’ – crown, garland – corōna, corōnae f. (gen. corōnae)  
-- kruc’ – cross – crux, crucis f. (gen. crucis)  
-- kudr’ – to sew – suere: suō, suere, suī, sūtus  
-- kuir’ – to cook – coquere: coquō, coquere, coxī, coctus  
-- kuler’ – spoon – cochlear, cochlearis n. (gen. cochlearis)  
-- kulp’ – guilty – culpābilis, culpābile  
-- kun – with – cum (+ abl.)  
-- kun’e – together – simul, ūnā  
-- kupr’ – copper – aes, aeris n. (gen. aeris)  
-- kur’ – to run – currere: currō, currere, cucurrī, cursus  
-- kurac’ – to cure – cūrāre: cūrō, cūrāre, cūrāvī, cūrātus  
-- kuraĝ’ – courageous – fortis, forte; audāx, audācis  
-- kurten’ – curtain – velum, velī n. (gen. velī)  
-- kusen’ – cushion – pulvīnus, pulvīnī m. (gen. pulvīnī)  
-- kuŝ’ – to lie (recline) – iacēre: iaceō, iacēre, iacuī, iacitus  
-- kutim’ – to accustom – assuēscere: assuēscō, assuēscere, assuēvī, assuētus  
-- kuz’ – cousin – consobrīnus, consobrīnī m. / consobrīna, consobrīnae f. (gen. consobrīnī / consobrīnae)  
-- kvankam – although – quamquam  
-- kvar – four – quattuor  
+- kaf’ – coffee – coffea, coffeae f. (gen. coffeae)
+- kaj – and – et, atque
+- kajer’ – stitched writing-book, copy-book – cōdex chartārius, cōdicis m. (gen. cōdicis)
+- kaldron’ – kettle, caldron – caldārium, caldāriī n. (gen. caldāriī)
+- kaleŝ’ – cab, light carriage – carpentum, carpentī n. (gen. carpentī)
+- kalkul’ – to count, to reckon – numerāre: numerō, numerāre, numerāvī, numerātus
+- kamen’ – chimney, fireplace – focus, focī m. (gen. focī)
+- kamp’ – field – ager, agrī m. (gen. agrī)
+- kanap’ – sofa – lectulus, lectulī m. (gen. lectulī)
+- kandel’ – candle – candēla, candēlae f. (gen. candēlae)
+- kant’ – to sing – canere: canō, canere, cecinī, cantus
+- kap’ – head – caput, capitis n. (gen. capitis)
+- kapt’ – to seize, to catch – capere: capiō, capere, cēpī, captus
+- kar’ – dear – carus, cara, carum
+- karb’ – coal – carbō, carboōnis m. (gen. carboōnis)
+- kares’ – to caress – mulcēre: mulceō, mulcēre, mulsī, mulsus
+- kaŝ’ – to hide, to conceal – occultāre: occultō, occultāre, occultāvī, occultātus
+- kat’ – cat – fēlēs, fēlis f. (gen. fēlis)
+- kaŭz’ – to cause – causāre: causō, causāre, causāvī, causātus
+- ke – that (conj.) – quod, ut
+- kelk’ – some, certain – quīdam, quaedam, quoddam
+- kest’ – box, chest – arca, arcae f. (gen. arcae)
+- kia – what (kind of) – quālis, quāle
+- kial – why – cūr, quārē
+- kiam – when – cum, quandō
+- kie – where – ubi
+- kiel – how – quōmodo, quemadmodum
+- kies – whose – cuius
+- kio – what, that which – quid, id quod
+- kiom – how much, how many – quantus, quanta, quantum
+- kis’ – to kiss – ōsculārī: ōsculor, ōsculārī, ōsculātus sum
+- kiu – who – quī, quae, quod
+- klar’ – clear – clārus, clāra, clārum
+- knab’ – boy, lad – puer, puerī m. (gen. puerī)
+- kok’ – cock – gallus, gallī m. (gen. gallī)
+- kol’ – neck – collum, collī n. (gen. collī)
+- koleg’ – colleague – collega, collegae m. (gen. collegae)
+- kolekt’ – to collect – colligere: colligō, colligere, collēgī, collectus
+- koler’ – to be angry – īrāscī: īrāscor, īrāscī, īrātus sum
+- kolon’ – column, pillar – columna, columnae f. (gen. columnae)
+- kolor’ – colour – color, colōris m. (gen. colōris)
+- komb’ – to comb – pectere: pectō, pectere, pexī, pexus
+- komenc’ – to begin – incipere: incipiō, incipere, incēpī, inceptus
+- komerc’ – to trade – commercārī: commercor, commercārī, commercātus sum
+- kompat’ – to compassionate – miserērī: miserēor, miserērī, miseritus sum
+- kompren’ – to understand – comprehendere: comprehendō, comprehendere, comprehendī, comprehensus
+- kon’ – to know – nōscere / scīre: nōscō, nōscere, nōvī, nōtus / sciō, scīre, scīvī, scītus
+- kondiĉ’ – condition – condiciō, condiciōnis f. (gen. condiciōnis)
+- konduk’ – to conduct – dūcere: dūcō, dūcere, dūxī, ductus
+- konfes’ – to confess – fāteī: fāteor, fātērī, fassus sum
+- konsent’ – to consent – consentīre: consentiō, consentīre, consēnsī, consēnsus
+- konserv’ – to preserve – servāre: servō, servāre, servāvī, servātus
+- konsil’ – to counsel – cōnsiliārī: cōnsiliō, cōnsiliārī, cōnsiliātus sum
+- konsol’ – to console – cōnsōlārī: cōnsōlor, cōnsōlārī, cōnsōlātus sum
+- konstant’ – constant – constāns, constantis
+- konstru’ – to construct – aedificāre: aedificō, aedificāre, aedificāvī, aedificātus
+- kontent’ – content – contentus, contenta, contentum
+- kontraŭ – against – contrā (+ acc.)
+- konven’ – to suit – convenīre: conveniō, convenīre, convēnī, conventus
+- kor’ – heart – cor, cordis n. (gen. cordis)
+- korn’ – horn – cornū, cornūs n. (gen. cornūs)
+- korp’ – body – corpus, corporis n. (gen. corporis)
+- kort’ – court, courtyard – atrium, atriī n. (gen. atriī)
+- kost’ – to cost – constāre: constō, constāre, constitī, —
+- kovr’ – to cover – operīre: operiō, operīre, operuī, opertus
+- kraĉ’ – to spit – spuere: spuō, spuere, spuī, spūtus
+- krajon’ – pencil, crayon – graphium, graphiī n. (gen. graphiī)
+- kravat’ – cravat, neck-cloth – focale, focalis n. (gen. focalis)
+- kre’ – to create – creāre: creō, creāre, creāvī, creātus
+- kred’ – to believe – crēdere: crēdō, crēdere, crēdidī, crēditus
+- kresk’ – to grow – crēscere: crēscō, crēscere, crēvī, crētus
+- kret’ – chalk – creta, cretae f. (gen. cretae)
+- kri’ – to cry – clāmāre: clāmō, clāmāre, clāmāvī, clāmātus
+- kron’ – crown, garland – corōna, corōnae f. (gen. corōnae)
+- kruc’ – cross – crux, crucis f. (gen. crucis)
+- kudr’ – to sew – suere: suō, suere, suī, sūtus
+- kuir’ – to cook – coquere: coquō, coquere, coxī, coctus
+- kuler’ – spoon – cochlear, cochlearis n. (gen. cochlearis)
+- kulp’ – guilty – culpābilis, culpābile
+- kun – with – cum (+ abl.)
+- kun’e – together – simul, ūnā
+- kupr’ – copper – aes, aeris n. (gen. aeris)
+- kur’ – to run – currere: currō, currere, cucurrī, cursus
+- kurac’ – to cure – cūrāre: cūrō, cūrāre, cūrāvī, cūrātus
+- kuraĝ’ – courageous – fortis, forte; audāx, audācis
+- kurten’ – curtain – velum, velī n. (gen. velī)
+- kusen’ – cushion – pulvīnus, pulvīnī m. (gen. pulvīnī)
+- kuŝ’ – to lie (recline) – iacēre: iaceō, iacēre, iacuī, iacitus
+- kutim’ – to accustom – assuēscere: assuēscō, assuēscere, assuēvī, assuētus
+- kuz’ – cousin – consobrīnus, consobrīnī m. / consobrīna, consobrīnae f. (gen. consobrīnī / consobrīnae)
+- kvankam – although – quamquam
+- kvar – four – quattuor
 - kvin – five – quīnque
 
 ### L
 
 - l’ – (elided article) – idem ac “la”
 - la – the – (no exact Latin equivalent; demonstratives hic, ille, iste supply the article)
-- labor’ – to labour, to work – laborāre: laborō, laborāre, laborāvī, laborātus  
-- lac’ – weary, tired – fessus, fessa, fessum  
-- lakt’ – milk – lac, lactis n. (gen. lactis)  
-- lam’ – lame – claudus, clauda, claudum  
-- lamp’ – lamp – lucerna, lucernae f. (gen. lucernae)  
-- land’ – land, country – terra, terrae f. (gen. terrae)  
-- lang’ – tongue – lingua, linguae f. (gen. linguae)  
-- lantern’ – lantern – lanterna, lanternae f. (gen. lanternae)  
-- larĝ’ – large, broad – lātus, lāta, lātum  
-- larm’ – tear – lacrima, lacrimae f. (gen. lacrimae)  
-- las’ – to let, to allow – sinere: sineō, sinere, sīvī, situs / dimittere: dīmittō, dīmittere, dīmīsī, dīmissus  
-- last’ – last, latest – ultimus, ultima, ultimum  
-- laŭ – according to – secundum (+ acc.)  
-- laŭd’ – to praise – laudāre: laudō, laudāre, laudāvī, laudātus  
-- laŭt’ – aloud, loudly – clārē, magnā vōce  
-- lav’ – to wash – lavāre: lavō, lavāre, lavāvī, lavātus  
-- lecion’ – lesson – lēctiō, lēctiōnis f. (gen. lēctiōnis)  
-- leg’ – to read – legere: legō, legere, lēgī, lēctus  
-- leĝ’ – law – lēx, lēgis f. (gen. lēgis)  
-- leon’ – lion – leō, leōnis m. (gen. leōnis)  
-- lern’ – to learn – discere: discō, discere, didicī, —  
-- lert’ – dexterous, skilful – callidus, callida, callidum  
-- leter’ – letter, epistle – epistula, epistulae f. (gen. epistulae)  
-- lev’ – to lift, to raise – levāre: levō, levāre, levāvī, levātus / tollere: tollō, tollere, sustulī, sublātus  
-- li – he – is, eī m. (gen. eius)  
-- liber’ – free – līber, lībera, līberum  
-- libr’ – book – liber, librī m. (gen. librī)  
-- lig’ – to bind – ligāre: ligō, ligāre, ligāvī, ligātus  
-- lign’ – wood – lignum, lignī n. (gen. lignī)  
-- lingv’ – language, tongue – lingua, linguae f. (gen. linguae)  
-- lip’ – lip – labium, labiī n. (gen. labiī)  
-- lit’ – bed – lectus, lectī m. (gen. lectī)  
-- liter’ – letter (of the alphabet) – littera, litterae f. (gen. litterae)  
-- loĝ’ – to dwell – habitāre: habitō, habitāre, habitāvī, habitātus  
-- lok’ – place – locus, locī m. (gen. locī)  
-- long’ – long – longus, longa, longum  
-- lud’ – to play – lūdere: lūdō, lūdere, lūsī, lūsus  
-- lum’ – to light, to shine – lūcēre: lūceō, lūcēre, lūxī, —  
-- lun’ – moon – lūna, lūnae f. (gen. lūnae)  
+- labor’ – to labour, to work – laborāre: laborō, laborāre, laborāvī, laborātus
+- lac’ – weary, tired – fessus, fessa, fessum
+- lakt’ – milk – lac, lactis n. (gen. lactis)
+- lam’ – lame – claudus, clauda, claudum
+- lamp’ – lamp – lucerna, lucernae f. (gen. lucernae)
+- land’ – land, country – terra, terrae f. (gen. terrae)
+- lang’ – tongue – lingua, linguae f. (gen. linguae)
+- lantern’ – lantern – lanterna, lanternae f. (gen. lanternae)
+- larĝ’ – large, broad – lātus, lāta, lātum
+- larm’ – tear – lacrima, lacrimae f. (gen. lacrimae)
+- las’ – to let, to allow – sinere: sineō, sinere, sīvī, situs / dimittere: dīmittō, dīmittere, dīmīsī, dīmissus
+- last’ – last, latest – ultimus, ultima, ultimum
+- laŭ – according to – secundum (+ acc.)
+- laŭd’ – to praise – laudāre: laudō, laudāre, laudāvī, laudātus
+- laŭt’ – aloud, loudly – clārē, magnā vōce
+- lav’ – to wash – lavāre: lavō, lavāre, lavāvī, lavātus
+- lecion’ – lesson – lēctiō, lēctiōnis f. (gen. lēctiōnis)
+- leg’ – to read – legere: legō, legere, lēgī, lēctus
+- leĝ’ – law – lēx, lēgis f. (gen. lēgis)
+- leon’ – lion – leō, leōnis m. (gen. leōnis)
+- lern’ – to learn – discere: discō, discere, didicī, —
+- lert’ – dexterous, skilful – callidus, callida, callidum
+- leter’ – letter, epistle – epistula, epistulae f. (gen. epistulae)
+- lev’ – to lift, to raise – levāre: levō, levāre, levāvī, levātus / tollere: tollō, tollere, sustulī, sublātus
+- li – he – is, eī m. (gen. eius)
+- liber’ – free – līber, lībera, līberum
+- libr’ – book – liber, librī m. (gen. librī)
+- lig’ – to bind – ligāre: ligō, ligāre, ligāvī, ligātus
+- lign’ – wood – lignum, lignī n. (gen. lignī)
+- lingv’ – language, tongue – lingua, linguae f. (gen. linguae)
+- lip’ – lip – labium, labiī n. (gen. labiī)
+- lit’ – bed – lectus, lectī m. (gen. lectī)
+- liter’ – letter (of the alphabet) – littera, litterae f. (gen. litterae)
+- loĝ’ – to dwell – habitāre: habitō, habitāre, habitāvī, habitātus
+- lok’ – place – locus, locī m. (gen. locī)
+- long’ – long – longus, longa, longum
+- lud’ – to play – lūdere: lūdō, lūdere, lūsī, lūsus
+- lum’ – to light, to shine – lūcēre: lūceō, lūcēre, lūxī, —
+- lun’ – moon – lūna, lūnae f. (gen. lūnae)
 - lund’ – Monday – diēs Lūnae m./f. (gen. diēī Lūnae)
 
 ### M
 
-- maĉ’ – to chew – mandūcāre: mandūcō, mandūcāre, mandūcāvī, mandūcātus / masticāre: masticō, masticāre, masticāvī, masticātus  
-- magazen’ – store, shop – taberna, tabernae f. (gen. tabernae) / horreum, horreī n. (gen. horreī)  
-- makul’ – spot, speck – macula, maculae f. (gen. maculae)  
-- mal’ – prefix of opposite – contrā- (prefix), contrārius  
-- malgraŭ – in spite of – nōn obstante (+ abl.) / quamquam  
-- man’ – hand – manus, manūs f. (gen. manūs)  
-- manĝ’ – to eat – edere: edō, edere, ēdī, ēsus  
-- mar’ – sea – mare, maris n. (gen. maris)  
-- mard’ – Tuesday – diēs Martis m./f. (gen. diēī Martis)  
-- mastr’ – master – dominus, dominī m. (gen. dominī)  
-- maten’ – morning – māne (adv.) / māne tempus, temporis n.  
-- matur’ – ripe, mature – mātūrus, mātūra, mātūrum  
-- mem – self – ipse, ipsa, ipsum  
-- memor’ – to remember – memorāre: memorō, memorāre, memorāvī, memorātus  
-- merit’ – to merit – merērī: mereor, merērī, meritus sum  
-- merkred’ – Wednesday – diēs Mercuriī m./f. (gen. diēī Mercuriī)  
-- met’ – to put – ponere: pōnō, pōnere, posuī, positus  
-- mez’ – middle – medium, mediī n. (gen. mediī)  
-- mezur’ – to measure – mētīrī: mētior, mētīrī, mēnsus sum  
-- mi – I – ego, meī (gen. meī)  
-- miks’ – to mix – miscēre: misceō, miscēre, miscuī, mixtus  
-- mil’ – thousand – mīlle (indecl.) / mīlia, mīlium n. pl.  
-- milit’ – war – bellum, bellī n. (gen. bellī)  
-- mir’ – to wonder – mīrārī: mīror, mīrārī, mīrātus sum  
-- mizer’ – misery – miseria, miseriae f. (gen. miseriae)  
-- moder’ – moderate – moderātus, moderāta, moderātum  
-- modest’ – modest – modestus, modesta, modestum  
-- mol’ – soft – mollis, molle  
-- mon’ – money – pecūnia, pecūniae f. (gen. pecūniae) / nummus, nummī m.  
-- monat’ – month – mēnsis, mēnsis m. (gen. mēnsis)  
-- mond’ – world – mundus, mundī m. (gen. mundī)  
-- mont’ – mountain – mōns, montis m./f. (gen. montis)  
-- montr’ – to show – monstrāre: mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus  
-- mord’ – to bite – mordēre: mordēō, mordēre, momordī, morsus  
-- morgaŭ – tomorrow – crās  
-- mort’ – to die – morī: morior, morī, mortuus sum  
-- moŝt’ – highness, majesty – maiestās, maiestātis f. (gen. maiestātis)  
-- mov’ – to move – movēre: moveō, movēre, mōvī, mōtus  
-- mult’ – much – multus, multa, multum  
-- mur’ – wall – mūrus, mūrī m. (gen. mūrī)  
-- murmur’ – to murmur – murmurāre: murmurō, murmurāre, murmurāvī, murmurātus  
+- maĉ’ – to chew – mandūcāre: mandūcō, mandūcāre, mandūcāvī, mandūcātus / masticāre: masticō, masticāre, masticāvī, masticātus
+- magazen’ – store, shop – taberna, tabernae f. (gen. tabernae) / horreum, horreī n. (gen. horreī)
+- makul’ – spot, speck – macula, maculae f. (gen. maculae)
+- mal’ – prefix of opposite – contrā- (prefix), contrārius
+- malgraŭ – in spite of – nōn obstante (+ abl.) / quamquam
+- man’ – hand – manus, manūs f. (gen. manūs)
+- manĝ’ – to eat – edere: edō, edere, ēdī, ēsus
+- mar’ – sea – mare, maris n. (gen. maris)
+- mard’ – Tuesday – diēs Martis m./f. (gen. diēī Martis)
+- mastr’ – master – dominus, dominī m. (gen. dominī)
+- maten’ – morning – māne (adv.) / māne tempus, temporis n.
+- matur’ – ripe, mature – mātūrus, mātūra, mātūrum
+- mem – self – ipse, ipsa, ipsum
+- memor’ – to remember – memorāre: memorō, memorāre, memorāvī, memorātus
+- merit’ – to merit – merērī: mereor, merērī, meritus sum
+- merkred’ – Wednesday – diēs Mercuriī m./f. (gen. diēī Mercuriī)
+- met’ – to put – ponere: pōnō, pōnere, posuī, positus
+- mez’ – middle – medium, mediī n. (gen. mediī)
+- mezur’ – to measure – mētīrī: mētior, mētīrī, mēnsus sum
+- mi – I – ego, meī (gen. meī)
+- miks’ – to mix – miscēre: misceō, miscēre, miscuī, mixtus
+- mil’ – thousand – mīlle (indecl.) / mīlia, mīlium n. pl.
+- milit’ – war – bellum, bellī n. (gen. bellī)
+- mir’ – to wonder – mīrārī: mīror, mīrārī, mīrātus sum
+- mizer’ – misery – miseria, miseriae f. (gen. miseriae)
+- moder’ – moderate – moderātus, moderāta, moderātum
+- modest’ – modest – modestus, modesta, modestum
+- mol’ – soft – mollis, molle
+- mon’ – money – pecūnia, pecūniae f. (gen. pecūniae) / nummus, nummī m.
+- monat’ – month – mēnsis, mēnsis m. (gen. mēnsis)
+- mond’ – world – mundus, mundī m. (gen. mundī)
+- mont’ – mountain – mōns, montis m./f. (gen. montis)
+- montr’ – to show – monstrāre: mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus
+- mord’ – to bite – mordēre: mordēō, mordēre, momordī, morsus
+- morgaŭ – tomorrow – crās
+- mort’ – to die – morī: morior, morī, mortuus sum
+- moŝt’ – highness, majesty – maiestās, maiestātis f. (gen. maiestātis)
+- mov’ – to move – movēre: moveō, movēre, mōvī, mōtus
+- mult’ – much – multus, multa, multum
+- mur’ – wall – mūrus, mūrī m. (gen. mūrī)
+- murmur’ – to murmur – murmurāre: murmurō, murmurāre, murmurāvī, murmurātus
 - muŝ’ – fly – musca, muscae f. (gen. muscae)
 
 ### N
 
 - n (accusative ending) – marks the object / direction – ‑m (Latin accusative ending)
-- naĝ’ – to swim – nāre: nātor, nārī, nātus sum  
-- najbar’ – neighbour – vīcīnus, vīcīnī m. (gen. vīcīnī) / vīcīna, vīcīnae f. (gen. vīcīnae)  
-- nask’ – to give birth – parere: pariō, parere, peperī, partus  
-- naŭ – nine – novem (indecl.)  
-- naz’ – nose – nāsus, nāsī m. (gen. nāsī)  
-- ne – no, not – nōn  
-- nebul’ – mist, fog – nebula, nebulae f. (gen. nebulae)  
-- neces’ – necessary – necessārius, necessāria, necessārium  
-- neĝ’ – snow – nix, nivis f. (gen. nivis)  
-- nek … nek – neither … nor – neque … neque  
-- nenia – not any – nūllus, nūlla, nūllum  
-- neniam – never – numquam  
-- nenie – nowhere – nusquam  
-- neniel – by no means – nullo modo  
-- nenies – nobody’s – nūllīus (gen. sing. of nūllus)  
-- nenio – nothing – nihil (indecl.)  
-- neniu – nobody, no one – nēmō, nēminis m./f. (gen. nēminis)  
-- nep’ – grand-child – nepōs, nepōtis m./f. (gen. nepōtis)  
-- nev’ – nephew – sorōris fīlius / nepōs sorōris (see nepōs above)  
-- ni – we – nōs (gen. nostrī / nostrum)  
-- nigr’ – black – niger, nigra, nigrum  
-- nj’ – diminutive suffix for girls – ‑illa, ‑ula (Latin diminutives)  
-- nobl’ – noble – nōbilis, nōbile  
-- nokt’ – night – nox, noctis f. (gen. noctis)  
-- nom’ – name – nōmen, nōminis n. (gen. nōminis)  
-- nombr’ – number – numerus, numerī m. (gen. numerī)  
-- nov’ – new – novus, nova, novum  
-- nub’ – cloud – nūbēs, nūbis f. (gen. nūbis)  
-- nud’ – naked – nūdus, nūda, nūdum  
-- nuks’ – nut – nux, nucis f. (gen. nucis)  
-- nun – now – nunc  
-- nur – only – sōlum, tantum  
+- naĝ’ – to swim – nāre: nātor, nārī, nātus sum
+- najbar’ – neighbour – vīcīnus, vīcīnī m. (gen. vīcīnī) / vīcīna, vīcīnae f. (gen. vīcīnae)
+- nask’ – to give birth – parere: pariō, parere, peperī, partus
+- naŭ – nine – novem (indecl.)
+- naz’ – nose – nāsus, nāsī m. (gen. nāsī)
+- ne – no, not – nōn
+- nebul’ – mist, fog – nebula, nebulae f. (gen. nebulae)
+- neces’ – necessary – necessārius, necessāria, necessārium
+- neĝ’ – snow – nix, nivis f. (gen. nivis)
+- nek … nek – neither … nor – neque … neque
+- nenia – not any – nūllus, nūlla, nūllum
+- neniam – never – numquam
+- nenie – nowhere – nusquam
+- neniel – by no means – nullo modo
+- nenies – nobody’s – nūllīus (gen. sing. of nūllus)
+- nenio – nothing – nihil (indecl.)
+- neniu – nobody, no one – nēmō, nēminis m./f. (gen. nēminis)
+- nep’ – grand-child – nepōs, nepōtis m./f. (gen. nepōtis)
+- nev’ – nephew – sorōris fīlius / nepōs sorōris (see nepōs above)
+- ni – we – nōs (gen. nostrī / nostrum)
+- nigr’ – black – niger, nigra, nigrum
+- nj’ – diminutive suffix for girls – ‑illa, ‑ula (Latin diminutives)
+- nobl’ – noble – nōbilis, nōbile
+- nokt’ – night – nox, noctis f. (gen. noctis)
+- nom’ – name – nōmen, nōminis n. (gen. nōminis)
+- nombr’ – number – numerus, numerī m. (gen. numerī)
+- nov’ – new – novus, nova, novum
+- nub’ – cloud – nūbēs, nūbis f. (gen. nūbis)
+- nud’ – naked – nūdus, nūda, nūdum
+- nuks’ – nut – nux, nucis f. (gen. nucis)
+- nun – now – nunc
+- nur – only – sōlum, tantum
 - nutr’ – to nourish – nūtrīre: nūtriō, nūtrīre, nūtrīvī, nūtrītus
 
 ### O
 
 - o (noun ending) – substantive marker – ‑us/-a/-um (Latin endings)
-- obe’ – to obey – oboedīre: oboediō, oboedīre, oboediī, oboedītus  
-- objekt’ – object – obiectum, obiectī n. (gen. obiectī)  
-- obl’ – multiplicative suffix – ‑uplus (e.g. duplus “twofold”)  
-- obstin’ – obstinate – obstinātus, obstināta, obstinātum  
-- odor’ – to smell – olēre: oleō, olēre, oluī, — / olfacere: olfaciō, olfacere, olfēcī, olfactus  
-- ofend’ – to offend – offendere: offendō, offendere, offendī, offēnsus  
-- ofer’ – to offer – offerre: offerō, offerre, obtulī, oblātus  
-- oft’ – often – saepe  
-- ok – eight – octō (indecl.)  
-- okaz’ – to happen – accidere: accidō, accidere, accidī, — / fierī: fiō, fierī, factus sum  
-- okul’ – eye – oculus, oculī m. (gen. oculī)  
-- okup’ – to occupy – occupāre: occupō, occupāre, occupāvī, occupātus  
-- ol – than – quam  
-- ole’ – oil – oleum, oleī n. (gen. oleī)  
-- ombr’ – shadow – umbra, umbrae f. (gen. umbrae)  
-- ombrel’ – umbrella – umbrāculum, umbrāculī n. (gen. umbrāculī)  
-- on’ – fractional suffix – pars … (e.g. quārta pars “fourth part”)  
-- ond’ – wave – unda, undae f. (gen. undae)  
-- oni – one, people – homō, hominis m./f. (gen. hominis) / impersonal “fīt”  
-- onkl’ – uncle – avunculus, avunculī m. (gen. avunculī) / patruus, patruī m.  
-- ont’ – future active participle – ‑ūrus (Latin suffix)  
-- op – collective numeral suffix – bīnī, trīnī, etc. (Latin distributives)  
-- oportun’ – opportune – opportūnus, opportūna, opportūnum  
-- or’ – gold – aurum, aurī n. (gen. aurī)  
-- ord’ – order – ōrdō, ōrdinis m. (gen. ōrdinis)  
-- ordinar’ – ordinary – ōrdinārius, ōrdināria, ōrdinārium  
-- ordon’ – to command – imperāre: imperō, imperāre, imperāvī, imperātus  
-- orel’ – ear – auris, aur(is) f. (gen. auris)  
-- os – future tense marker – ‑bō, ‑bis, ‑bit … (Latin future endings)  
-- ost’ – bone – os, ossis n. (gen. ossis)  
-- ot’ – future passive participle – ‑ndus (Latin gerundive)  
+- obe’ – to obey – oboedīre: oboediō, oboedīre, oboediī, oboedītus
+- objekt’ – object – obiectum, obiectī n. (gen. obiectī)
+- obl’ – multiplicative suffix – ‑uplus (e.g. duplus “twofold”)
+- obstin’ – obstinate – obstinātus, obstināta, obstinātum
+- odor’ – to smell – olēre: oleō, olēre, oluī, — / olfacere: olfaciō, olfacere, olfēcī, olfactus
+- ofend’ – to offend – offendere: offendō, offendere, offendī, offēnsus
+- ofer’ – to offer – offerre: offerō, offerre, obtulī, oblātus
+- oft’ – often – saepe
+- ok – eight – octō (indecl.)
+- okaz’ – to happen – accidere: accidō, accidere, accidī, — / fierī: fiō, fierī, factus sum
+- okul’ – eye – oculus, oculī m. (gen. oculī)
+- okup’ – to occupy – occupāre: occupō, occupāre, occupāvī, occupātus
+- ol – than – quam
+- ole’ – oil – oleum, oleī n. (gen. oleī)
+- ombr’ – shadow – umbra, umbrae f. (gen. umbrae)
+- ombrel’ – umbrella – umbrāculum, umbrāculī n. (gen. umbrāculī)
+- on’ – fractional suffix – pars … (e.g. quārta pars “fourth part”)
+- ond’ – wave – unda, undae f. (gen. undae)
+- oni – one, people – homō, hominis m./f. (gen. hominis) / impersonal “fīt”
+- onkl’ – uncle – avunculus, avunculī m. (gen. avunculī) / patruus, patruī m.
+- ont’ – future active participle – ‑ūrus (Latin suffix)
+- op – collective numeral suffix – bīnī, trīnī, etc. (Latin distributives)
+- oportun’ – opportune – opportūnus, opportūna, opportūnum
+- or’ – gold – aurum, aurī n. (gen. aurī)
+- ord’ – order – ōrdō, ōrdinis m. (gen. ōrdinis)
+- ordinar’ – ordinary – ōrdinārius, ōrdināria, ōrdinārium
+- ordon’ – to command – imperāre: imperō, imperāre, imperāvī, imperātus
+- orel’ – ear – auris, aur(is) f. (gen. auris)
+- os – future tense marker – ‑bō, ‑bis, ‑bit … (Latin future endings)
+- ost’ – bone – os, ossis n. (gen. ossis)
+- ot’ – future passive participle – ‑ndus (Latin gerundive)
 - ov’ – egg – ōvum, ōvī n. (gen. ōvī)
 
 ### P
 
-- pac’ – peace – pāx, pācis f. (gen. pācis)  
-- paf’ – to shoot – sagittāre: sagittō, sagittāre, sagittāvī, sagittātus / iacere: iaciō, iacere, iēcī, iactus  
-- pag’ – to pay – solvere: solvō, solvere, solvī, solūtus / pendere: pendō, pendere, pependī, pēnsus  
-- paĝ’ – page – pagina, paginae f. (gen. paginae)  
-- pajl’ – straw – palea, paleae f. (gen. paleae)  
-- pal’ – pale – pallidus, pallida, pallidum  
-- palac’ – palace – palātium, palātiī n. (gen. palātiī)  
-- palp’ – to feel, to handle gently – palpāre: palpō, palpāre, palpāvī, palpātus  
-- palpebr’ – eyelid – palpebra, palpebrae f. (gen. palpebrae)  
-- pan’ – bread – pānis, pānis m. (gen. pānis)  
-- pantalon’ – trousers – brācae, brācārum f. pl. (gen. brācārum)  
-- paper’ – paper – charta, chartae f. (gen. chartae)  
-- pardon’ – to pardon – ignōscere: ignōscō, ignōscere, ignōvī, ignōtus / dōnāre: dōnō, dōnāre, dōnāvī, dōnātus  
-- parenc’ – relation – parentēs, parentum m./f. pl. (gen. parentum) / propinquus, propinquī m. (gen. propinquī)  
-- parker’ – by heart – memoriter / ex memoriā  
-- parol’ – to speak – loquī: loquor, loquī, locūtus sum / dīcere: dīcō, dīcere, dīxī, dictus  
-- part’ – part – pars, partis f. (gen. partis)  
-- pas’ – to pass – trānsīre: trānseō, trānsīre, trānsiī, trānsitus  
-- pastr’ – priest – sacerdōs, sacerdōtis m. (gen. sacerdōtis) / presbyter, presbyterī m.  
-- paŝ’ – to step – gradī: gradior, gradī, gressus sum / ambulāre: ambulō, ambulāre, ambulāvī, ambulātus  
-- patr’ – father – pater, patris m. (gen. patris)  
-- patr’uj – fatherland – patria, patriae f. (gen. patriae)  
-- pec’ – morsel – offa, offae f. (gen. offae) / morsus, morsūs m. (gen. morsūs)  
-- pel’ – to pursue – persequī: persequor, persequī, persecūtus sum / agitāre: agitō, agitāre, agitāvī, agitātus  
-- pen’ – to endeavour – contendere: contendō, contendere, contendī, contentus / operam dare  
-- pend’ – to hang – pendēre: pendeō, pendēre, pependī, — / suspendere: suspendō, suspendere, suspendī, suspēnsus  
-- pens’ – to think – putāre: putō, putāre, putāvī, putātus / cōgitāre: cōgitō, cōgitāre, cōgitāvī, cōgitātus  
-- pentr’ – to draw – pingere: pingō, pingere, pinxī, pictus  
-- per – through – per (+ acc.)  
-- perd’ – to lose – perdere: perdō, perdere, perdidī, perditus  
-- permes’ – to permit – permittēre: permittō, permittēre, permīsī, permissus  
-- pes’ – to weigh (trans.) – pendere: pendō, pendere, pependī, pēnsus  
-- pet’ – to beg – petere: petō, petere, petīvī, petītus / ōrāre: ōrō, ōrāre, ōrāvī, ōrātus  
-- pez’ – to weigh (intrans.) – pendēre: pendeō, pendēre, pependī, —  
-- pi’ – pious – pius, pia, pium  
-- pied’ – foot – pēs, pedis m. (gen. pedis)  
-- pik’ – to prick – pungere: pungō, pungere, pupugī, punctus  
-- pilk’ – ball – pila, pilae f. (gen. pilae)  
-- pingl’ – pin – clāvus, clāvī m. (gen. clāvī) / acūleus, acūleī m.  
-- pir’ – pear – pirum, pirī n. (gen. pirī)  
-- plac’ – place – locus, locī m. (gen. locī) / platea, plateae f. (gen. plateae)  
-- plaĉ’ – to please – placēre: placeō, placēre, placuī, placitus  
-- plafon’ – ceiling – laquear, laquearis n. (gen. laquearis) / tēctum, tēctī n.  
-- plank’ – floor – solum, solī n. (gen. solī) / pavīmentum, pavīmentī n.  
-- plej – most – maximē  
-- plen’ – full – plēnus, plēna, plēnum  
-- plend’ – to complain – querī: queror, querī, questus sum / plangere: plangō, plangere, planxī, planctus  
-- plezur’ – pleasure – voluptās, voluptātis f. (gen. voluptātis) / dēlectātiō, dēlectātiōnis f.  
-- pli – more – plūs (indecl. n.) / magis  
-- plor’ – to weep – flēre: fleō, flēre, flēvī, flētus  
-- plum’ – pen / feather – plūma, plūmae f. (gen. plūmae) / calamus, calamī m.  
-- pluv’ – rain – pluvia, pluviae f. (gen. pluviae) / imber, imbris m. (gen. imbris)  
-- po – apiece – singulī, singulae, singula (distributive)  
-- polv’ – dust – pulvis, pulveris m. (gen. pulveris)  
-- pom’ – apple – mālum, mālī n. (gen. mālī)  
-- pont’ – bridge – pōns, pontis m. (gen. pontis)  
-- popol’ – people / nation – populus, populī m. (gen. populī) / natiō, natiōnis f.  
-- por’ – for – prō (+ abl.)  
-- pord’ – door – porta, portae f. (gen. portae) / iānuae f. pl.  
-- pork’ – pig – porcus, porcī m. (gen. porcī) / sūs, suis m./f.  
-- port’ – to carry – portāre: portō, portāre, portāvī, portātus  
-- post – after – post (+ acc.)  
-- postul’ – to require – postulāre: postulō, postulāre, postulāvī, postulātus  
-- poŝ’ – pocket – sinus, sinūs m. (gen. sinūs) / marsuppium, marsuppiī n.  
-- poŝt’ – post – cursus, cursūs m. (gen. cursūs) / tabellārius, tabellāriī m.  
-- pot’ – pot – olla, ollae f. (gen. ollae) / caccabus, caccabī m.  
-- pov’ – to be able – posse: possum, posse, potuī, —  
-- prav’ – right (adj.) – rēctus, rēcta, rēctum / iūstus, iūsta, iūstum  
-- preĝ’ – to pray – ōrāre: ōrō, ōrāre, ōrāvī, ōrātus / precārī: precor, precārī, precātus sum  
-- prem’ – to press – premere: premō, premere, pressī, pressus  
-- pren’ – to take – capere: capiō, capere, cēpī, captus / sūmere: sūmō, sūmere, sūmpsī, sūmptus  
-- prepar’ – to prepare – parāre: parō, parāre, parāvī, parātus  
-- pres’ – to print – imprimere: imprimō, imprimere, impressī, impressus  
-- preskaŭ – almost – prope / fere / paene  
-- pret’ – ready – parātus, parāta, parātum  
-- prezent’ – to present – praestāre: praestō, praestāre, praestitī, praestitus / praebēre: praebeō, praebēre, praebuī, praebitus  
-- pri – about – dē (+ abl.) / super (+ acc.)  
-- printemp’ – spring – vēr, vēris n. (gen. vēris)  
-- pro – for the sake of – prō (+ abl.)  
-- profund’ – deep – profundus, profunda, profundum  
-- proksim’ – near – prope / propinquus, propinqua, propinquum  
-- promen’ – to walk – ambulāre: ambulō, ambulāre, ambulāvī, ambulātus  
-- promes’ – to promise – pollicērī: pollicēor, pollicērī, pollicitus sum / promittere: promitto, promittere, promīsī, promissus  
-- propon’ – to propose – proponere: proponō, proponere, proposuī, propositus  
-- propr’ – own – proprius, propria, proprium  
-- prov’ – to try – probāre: probō, probāre, probāvī, probātus / tentāre: tentō, tentāre, tentāvī, tentātus 
-- prudent’ – prudent – prūdēns, prūdentis (gen. prūdentis)  
-- prunt’ – to borrow / lend – mutuārī: mutuor, mutuārī, mutuātus sum / commodāre: commodō, commodāre, commodāvī, commodātus  
-- pulv’ – gun-powder – pulvis pyrius, pulveris pyriī m. (gen. pulveris pyriī)  
-- pulvor’ – powder – pulvis, pulveris m. (gen. pulveris)  
-- pun’ – to punish – pūnīre: pūniō, pūnīre, pūnīvī, pūnītus  
-- pup’ – doll – pupa, pupae f. (gen. pupae)  
-- pur’ – pure – pūrus, pūra, pūrum  
-- puŝ’ – to push – pellere: pellō, pellere, pepulī, pulsus  
+- pac’ – peace – pāx, pācis f. (gen. pācis)
+- paf’ – to shoot – sagittāre: sagittō, sagittāre, sagittāvī, sagittātus / iacere: iaciō, iacere, iēcī, iactus
+- pag’ – to pay – solvere: solvō, solvere, solvī, solūtus / pendere: pendō, pendere, pependī, pēnsus
+- paĝ’ – page – pagina, paginae f. (gen. paginae)
+- pajl’ – straw – palea, paleae f. (gen. paleae)
+- pal’ – pale – pallidus, pallida, pallidum
+- palac’ – palace – palātium, palātiī n. (gen. palātiī)
+- palp’ – to feel, to handle gently – palpāre: palpō, palpāre, palpāvī, palpātus
+- palpebr’ – eyelid – palpebra, palpebrae f. (gen. palpebrae)
+- pan’ – bread – pānis, pānis m. (gen. pānis)
+- pantalon’ – trousers – brācae, brācārum f. pl. (gen. brācārum)
+- paper’ – paper – charta, chartae f. (gen. chartae)
+- pardon’ – to pardon – ignōscere: ignōscō, ignōscere, ignōvī, ignōtus / dōnāre: dōnō, dōnāre, dōnāvī, dōnātus
+- parenc’ – relation – parentēs, parentum m./f. pl. (gen. parentum) / propinquus, propinquī m. (gen. propinquī)
+- parker’ – by heart – memoriter / ex memoriā
+- parol’ – to speak – loquī: loquor, loquī, locūtus sum / dīcere: dīcō, dīcere, dīxī, dictus
+- part’ – part – pars, partis f. (gen. partis)
+- pas’ – to pass – trānsīre: trānseō, trānsīre, trānsiī, trānsitus
+- pastr’ – priest – sacerdōs, sacerdōtis m. (gen. sacerdōtis) / presbyter, presbyterī m.
+- paŝ’ – to step – gradī: gradior, gradī, gressus sum / ambulāre: ambulō, ambulāre, ambulāvī, ambulātus
+- patr’ – father – pater, patris m. (gen. patris)
+- patr’uj – fatherland – patria, patriae f. (gen. patriae)
+- pec’ – morsel – offa, offae f. (gen. offae) / morsus, morsūs m. (gen. morsūs)
+- pel’ – to pursue – persequī: persequor, persequī, persecūtus sum / agitāre: agitō, agitāre, agitāvī, agitātus
+- pen’ – to endeavour – contendere: contendō, contendere, contendī, contentus / operam dare
+- pend’ – to hang – pendēre: pendeō, pendēre, pependī, — / suspendere: suspendō, suspendere, suspendī, suspēnsus
+- pens’ – to think – putāre: putō, putāre, putāvī, putātus / cōgitāre: cōgitō, cōgitāre, cōgitāvī, cōgitātus
+- pentr’ – to draw – pingere: pingō, pingere, pinxī, pictus
+- per – through – per (+ acc.)
+- perd’ – to lose – perdere: perdō, perdere, perdidī, perditus
+- permes’ – to permit – permittēre: permittō, permittēre, permīsī, permissus
+- pes’ – to weigh (trans.) – pendere: pendō, pendere, pependī, pēnsus
+- pet’ – to beg – petere: petō, petere, petīvī, petītus / ōrāre: ōrō, ōrāre, ōrāvī, ōrātus
+- pez’ – to weigh (intrans.) – pendēre: pendeō, pendēre, pependī, —
+- pi’ – pious – pius, pia, pium
+- pied’ – foot – pēs, pedis m. (gen. pedis)
+- pik’ – to prick – pungere: pungō, pungere, pupugī, punctus
+- pilk’ – ball – pila, pilae f. (gen. pilae)
+- pingl’ – pin – clāvus, clāvī m. (gen. clāvī) / acūleus, acūleī m.
+- pir’ – pear – pirum, pirī n. (gen. pirī)
+- plac’ – place – locus, locī m. (gen. locī) / platea, plateae f. (gen. plateae)
+- plaĉ’ – to please – placēre: placeō, placēre, placuī, placitus
+- plafon’ – ceiling – laquear, laquearis n. (gen. laquearis) / tēctum, tēctī n.
+- plank’ – floor – solum, solī n. (gen. solī) / pavīmentum, pavīmentī n.
+- plej – most – maximē
+- plen’ – full – plēnus, plēna, plēnum
+- plend’ – to complain – querī: queror, querī, questus sum / plangere: plangō, plangere, planxī, planctus
+- plezur’ – pleasure – voluptās, voluptātis f. (gen. voluptātis) / dēlectātiō, dēlectātiōnis f.
+- pli – more – plūs (indecl. n.) / magis
+- plor’ – to weep – flēre: fleō, flēre, flēvī, flētus
+- plum’ – pen / feather – plūma, plūmae f. (gen. plūmae) / calamus, calamī m.
+- pluv’ – rain – pluvia, pluviae f. (gen. pluviae) / imber, imbris m. (gen. imbris)
+- po – apiece – singulī, singulae, singula (distributive)
+- polv’ – dust – pulvis, pulveris m. (gen. pulveris)
+- pom’ – apple – mālum, mālī n. (gen. mālī)
+- pont’ – bridge – pōns, pontis m. (gen. pontis)
+- popol’ – people / nation – populus, populī m. (gen. populī) / natiō, natiōnis f.
+- por’ – for – prō (+ abl.)
+- pord’ – door – porta, portae f. (gen. portae) / iānuae f. pl.
+- pork’ – pig – porcus, porcī m. (gen. porcī) / sūs, suis m./f.
+- port’ – to carry – portāre: portō, portāre, portāvī, portātus
+- post – after – post (+ acc.)
+- postul’ – to require – postulāre: postulō, postulāre, postulāvī, postulātus
+- poŝ’ – pocket – sinus, sinūs m. (gen. sinūs) / marsuppium, marsuppiī n.
+- poŝt’ – post – cursus, cursūs m. (gen. cursūs) / tabellārius, tabellāriī m.
+- pot’ – pot – olla, ollae f. (gen. ollae) / caccabus, caccabī m.
+- pov’ – to be able – posse: possum, posse, potuī, —
+- prav’ – right (adj.) – rēctus, rēcta, rēctum / iūstus, iūsta, iūstum
+- preĝ’ – to pray – ōrāre: ōrō, ōrāre, ōrāvī, ōrātus / precārī: precor, precārī, precātus sum
+- prem’ – to press – premere: premō, premere, pressī, pressus
+- pren’ – to take – capere: capiō, capere, cēpī, captus / sūmere: sūmō, sūmere, sūmpsī, sūmptus
+- prepar’ – to prepare – parāre: parō, parāre, parāvī, parātus
+- pres’ – to print – imprimere: imprimō, imprimere, impressī, impressus
+- preskaŭ – almost – prope / fere / paene
+- pret’ – ready – parātus, parāta, parātum
+- prezent’ – to present – praestāre: praestō, praestāre, praestitī, praestitus / praebēre: praebeō, praebēre, praebuī, praebitus
+- pri – about – dē (+ abl.) / super (+ acc.)
+- printemp’ – spring – vēr, vēris n. (gen. vēris)
+- pro – for the sake of – prō (+ abl.)
+- profund’ – deep – profundus, profunda, profundum
+- proksim’ – near – prope / propinquus, propinqua, propinquum
+- promen’ – to walk – ambulāre: ambulō, ambulāre, ambulāvī, ambulātus
+- promes’ – to promise – pollicērī: pollicēor, pollicērī, pollicitus sum / promittere: promitto, promittere, promīsī, promissus
+- propon’ – to propose – proponere: proponō, proponere, proposuī, propositus
+- propr’ – own – proprius, propria, proprium
+- prov’ – to try – probāre: probō, probāre, probāvī, probātus / tentāre: tentō, tentāre, tentāvī, tentātus
+- prudent’ – prudent – prūdēns, prūdentis (gen. prūdentis)
+- prunt’ – to borrow / lend – mutuārī: mutuor, mutuārī, mutuātus sum / commodāre: commodō, commodāre, commodāvī, commodātus
+- pulv’ – gun-powder – pulvis pyrius, pulveris pyriī m. (gen. pulveris pyriī)
+- pulvor’ – powder – pulvis, pulveris m. (gen. pulveris)
+- pun’ – to punish – pūnīre: pūniō, pūnīre, pūnīvī, pūnītus
+- pup’ – doll – pupa, pupae f. (gen. pupae)
+- pur’ – pure – pūrus, pūra, pūrum
+- puŝ’ – to push – pellere: pellō, pellere, pepulī, pulsus
 - putr’ – to rot – putrescere: putrescō, putrescere, putruī / putrefacere: putrefaciō, putrefacere, putrefēcī, putrefactus
 
 ### R
 
-- rad’ – wheel – rota, rotae f. (gen. rotae)  
-- radi’ – ray / beam / spoke – radius, radiī m. (gen. radiī)  
-- radik’ – root – radix, radicis f. (gen. radicis)  
-- rakont’ – to relate – narrāre: narrō, narrāre, narrāvī, narrātus  
-- ramp’ – to creep – rēpere: rēpō, rēpere, repsi, reptum  
-- rand’ – bank / shore / edge – rīpa, rīpae f. (gen. rīpae) / margo, marginis m./f. (gen. marginis)  
-- rapid’ – rapid – rapidus, rapida, rapidum / celer, celeris, celere  
-- raz’ – to shave – rādere: rādō, rādere, rāsī, rāsus  
-- re’ – again / back – iterum / rē- (prefix)  
-- reg’ – to reign – regnāre: regnō, regnāre, regnāvī, regnātus / regere: regō, regere, rēxī, rēctus  
-- regn’ – kingdom – regnum, regnī n. (gen. regnī)  
-- regul’ – rule – rēgula, rēgulae f. (gen. rēgulae) / norma, normae f.  
-- reĝ’ – king – rēx, rēgis m. (gen. rēgis)  
-- rekompenc’ – to recompense – remunerāre: remūnerō, remunerāre, remunerāvī, remunerātus  
-- rekt’ – straight – rēctus, rēcta, rēctum  
-- renkont’ – to meet – occurrere: occurrō, occurrere, occurrī, occursus / convenīre: conveniō, convenīre, convēnī, conventus  
-- renvers’ – to overthrow – evertere: evertō, evertere, evertī, eversus / subvertere: subvertō, subvertere, subvertī, subversus  
-- respond’ – to answer – respondēre: respondeō, respondēre, respondī, respōnsus  
-- rest’ – to remain – manēre: maneō, manēre, mānsī, mānsus / remanēre: remaneō, remanēre, remānsī, remānsus  
-- ricev’ – to receive – accipere: accipiō, accipere, accēpī, acceptus / recipere: recipiō, recipere, recēpī, receptus  
-- riĉ’ – rich – dīves, dīvitis (gen. dīvitis) / locuples, locupletis  
-- rid’ – to laugh – rīdēre: rīdeō, rīdēre, rīsī, rīsus  
-- rigard’ – to look at – spectāre: spectō, spectāre, spectāvī, spectātus / intuerī: intueor, intuerī, intuitus sum  
-- ring’ – ring – ānulus, ānulī m. (gen. ānulī) / orbis, orbis m. (gen. orbis)  
-- ripet’ – to repeat – repetere: repetō, repetere, repetīvī, repetītus / iterāre: iterō, iterāre, iterāvī, iterātus  
-- ripoz’ – to repose – quiescere: quiēscō, quiescere, quiēvī, quiētus / requiēscere: requiēscō, requiēscere, requiēvī, requiētus  
-- river’ – river – fluvius, fluviī m. (gen. fluviī) / amnis, amnis m./f. (gen. amnis)  
-- romp’ – to break – frangere: frangō, frangere, frēgī, frāctus / rumpere: rumpō, rumpere, rūpī, ruptus  
-- rond’ – circle – circulus, circulī m. (gen. circulī) / orbis, orbis m. (gen. orbis)  
-- rost’ – to roast – torrēre: torreō, torrēre, torruī, tostus / assāre: assō, assāre, assāvī, assātus  
-- roz’ – rose – rosa, rosae f. (gen. rosae)  
+- rad’ – wheel – rota, rotae f. (gen. rotae)
+- radi’ – ray / beam / spoke – radius, radiī m. (gen. radiī)
+- radik’ – root – radix, radicis f. (gen. radicis)
+- rakont’ – to relate – narrāre: narrō, narrāre, narrāvī, narrātus
+- ramp’ – to creep – rēpere: rēpō, rēpere, repsi, reptum
+- rand’ – bank / shore / edge – rīpa, rīpae f. (gen. rīpae) / margo, marginis m./f. (gen. marginis)
+- rapid’ – rapid – rapidus, rapida, rapidum / celer, celeris, celere
+- raz’ – to shave – rādere: rādō, rādere, rāsī, rāsus
+- re’ – again / back – iterum / rē- (prefix)
+- reg’ – to reign – regnāre: regnō, regnāre, regnāvī, regnātus / regere: regō, regere, rēxī, rēctus
+- regn’ – kingdom – regnum, regnī n. (gen. regnī)
+- regul’ – rule – rēgula, rēgulae f. (gen. rēgulae) / norma, normae f.
+- reĝ’ – king – rēx, rēgis m. (gen. rēgis)
+- rekompenc’ – to recompense – remunerāre: remūnerō, remunerāre, remunerāvī, remunerātus
+- rekt’ – straight – rēctus, rēcta, rēctum
+- renkont’ – to meet – occurrere: occurrō, occurrere, occurrī, occursus / convenīre: conveniō, convenīre, convēnī, conventus
+- renvers’ – to overthrow – evertere: evertō, evertere, evertī, eversus / subvertere: subvertō, subvertere, subvertī, subversus
+- respond’ – to answer – respondēre: respondeō, respondēre, respondī, respōnsus
+- rest’ – to remain – manēre: maneō, manēre, mānsī, mānsus / remanēre: remaneō, remanēre, remānsī, remānsus
+- ricev’ – to receive – accipere: accipiō, accipere, accēpī, acceptus / recipere: recipiō, recipere, recēpī, receptus
+- riĉ’ – rich – dīves, dīvitis (gen. dīvitis) / locuples, locupletis
+- rid’ – to laugh – rīdēre: rīdeō, rīdēre, rīsī, rīsus
+- rigard’ – to look at – spectāre: spectō, spectāre, spectāvī, spectātus / intuerī: intueor, intuerī, intuitus sum
+- ring’ – ring – ānulus, ānulī m. (gen. ānulī) / orbis, orbis m. (gen. orbis)
+- ripet’ – to repeat – repetere: repetō, repetere, repetīvī, repetītus / iterāre: iterō, iterāre, iterāvī, iterātus
+- ripoz’ – to repose – quiescere: quiēscō, quiescere, quiēvī, quiētus / requiēscere: requiēscō, requiēscere, requiēvī, requiētus
+- river’ – river – fluvius, fluviī m. (gen. fluviī) / amnis, amnis m./f. (gen. amnis)
+- romp’ – to break – frangere: frangō, frangere, frēgī, frāctus / rumpere: rumpō, rumpere, rūpī, ruptus
+- rond’ – circle – circulus, circulī m. (gen. circulī) / orbis, orbis m. (gen. orbis)
+- rost’ – to roast – torrēre: torreō, torrēre, torruī, tostus / assāre: assō, assāre, assāvī, assātus
+- roz’ – rose – rosa, rosae f. (gen. rosae)
 - ruĝ’ – red – ruber, rubra, rubrum / rutilus, rutila, rutilum
 
 ### S
 
-- sabat’ – Saturday – sabbātum, sabbātī n. (gen. sabbātī)  
-- sabl’ – sand – sabulum, sabulī n. / harena, harenae f.  
-- saĝ’ – wise – sapiēns, sapientis / prudens, prudentis  
-- sak’ – sack, bag – saccus, saccī m. (gen. saccī)  
-- sal’ – salt – sal, salis m. (gen. salis)  
-- salt’ – to jump – salīre: saliō, salīre, saluī, saltus  
-- salut’ – to salute – salūtāre: salūtō, salūtāre, salūtāvī, salūtātus  
-- sam’ – same – idem, eadem, idem / similis, simile  
-- san’ – sound, healthy – sānus, sāna, sānum  
-- sang’ – blood – sanguis, sanguinis m. (gen. sanguinis)  
-- sankt’ – holy – sānctus, sāncta, sānctum / sacer, sacra, sacrum  
-- sap’ – soap – sapō, sapōnis m. (gen. sapōnis)  
-- sat’ – sated – satur, satura, saturum / satiātus, satiāta, satiātum  
-- sav’ – to save – servāre: servō, servāre, servāvī, servātus / salvāre: salvō, salvāre, salvāvī, salvātus 
-- sci’ – to know – scīre: sciō, scīre, scīvī, scītus  
-- se – if – sī  
-- sed – but – sed  
-- seĝ’ – chair – sella, sellae f. (gen. sellae) / cathedra, cathedrae f.  
-- sek’ – dry – siccus, sicca, siccum  
-- sem’ – to sow – serere: serō, serere, sēvī, satus  
-- semajn’ – week – hebdomas, hebdomadis f. (gen. hebdomadis) / septimāna, septimānae f.  
-- sen – without – sine (+ abl.)  
-- senc’ – sense, meaning – sēnsus, sēnsūs m. (gen. sēnsūs) / significātiō, significātiōnis f.  
-- send’ – to send – mittere: mittō, mittere, mīsī, missus  
-- sent’ – to feel – sentīre: sentiō, sentīre, sēnsī, sēnsus  
-- sep – seven – septem  
-- serĉ’ – to search – quaerere: quaerō, quaerere, quaesīvī, quaesītus  
-- serpent’ – serpent – serpēns, serpentis m./f. (gen. serpentis)  
-- serur’ – to lock – occlūdere: occlūdō, occlūdere, oclūsī, oclūsus  
-- serv’ – to serve – servīre: serviō, servīre, servīvī, servītus  
-- ses – six – sex  
-- sever’ – severe – sevērus, sevēra, sevērum / ācer, ācris, ācre  
-- si – oneself – sē, suī (reflexive pronoun)  
-- sid’ – to sit – sedēre: sedeō, sedēre, sēdī, sessus  
-- sigel’ – to seal – signāre: signō, signāre, signāvī, signātus / obsignāre  
-- sign’ – sign – signum, signī n. (gen. signī)  
-- signif’ – to signify – significāre: significō, significāre, significāvī, significātus  
-- silent’ – to be silent – tacēre: taceō, tacēre, tacuī, tacitus  
-- simil’ – similar – similis, simile  
-- simpl’ – simple – simplex, simplicis (gen. simplicis)  
-- sinjor’ – lord – dominus, dominī m. (gen. dominī) / senior, seniōris m.  
-- skrib’ – to write – scrībere: scrībō, scrībere, scrīpsī, scrīptus  
-- sku’ – to shake – concutere: concutiō, concutere, concussī, concussus  
-- sobr’ – sober – sōbrius, sōbria, sōbrium  
-- societ’ – society – societās, societātis f. (gen. societātis) / cīvitās, cīvitātis f.  
-- soif’ – to be thirsty – sitīre: sitiō, sitīre, sitīvī / sitis, sitis f. (noun “thirst”)  
-- sol’ – only – sōlus, sōla, sōlum  
-- somer’ – summer – aestās, aestātis f. (gen. aestātis)  
-- son’ – to sound – sonāre: sonō, sonāre, sonuī, sonitus  
-- sonĝ’ – to dream – somniāre: somniō, somniāre, somniāvī, somniātus  
-- sonor’ – to buzz – bombilāre / susurrāre (freq. of susurrāre)  
-- sort’ – fate – sors, sortis f. (gen. sortis) / fātum, fātī n.  
-- sovaĝ’ – savage – ferus, fera, ferum / silvester, silvestris, silvestre  
-- spec’ – species – species, speciēī f. (gen. speciēī) / genus, generis n.  
-- spegul’ – mirror – speculum, speculī n. (gen. speculī)  
-- spir’ – to breathe – spīrāre: spīrō, spīrāre, spīrāvī, spīrātus / respīrāre  
-- spirit’ – witty – facētus, facēta, facētum / salsus, salsa, salsum  
-- stal’ – stable – stabulum, stabulī n. (gen. stabulī)  
-- star’ – to stand – stāre: stō, stāre, stetī, stātus  
-- stel’ – star – stēlla, stēllae f. (gen. stēllae) / sidus, sideris n.  
-- stomak’ – stomach – stomachus, stomachī m. / venter, ventris m. (gen. ventris)  
-- strat’ – street – via, viae f. (gen. viae) / platea, plateae f.  
-- sub – under – sub (+ abl./acc.)  
-- subit’ – sudden – subitus, subita, subitum  
-- suĉ’ – to suck – sūgere: sūgō, sūgere, sūxī, suctus  
-- sufer’ – to suffer – patī: patior, patī, passus sum  
-- sufiĉ’ – enough – satis / sufficiēns, sufficientis  
-- suk’ – juice – sūcus, sūcī m. / jūs, jūris n.  
-- suker’ – sugar – saccharum, saccharī n. (gen. saccharī)  
-- sun’ – sun – sōl, sōlis m. (gen. sōlis)  
-- sup’ – soup – iūs, iūris n. / pulmentum, pulmentī n.  
-- super – above – super (+ acc.)  
-- supr’ – above – suprā (adv./prep.)  
-- sur – on – super (+ acc.) / in (+ abl.)  
-- surd’ – deaf – surdus, surda, surdum  
+- sabat’ – Saturday – sabbātum, sabbātī n. (gen. sabbātī)
+- sabl’ – sand – sabulum, sabulī n. / harena, harenae f.
+- saĝ’ – wise – sapiēns, sapientis / prudens, prudentis
+- sak’ – sack, bag – saccus, saccī m. (gen. saccī)
+- sal’ – salt – sal, salis m. (gen. salis)
+- salt’ – to jump – salīre: saliō, salīre, saluī, saltus
+- salut’ – to salute – salūtāre: salūtō, salūtāre, salūtāvī, salūtātus
+- sam’ – same – idem, eadem, idem / similis, simile
+- san’ – sound, healthy – sānus, sāna, sānum
+- sang’ – blood – sanguis, sanguinis m. (gen. sanguinis)
+- sankt’ – holy – sānctus, sāncta, sānctum / sacer, sacra, sacrum
+- sap’ – soap – sapō, sapōnis m. (gen. sapōnis)
+- sat’ – sated – satur, satura, saturum / satiātus, satiāta, satiātum
+- sav’ – to save – servāre: servō, servāre, servāvī, servātus / salvāre: salvō, salvāre, salvāvī, salvātus
+- sci’ – to know – scīre: sciō, scīre, scīvī, scītus
+- se – if – sī
+- sed – but – sed
+- seĝ’ – chair – sella, sellae f. (gen. sellae) / cathedra, cathedrae f.
+- sek’ – dry – siccus, sicca, siccum
+- sem’ – to sow – serere: serō, serere, sēvī, satus
+- semajn’ – week – hebdomas, hebdomadis f. (gen. hebdomadis) / septimāna, septimānae f.
+- sen – without – sine (+ abl.)
+- senc’ – sense, meaning – sēnsus, sēnsūs m. (gen. sēnsūs) / significātiō, significātiōnis f.
+- send’ – to send – mittere: mittō, mittere, mīsī, missus
+- sent’ – to feel – sentīre: sentiō, sentīre, sēnsī, sēnsus
+- sep – seven – septem
+- serĉ’ – to search – quaerere: quaerō, quaerere, quaesīvī, quaesītus
+- serpent’ – serpent – serpēns, serpentis m./f. (gen. serpentis)
+- serur’ – to lock – occlūdere: occlūdō, occlūdere, oclūsī, oclūsus
+- serv’ – to serve – servīre: serviō, servīre, servīvī, servītus
+- ses – six – sex
+- sever’ – severe – sevērus, sevēra, sevērum / ācer, ācris, ācre
+- si – oneself – sē, suī (reflexive pronoun)
+- sid’ – to sit – sedēre: sedeō, sedēre, sēdī, sessus
+- sigel’ – to seal – signāre: signō, signāre, signāvī, signātus / obsignāre
+- sign’ – sign – signum, signī n. (gen. signī)
+- signif’ – to signify – significāre: significō, significāre, significāvī, significātus
+- silent’ – to be silent – tacēre: taceō, tacēre, tacuī, tacitus
+- simil’ – similar – similis, simile
+- simpl’ – simple – simplex, simplicis (gen. simplicis)
+- sinjor’ – lord – dominus, dominī m. (gen. dominī) / senior, seniōris m.
+- skrib’ – to write – scrībere: scrībō, scrībere, scrīpsī, scrīptus
+- sku’ – to shake – concutere: concutiō, concutere, concussī, concussus
+- sobr’ – sober – sōbrius, sōbria, sōbrium
+- societ’ – society – societās, societātis f. (gen. societātis) / cīvitās, cīvitātis f.
+- soif’ – to be thirsty – sitīre: sitiō, sitīre, sitīvī / sitis, sitis f. (noun “thirst”)
+- sol’ – only – sōlus, sōla, sōlum
+- somer’ – summer – aestās, aestātis f. (gen. aestātis)
+- son’ – to sound – sonāre: sonō, sonāre, sonuī, sonitus
+- sonĝ’ – to dream – somniāre: somniō, somniāre, somniāvī, somniātus
+- sonor’ – to buzz – bombilāre / susurrāre (freq. of susurrāre)
+- sort’ – fate – sors, sortis f. (gen. sortis) / fātum, fātī n.
+- sovaĝ’ – savage – ferus, fera, ferum / silvester, silvestris, silvestre
+- spec’ – species – species, speciēī f. (gen. speciēī) / genus, generis n.
+- spegul’ – mirror – speculum, speculī n. (gen. speculī)
+- spir’ – to breathe – spīrāre: spīrō, spīrāre, spīrāvī, spīrātus / respīrāre
+- spirit’ – witty – facētus, facēta, facētum / salsus, salsa, salsum
+- stal’ – stable – stabulum, stabulī n. (gen. stabulī)
+- star’ – to stand – stāre: stō, stāre, stetī, stātus
+- stel’ – star – stēlla, stēllae f. (gen. stēllae) / sidus, sideris n.
+- stomak’ – stomach – stomachus, stomachī m. / venter, ventris m. (gen. ventris)
+- strat’ – street – via, viae f. (gen. viae) / platea, plateae f.
+- sub – under – sub (+ abl./acc.)
+- subit’ – sudden – subitus, subita, subitum
+- suĉ’ – to suck – sūgere: sūgō, sūgere, sūxī, suctus
+- sufer’ – to suffer – patī: patior, patī, passus sum
+- sufiĉ’ – enough – satis / sufficiēns, sufficientis
+- suk’ – juice – sūcus, sūcī m. / jūs, jūris n.
+- suker’ – sugar – saccharum, saccharī n. (gen. saccharī)
+- sun’ – sun – sōl, sōlis m. (gen. sōlis)
+- sup’ – soup – iūs, iūris n. / pulmentum, pulmentī n.
+- super – above – super (+ acc.)
+- supr’ – above – suprā (adv./prep.)
+- sur – on – super (+ acc.) / in (+ abl.)
+- surd’ – deaf – surdus, surda, surdum
 - surtut’ – coat – paenula, paenulae f. / pallium, palliī n.
 
 ### Ŝ
 
-- ŝajn’ – to seem – vidērī: videor, vidērī, vīsus sum  
-- ŝancel’ – to stagger – titubāre / vacillāre  
-- ŝanĝ’ – to change – mūtāre: mūtō, mūtāre, mūtāvī, mūtātus  
-- ŝaŭm’ – foam – spūma, spūmae f. (gen. spūmae) / spūmēre (verb)  
-- ŝel’ – shell – testa, testae f. / concha, conchae f.  
-- ŝerc’ – to jest – iocārī: iocor, iocārī, iocātus sum  
-- ŝi – she – ea / illa  
-- ŝip’ – ship – nāvis, nāvis f. (gen. nāvis)  
-- ŝir’ – to tear – scindere: scindō, scindere, scidī, scissus / rumpere: rumpō, rumpere, rūpī, ruptus  
-- ŝlos’ – lock – claustrum, claustrī n. / sera, serae f.  
-- ŝmir’ – to smear – linere: līnō, linere, lēvī, litus / unguere: unguō, unguere, unxī, unctus  
-- ŝnur’ – rope – līnum, līnī n. / funis, funis m. (gen. funis)  
-- ŝpar’ – to spare – parcere: parcō, parcere, pepercī, parsus  
-- ŝpruc’ – to spout – spargere: spargō, spargere, sparsī, sparsus / scaturīre  
-- ŝrank’ – cupboard – armārium, armāriī n.  
-- ŝtal’ – steel – chalybs, chalybis m. / ferrum, ferrī n.  
-- ŝtel’ – to steal – surripere: surripiō, surripere, surripuī, surreptus / furārī: furor, furārī, furātus sum  
-- ŝtof’ – stuff – materia, materiae f. / stuppēria, stuppa  
-- ŝton’ – stone – lapis, lapidis m. (gen. lapidis)  
-- ŝtop’ – to stop – obtūrāre / obsignāre / stuppāre  
-- ŝtrump’ – stocking – tibia, tibiae f. / soccus, soccī m.  
-- ŝtup’ – step – gradus, gradūs m. (gen. gradūs)  
-- ŝtupar’ – staircase – scalae, scālārum f. pl. / scalae (gen. scālārum)  
-- ŝu’ – shoe – calceus, calceī m. / solea, soleae f.  
-- ŝuld’ – to owe – dēbēre: dēbeō, dēbēre, dēbuī, dēbitus  
-- ŝut’ – to pour out – effundere: effundō, effundere, effūdī, effūsus  
-- ŝvel’ – to swell – turgēscere / intumēscere  
+- ŝajn’ – to seem – vidērī: videor, vidērī, vīsus sum
+- ŝancel’ – to stagger – titubāre / vacillāre
+- ŝanĝ’ – to change – mūtāre: mūtō, mūtāre, mūtāvī, mūtātus
+- ŝaŭm’ – foam – spūma, spūmae f. (gen. spūmae) / spūmēre (verb)
+- ŝel’ – shell – testa, testae f. / concha, conchae f.
+- ŝerc’ – to jest – iocārī: iocor, iocārī, iocātus sum
+- ŝi – she – ea / illa
+- ŝip’ – ship – nāvis, nāvis f. (gen. nāvis)
+- ŝir’ – to tear – scindere: scindō, scindere, scidī, scissus / rumpere: rumpō, rumpere, rūpī, ruptus
+- ŝlos’ – lock – claustrum, claustrī n. / sera, serae f.
+- ŝmir’ – to smear – linere: līnō, linere, lēvī, litus / unguere: unguō, unguere, unxī, unctus
+- ŝnur’ – rope – līnum, līnī n. / funis, funis m. (gen. funis)
+- ŝpar’ – to spare – parcere: parcō, parcere, pepercī, parsus
+- ŝpruc’ – to spout – spargere: spargō, spargere, sparsī, sparsus / scaturīre
+- ŝrank’ – cupboard – armārium, armāriī n.
+- ŝtal’ – steel – chalybs, chalybis m. / ferrum, ferrī n.
+- ŝtel’ – to steal – surripere: surripiō, surripere, surripuī, surreptus / furārī: furor, furārī, furātus sum
+- ŝtof’ – stuff – materia, materiae f. / stuppēria, stuppa
+- ŝton’ – stone – lapis, lapidis m. (gen. lapidis)
+- ŝtop’ – to stop – obtūrāre / obsignāre / stuppāre
+- ŝtrump’ – stocking – tibia, tibiae f. / soccus, soccī m.
+- ŝtup’ – step – gradus, gradūs m. (gen. gradūs)
+- ŝtupar’ – staircase – scalae, scālārum f. pl. / scalae (gen. scālārum)
+- ŝu’ – shoe – calceus, calceī m. / solea, soleae f.
+- ŝuld’ – to owe – dēbēre: dēbeō, dēbēre, dēbuī, dēbitus
+- ŝut’ – to pour out – effundere: effundō, effundere, effūdī, effūsus
+- ŝvel’ – to swell – turgēscere / intumēscere
 - ŝvit’ – to sweat – sudāre: sudō, sudāre, sudāvī, sudātus
 
 ### T
 
-- tabl’ – table – mēnsa, mēnsae f. (gen. mēnsae)  
-- tabul’ – board – tabula, tabulae f. (gen. tabulae)  
-- tag’ – day – diēs, diēī m./f. (gen. diēī)  
-- tajlor’ – tailor – sartor, sartōris m. (gen. sartōris)  
-- tamen – yet, however – tamen  
-- tapiŝ’ – carpet – tapēte, tapētae n. / tapētum, tapētī n.  
-- taŭg’ – to be fit – aptus esse / idoneus esse  
-- te’ – tea – thēa, thēae f. / thē, thēs f. (gen. thēae)  
-- tegment’ – roof – tēctum, tēctī n. (gen. tēctī)  
-- teler’ – plate – patella, patellae f. / lanx, lancis f.  
-- temp’ – time – tempus, temporis n. (gen. temporis)  
-- ten’ – to hold – tenēre: teneō, tenēre, tenuī, tentus  
-- tent’ – to tempt – tentāre: tentō, tentāre, tentāvī, tentātus / temptāre  
-- ter’ – earth – terra, terrae f. (gen. terrae)  
-- terur’ – terror – terror, terrōris m. (gen. terrōris)  
-- tia – such – tālis, tāle  
-- tial – therefore – idcirco, proptereā  
-- tiam – then – tum, tunc  
-- tie – there – ibi, illic  
-- tiel – so, thus – ita, sīc  
-- tim’ – to fear – timēre: timeō, timēre, timuī, —  
-- tio – it, that – id, illud  
-- tiom – so much – tantum  
-- tir’ – to draw – trahere: trahō, trahere, trāxī, tractus  
-- tiu – that – ille, illa, illud  
-- tol’ – linen – līnum, līnī n. (gen. līnī)  
-- tomb’ – tomb – sepulcrum, sepulcrī n. (gen. sepulcrī) / tumulus, tumulī m.  
-- tond’ – to shear – tondēre: tondēo, tondēre, totondī, tōnsus  
-- tondr’ – to thunder – tonāre: tonō, tonāre, tonuī, —  
-- tra – through – per (+ acc.) / trāns (+ acc.)  
-- traduk’ – to translate – trādūcere: trādūcō, trādūcere, trādxī, trāductus / interpretārī  
-- tranĉ’ – to cut – secāre: secō, secāre, secuī, sectus  
-- trankvil’ – tranquil – tranquillus, tranquilla, tranquillum  
-- trans – across – trāns (+ acc.)  
-- tre – very – valdē, magnopere  
-- trem’ – to tremble – tremere: tremō, tremere, tremuī, —  
-- tren’ – to drag – trahere: trahō, trahere, trāxī, tractus  
-- tri – three – trēs, tria  
-- trink’ – to drink – bibere: bibō, bibere, bibī, bibitus  
-- tro – too (much) – nimis / nimium  
-- tromp’ – to deceive – fallere: fallō, fallere, fefellī, falsus / dēcipere  
-- trov’ – to find – invenīre: inveniō, invenīre, invēnī, inventus  
-- tru’ – hole – forāmen, forāminis n. / cavum, cavī n.  
-- tuj – immediately – statim, ilico  
-- tuk’ – handkerchief – sudārium, sudāriī n. / mappa, mappae f.  
-- tur’ – tower – turris, turris f. (gen. turris)  
-- turment’ – to torment – torquēre: torqueō, torquēre, torsī, tortus  
-- turn’ – to turn – vertere: vertō, vertere, vertī, versus  
-- tus’ – to cough – tussīre: tussiō, tussīre, tussīvī, tussītus  
-- tuŝ’ – to touch – tangere: tangō, tangere, tetigī, tāctus  
+- tabl’ – table – mēnsa, mēnsae f. (gen. mēnsae)
+- tabul’ – board – tabula, tabulae f. (gen. tabulae)
+- tag’ – day – diēs, diēī m./f. (gen. diēī)
+- tajlor’ – tailor – sartor, sartōris m. (gen. sartōris)
+- tamen – yet, however – tamen
+- tapiŝ’ – carpet – tapēte, tapētae n. / tapētum, tapētī n.
+- taŭg’ – to be fit – aptus esse / idoneus esse
+- te’ – tea – thēa, thēae f. / thē, thēs f. (gen. thēae)
+- tegment’ – roof – tēctum, tēctī n. (gen. tēctī)
+- teler’ – plate – patella, patellae f. / lanx, lancis f.
+- temp’ – time – tempus, temporis n. (gen. temporis)
+- ten’ – to hold – tenēre: teneō, tenēre, tenuī, tentus
+- tent’ – to tempt – tentāre: tentō, tentāre, tentāvī, tentātus / temptāre
+- ter’ – earth – terra, terrae f. (gen. terrae)
+- terur’ – terror – terror, terrōris m. (gen. terrōris)
+- tia – such – tālis, tāle
+- tial – therefore – idcirco, proptereā
+- tiam – then – tum, tunc
+- tie – there – ibi, illic
+- tiel – so, thus – ita, sīc
+- tim’ – to fear – timēre: timeō, timēre, timuī, —
+- tio – it, that – id, illud
+- tiom – so much – tantum
+- tir’ – to draw – trahere: trahō, trahere, trāxī, tractus
+- tiu – that – ille, illa, illud
+- tol’ – linen – līnum, līnī n. (gen. līnī)
+- tomb’ – tomb – sepulcrum, sepulcrī n. (gen. sepulcrī) / tumulus, tumulī m.
+- tond’ – to shear – tondēre: tondēo, tondēre, totondī, tōnsus
+- tondr’ – to thunder – tonāre: tonō, tonāre, tonuī, —
+- tra – through – per (+ acc.) / trāns (+ acc.)
+- traduk’ – to translate – trādūcere: trādūcō, trādūcere, trādxī, trāductus / interpretārī
+- tranĉ’ – to cut – secāre: secō, secāre, secuī, sectus
+- trankvil’ – tranquil – tranquillus, tranquilla, tranquillum
+- trans – across – trāns (+ acc.)
+- tre – very – valdē, magnopere
+- trem’ – to tremble – tremere: tremō, tremere, tremuī, —
+- tren’ – to drag – trahere: trahō, trahere, trāxī, tractus
+- tri – three – trēs, tria
+- trink’ – to drink – bibere: bibō, bibere, bibī, bibitus
+- tro – too (much) – nimis / nimium
+- tromp’ – to deceive – fallere: fallō, fallere, fefellī, falsus / dēcipere
+- trov’ – to find – invenīre: inveniō, invenīre, invēnī, inventus
+- tru’ – hole – forāmen, forāminis n. / cavum, cavī n.
+- tuj – immediately – statim, ilico
+- tuk’ – handkerchief – sudārium, sudāriī n. / mappa, mappae f.
+- tur’ – tower – turris, turris f. (gen. turris)
+- turment’ – to torment – torquēre: torqueō, torquēre, torsī, tortus
+- turn’ – to turn – vertere: vertō, vertere, vertī, versus
+- tus’ – to cough – tussīre: tussiō, tussīre, tussīvī, tussītus
+- tuŝ’ – to touch – tangere: tangō, tangere, tetigī, tāctus
 - tut’ – whole – tōtus, tōta, tōtum
 
 ### U
 
-- u – imperative marker – (Latin imperative ending: -e, -te, -ī, -īte, etc.)  
-- uj’ – container / tree bearing fruit – vas, vasis n. (gen. vasis) / arbor, arboris f.  
-- ul’ – man possessing a quality – vir, virī m. (gen. virī) / homō, hominis m.  
-- um’ – vague suffix – (no single Latin equivalent)  
-- ung’ – nail – unguis, unguis m. (gen. unguis)  
-- unu – one – ūnus, ūna, ūnum  
-- urb’ – city – urbs, urbis f. (gen. urbis)  
-- urs’ – bear – ursus, ursī m. (gen. ursī)  
-- us – conditional marker – (Latin imperfect subjunctive ending: -rem, -rēs, -ret …)  
-- util’ – useful – ūtilis, ūtile  
+- u – imperative marker – (Latin imperative ending: -e, -te, -ī, -īte, etc.)
+- uj’ – container / tree bearing fruit – vas, vasis n. (gen. vasis) / arbor, arboris f.
+- ul’ – man possessing a quality – vir, virī m. (gen. virī) / homō, hominis m.
+- um’ – vague suffix – (no single Latin equivalent)
+- ung’ – nail – unguis, unguis m. (gen. unguis)
+- unu – one – ūnus, ūna, ūnum
+- urb’ – city – urbs, urbis f. (gen. urbis)
+- urs’ – bear – ursus, ursī m. (gen. ursī)
+- us – conditional marker – (Latin imperfect subjunctive ending: -rem, -rēs, -ret …)
+- util’ – useful – ūtilis, ūtile
 - uz’ – to use – ūtī: ūtor, ūtī, ūsus sum (semi-deponent)
 
 ### V
 
-- vaks’ – wax – cēra, cērae f. (gen. cērae)  
-- van’ – vain – vānus, vāna, vānum  
-- vang’ – cheek – gena, genae f. (gen. genae) / mala, malae f.  
-- vapor’ – vapour – vapor, vapōris m. (gen. vapōris)  
-- varm’ – warm – calidus, calida, calidum  
-- vast’ – vast – vastus, vasta, vastum  
-- vaz’ – vessel – vās, vāsis n. (gen. vāsis)  
-- vek’ – to awake – excitāre: excitō, excitāre, excitāvī, excitātus / excitārī (pass.)  
-- velk’ – to fade – marcescere: marcescō, marcescere, marcui, —  
-- ven’ – to come – venīre: veniō, venīre, vēnī, ventum  
-- vend’ – to sell – vēndere: vēndō, vēndere, vēndidī, vēnditus  
-- vendred’ – Friday – diēs Veneris (m.)  
-- venen’ – poison – venēnum, venēnī n. (gen. venēnī)  
-- venĝ’ – to avenge – vindicāre: vindicō, vindicāre, vindicāvī, vindicātus  
-- venk’ – to vanquish – vincere: vincō, vincere, vīcī, victus  
-- vent’ – wind – ventus, ventī m. (gen. ventī)  
-- ventr’ – belly – venter, ventris m. (gen. ventris)  
-- ver’ – truth – vēritās, vēritātis f. (gen. vēritātis)  
-- verd’ – green – viridis, viride  
-- verk’ – to write/create – scrībere: scrībō, scrībere, scrīpsī, scrīptus  
-- verm’ – worm – vermis, vermis m. (gen. vermis)  
-- verŝ’ – to pour – fundere: fundō, fundere, fūdī, fūsus  
-- vesper’ – evening – vesper, vesperis m. (gen. vesperis)  
-- vest’ – to clothe – vestīre: vestiō, vestīre, vestīvī, vestītus  
-- vest’o – clothes – vestis, vestis f. (gen. vestis)  
-- veter’ – weather – tempestās, tempestātis f. (gen. tempestātis)  
-- vetur’ – to travel – vehī: vehor, vehī, vectus sum (deponent)  
-- vi – you – tū (sing.), vōs (pl.)  
-- viand’ – meat – carō, carnis f. (gen. carnis)  
-- vid’ – to see – vidēre: videō, vidēre, vīdī, vīsus  
-- vilaĝ’ – village – vīcus, vīcī m. (gen. vīcī)  
-- vin’ – wine – vīnum, vīnī n. (gen. vīnī)  
-- vintr’ – winter – hiems, hiemis f. (gen. hiemis)  
-- violon’ – violin – fīdula, fīdulae f. / vīola, vīolae f.  
-- vir’ – man/male – vir, virī m. (gen. virī)  
-- viŝ’ – to wipe – tergēre: tergeō, tergēre, tersī, tersus  
-- vitr’ – glass – vitrum, vitrī n. (gen. vitrī)  
-- viv’ – to live – vīvere: vīvō, vīvere, vīxī, victus  
-- vizaĝ’ – face – vultus, vultūs m. / faciēs, faciēī f.  
-- voĉ’ – voice – vōx, vōcis f. (gen. vōcis)  
-- voj’ – way – via, viae f. (gen. viae)  
-- vok’ – to call – vocāre: vocō, vocāre, vocāvī, vocātus  
-- vol’ – to wish – velle: volō, velle, voluī, — (irregular)  
-- vort’ – word – verbum, verbī n. (gen. verbī)  
-- vost’ – tail – cauda, caudae f. (gen. caudae)  
-- vund’ – to wound – vulnerāre: vulnerō, vulnerāre, vulnerāvī, vulnerātus  
+- vaks’ – wax – cēra, cērae f. (gen. cērae)
+- van’ – vain – vānus, vāna, vānum
+- vang’ – cheek – gena, genae f. (gen. genae) / mala, malae f.
+- vapor’ – vapour – vapor, vapōris m. (gen. vapōris)
+- varm’ – warm – calidus, calida, calidum
+- vast’ – vast – vastus, vasta, vastum
+- vaz’ – vessel – vās, vāsis n. (gen. vāsis)
+- vek’ – to awake – excitāre: excitō, excitāre, excitāvī, excitātus / excitārī (pass.)
+- velk’ – to fade – marcescere: marcescō, marcescere, marcui, —
+- ven’ – to come – venīre: veniō, venīre, vēnī, ventum
+- vend’ – to sell – vēndere: vēndō, vēndere, vēndidī, vēnditus
+- vendred’ – Friday – diēs Veneris (m.)
+- venen’ – poison – venēnum, venēnī n. (gen. venēnī)
+- venĝ’ – to avenge – vindicāre: vindicō, vindicāre, vindicāvī, vindicātus
+- venk’ – to vanquish – vincere: vincō, vincere, vīcī, victus
+- vent’ – wind – ventus, ventī m. (gen. ventī)
+- ventr’ – belly – venter, ventris m. (gen. ventris)
+- ver’ – truth – vēritās, vēritātis f. (gen. vēritātis)
+- verd’ – green – viridis, viride
+- verk’ – to write/create – scrībere: scrībō, scrībere, scrīpsī, scrīptus
+- verm’ – worm – vermis, vermis m. (gen. vermis)
+- verŝ’ – to pour – fundere: fundō, fundere, fūdī, fūsus
+- vesper’ – evening – vesper, vesperis m. (gen. vesperis)
+- vest’ – to clothe – vestīre: vestiō, vestīre, vestīvī, vestītus
+- vest’o – clothes – vestis, vestis f. (gen. vestis)
+- veter’ – weather – tempestās, tempestātis f. (gen. tempestātis)
+- vetur’ – to travel – vehī: vehor, vehī, vectus sum (deponent)
+- vi – you – tū (sing.), vōs (pl.)
+- viand’ – meat – carō, carnis f. (gen. carnis)
+- vid’ – to see – vidēre: videō, vidēre, vīdī, vīsus
+- vilaĝ’ – village – vīcus, vīcī m. (gen. vīcī)
+- vin’ – wine – vīnum, vīnī n. (gen. vīnī)
+- vintr’ – winter – hiems, hiemis f. (gen. hiemis)
+- violon’ – violin – fīdula, fīdulae f. / vīola, vīolae f.
+- vir’ – man/male – vir, virī m. (gen. virī)
+- viŝ’ – to wipe – tergēre: tergeō, tergēre, tersī, tersus
+- vitr’ – glass – vitrum, vitrī n. (gen. vitrī)
+- viv’ – to live – vīvere: vīvō, vīvere, vīxī, victus
+- vizaĝ’ – face – vultus, vultūs m. / faciēs, faciēī f.
+- voĉ’ – voice – vōx, vōcis f. (gen. vōcis)
+- voj’ – way – via, viae f. (gen. viae)
+- vok’ – to call – vocāre: vocō, vocāre, vocāvī, vocātus
+- vol’ – to wish – velle: volō, velle, voluī, — (irregular)
+- vort’ – word – verbum, verbī n. (gen. verbī)
+- vost’ – tail – cauda, caudae f. (gen. caudae)
+- vund’ – to wound – vulnerāre: vulnerō, vulnerāre, vulnerāvī, vulnerātus
 
 ### Z
 
