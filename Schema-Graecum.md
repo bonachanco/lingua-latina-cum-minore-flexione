@@ -46,37 +46,44 @@
 
 ## Verba
 
-| Tempora              | Inf.        | Part.          | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
-| -------------------- | ----------- | -------------- | ------------- | ------------ | ------- | -------------- |
-| **Praes. I**         | P + V       | P + V          | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
-| **Praes. II**        | P           | P              | P             | P            | P + VS  | e- + P         |
-| **Fut. a.&m.**       | F           | F              | F             | F + oi       | —       | —              |
-| **Fut. p. + IM**     | FP          | FP             | FP            | FP + oi      | —       | —              |
-| **Aor. a.&m.**       | A           | A              | A             | A + ai       | A + VS  | —              |
-| **Aor. p. + I/II**   | AP          | AP             | AP            | AP + ‑eiē-   | AP + VS | —              |
-| **Perf. a.**         | PF + -e-    | PF + ōs/yîa/os | PF            | PF + oi      | PF + VS | e- + PF + ‑e-  |
-| **Perf. m.&p.**      | PFP         | PFP            | PFP           | —            | —       | e- + PFP       |
-| **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-     | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
+| Tempora              | Inf.        | Part.           | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
+| -------------------- | ----------- | --------------- | ------------- | ------------ | ------- | -------------- |
+| **Praes. I**         | P + V       | P + V           | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
+| **Praes. II**        | P           | P               | P             | P            | P + VS  | e- + P         |
+| **Fut. a.&m.**       | F           | F               | F             | F + oi       | —       | —              |
+| **Fut. p. + M**      | FP          | FP              | FP            | FP + oi      | —       | —              |
+| **Aor. a.&m.**       | A           | A               | A             | A + ai       | A + VS  | —              |
+| **Aor. p. + A**      | AP          | AP              | AP            | AP + ‑eiē-   | AP + VS | —              |
+| **Perf. a.**         | PF + -e-    | PF + -ōs/yîa/os | PF            | PF + oi      | PF + VS | e- + PF + ‑e-  |
+| **Perf. m.&p.**      | PFP         | PFP             | PFP           | —            | —       | e- + PFP       |
+| **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-      | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
+
+| Suffixa pro...      | A.                         | M.                                      |
+| ------------------- | -------------------------- | --------------------------------------- |
+| Ind. sine e- & sub. | _sg._ s e _pl._ men te si  | _sg._ mai ai tai _pl._ methai sthe ntai |
+| Ind. cum e- & opt.  | _sg._ n s - _pl._ men te n | _sg._ mēn o to _pl._ metha sthe nto     |
+| Imp.                | _sg._ e tō _pl._ te ntōn   | _sg._ o sthō _pl._ sthe sthōn           |
+| Inf.                | nai                        | sthai                                   |
+| Part.               | -n -sa -n                  | -menos -ē -on                           |
 
 - Vocalis intercalaris
+
   - **V** (pers.) -o- -e- -e- -o- -e- -o-; (inf.) -e-; (part.) -o-
   - **VS** (sub. pers.) -ô- -ê- -ê- -ô- -ê- -ô-
 
-- Infixa: **P** (praes. act. & med. & pass.) -; **F** (fut. act & med.) -s- + -V-; **A** (aor. act. & med.) -sa-;**A'** (aor. act. & med.) -; **PF** (perf. act.) -ka-; **PFP** (perf. med. & pass.) -; **AP** (aor. pass.) -thē-; **FP** (fut pass.) -thēs- + -V-.
+- Infixa
 
-- Suffixa
-
-  - **I/IM (pro sub., ind.praes./fut./perf./fut.perf.)** 
-    - s e men te si / mai ai tai methai sthe ntai
-    - (imp.) e tō te ntōn / o sthō sthe sthōn
-    - (inf.) nai / sthai
-    - (part.) -n -sa -n / -menos -ē -on
-  - **II/IIM (pro opt., ind.imperf./aor./pqpf.)**
-    - n s - men te n / mēn o to metha sthe nto
-    - (imp.) on tō te ntōn / ai sthō sthe sthōn
+  - **P** (praes. act. & med. & pass.) -
+  - **F** (fut. act & med.) -s- + -V-
+  - **A** (aor. act. & med.) -sa-
+  - **A'** (aor. act. & med.) -
+  - **PF** (perf. act.) -ka-
+  - **PFP** (perf. med. & pass.) -
+  - **AP** (aor. pass.) -thē-
+  - **FP** (fut pass.) -thēs- + -V-.
 
 - Exceptiones:
-  - **Opt.** act. 1sg -mi.
+  - **Opt.** act. 1sg -mi. 3pl. -en.
   - **Praes. I** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
   - **Praes. II** act. ind. 3g -si 3pl -asi;
   - **Fut.** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
