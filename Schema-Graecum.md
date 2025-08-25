@@ -49,7 +49,7 @@
 | Tempora              | Inf.        | Part.           | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
 | -------------------- | ----------- | --------------- | ------------- | ------------ | ------- | -------------- |
 | **Praes. I**         | P + V       | P + V           | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
-| **Praes. II**        | P           | P               | P             | P            | P + VS  | e- + P         |
+| **Praes. II**        | P           | P               | P             | P + -i-      | P + VS  | e- + P         |
 | **Fut. a.&m.**       | F           | F               | F             | F + -oi-     | —       | —              |
 | **Fut. p. + M**      | FP          | FP              | FP            | FP + -oi-    | —       | —              |
 | **Aor. a.&m.**       | A           | A               | A             | A + -ai-     | A + VS  | —              |
