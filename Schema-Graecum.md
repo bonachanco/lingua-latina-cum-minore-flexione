@@ -58,14 +58,22 @@
 | **Perf. m.&p.**      | PFP         | PFP            | PFP           | —            | —       | e- + PFP       |
 | **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-     | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
 
-- Vocalis intercalaris: **V** (pers.) -o- -e- -e- -o- -e- -o-; (inf.) -e-; (part.) -o-; **VS** (sub. pers.) -ô- -ê- -ê- -ô- -ê- -ô-
+- Vocalis intercalaris
+  - **V** (pers.) -o- -e- -e- -o- -e- -o-; (inf.) -e-; (part.) -o-
+  - **VS** (sub. pers.) -ô- -ê- -ê- -ô- -ê- -ô-
 
 - Infixa: **P** (praes. act. & med. & pass.) -; **F** (fut. act & med.) -s- + -V-; **A** (aor. act. & med.) -sa-;**A'** (aor. act. & med.) -; **PF** (perf. act.) -ka-; **PFP** (perf. med. & pass.) -; **AP** (aor. pass.) -thē-; **FP** (fut pass.) -thēs- + -V-.
 
 - Suffixa
 
-  - **I (pro sub., ind.praes./fut./perf./fut.perf.)** - s e men te si (imp.) e tō te ntōn; (inf.) nai (part.) -n -sa -n **IM** mai ai tai methai sthe ntai (imp.) o sthō sthe sthōn (inf.) sthai (part.) -menos -ē -on
-  - **II (pro opt., ind.imperf./aor./pqpf.)** n s - men te n (imper.) on tō te ntōn; **IIM** mēn o to metha sthe nto (imper.) ai sthō sthe sthōn
+  - **I/IM (pro sub., ind.praes./fut./perf./fut.perf.)** 
+    - s e men te si / mai ai tai methai sthe ntai
+    - (imp.) e tō te ntōn / o sthō sthe sthōn
+    - (inf.) nai / sthai
+    - (part.) -n -sa -n / -menos -ē -on
+  - **II/IIM (pro opt., ind.imperf./aor./pqpf.)**
+    - n s - men te n / mēn o to metha sthe nto
+    - (imp.) on tō te ntōn / ai sthō sthe sthōn
 
 - Exceptiones:
   - **Opt.** act. 1sg -mi.
