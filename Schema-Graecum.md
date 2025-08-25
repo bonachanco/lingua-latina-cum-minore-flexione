@@ -1,67 +1,74 @@
-# Schema Graecum
+# Schema Graeicum
 
 ## Substantivi et adiectivi
 
-- Declinatio I
-  - a as: a as ae an; ae ōn īs ās
-  - a es: a es ae an; ae ōn īs ās
-  - ē ēs: ē ēs ae ēn; ae ōn īs ās
-  - as u: as ae ae an; ae ōn īs ās
-  - ēs u: ēs ae ae ēn; ae ōn īs ās
-- Declinatio II
-  - os u: os ī ō on; ī ōn īs ōs
-  - on u: on ī ō on; a ōn īs a
-  - eus, eōs: eus eōs eo eon; ei eōn eīs eōs
-- Declination III
-  - (m/f) - os   : -  is i a;  es  ōn  ibus as
-  - (m/f) ēs us  : ēs is i ēn; es  ōn  ibus īs
-  - (m/f) is eōs : is is i in; es  eōn ibus īs
-  - (m/f) ys, eōs: ys is i yn; es  eōn ibus īs
-  - (m/f) ys, os : ys is i yn; yes yōn ibus ys
-  - (n) os us    : os is i os; ē   ōn  ibus ē
-  - (n) as us    : as is i as; ā   ōn  ibus ā
-  - (n) y, eōs   : y  is i y;  ē   eōn ibus ē 
+### Decl. I
 
+| G.  | Sg.      |          |          |          | Pl.      |          |          |          |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|     | **Nom.** | **Gen.** | **Dat.** | **Acc.** | **Nom.** | **Gen.** | **Dat.** | **Acc.** |
+| f   | a        | as       | āi       | an       | ai       | ōn       | ais      | ās       |
+| f   | a        | es       | ēi       | an       | ai       | ōn       | ais      | ās       |
+| f   | ē        | ēs       | ēi       | ēn       | ai       | ōn       | ais      | ās       |
+| m   | as       | ou       | āi       | an       | ai       | ōn       | ais      | ās       |
+| m   | ēs       | ou       | ēi       | ēn       | ai       | ōn       | ais      | ās       |
+
+### Decl. II
+
+| G.  | Sg.      |          |          |          | Pl.      |          |          |          |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|     | **Nom.** | **Gen.** | **Dat.** | **Acc.** | **Nom.** | **Gen.** | **Dat.** | **Acc.** |
+| m   | os       | ou       | ōi       | on       | oi       | ōn       | ois      | ous      |
+| m   | ous      | ou       | ōi       | oun      | oi       | ōn       | ois      | ous      |
+| n   | on       | ou       | ōi       | on       | a        | ōn       | ois      | a        |
+
+### Decl. III consonantium
+
+| G.  | Sg.      |          |          |          | Pl.      |          |          |          |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|     | **Nom.** | **Gen.** | **Dat.** | **Acc.** | **Nom.** | **Gen.** | **Dat.** | **Acc.** |
+| m/f | —        | os       | i        | a        | es       | ōn       | si       | as       |
+| m/f | ēr       | ros      | ri       | era      | eres     | erōn     | rasi     | eras     |
+| m/f | ēs       | ous      | ei       | ē        | eis      | ōn       | esi      | eis      |
+| n   | os       | ous      | ei       | os       | ē        | ōn       | esi      | ē        |
+| n   | as       | ōs       | ai       | as       | ā        | ōn       | asi      | ā        |
+
+### Decl. III vocalium
+
+| G.  | Sg.      |          |          |          | Pl.      |          |          |          |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|     | **Nom.** | **Gen.** | **Dat.** | **Acc.** | **Nom.** | **Gen.** | **Dat.** | **Acc.** |
+| m/f | is       | eōs      | ei       | in       | eis      | eōn      | esi      | eis      |
+| m/f | ys       | eōs      | ei       | yn       | eis      | eōn      | esi      | eis      |
+| n   | y        | eōs      | ei       | y        | ē        | eōn      | esi      | ē        |
+| m/f | ys       | yos      | yï       | yn       | yes      | yōn      | ysi      | ys       |
+| m/f | eus      | eōs      | ei       | ea       | eis      | eōn      | eusi     | eas      |
 
 ## Verba
 
-- Themata: Praes. act. (P) -; Fut. act. -s- (F); Aor. act. (A1/A2) -s-/-; Perf. act. (PA) R- -k-; Perf. mid. / pass. (PM) R- ; Aor. pass. (A1P/A2P) -thē-/-ē-.
+| Tempora              | Inf.        | Part.          | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
+| -------------------- | ----------- | -------------- | ------------- | ------------ | ------- | -------------- |
+| **Praes. I**         | P + V       | P + V          | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
+| **Praes. II**        | P           | P              | P             | P            | P + VS  | e- + P         |
+| **Fut. a.&m.**       | F           | F              | F             | F + oi       | —       | —              |
+| **Fut. p. + IM**     | FP          | FP             | FP            | FP + oi      | —       | —              |
+| **Aor. a.&m.**       | A           | A              | A             | A + ai       | A + VS  | —              |
+| **Aor. p. + I/II**   | AP          | AP             | AP            | AP + ‑eiē-   | AP + VS | —              |
+| **Perf. a.**         | PF + -e-    | PF + ōs/yîa/os | PF            | PF + oi      | PF + VS | e- + PF + ‑e-  |
+| **Perf. m.&p.**      | PFP         | PFP            | PFP           | —            | —       | e- + PFP       |
+| **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-     | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
 
-- P Praes. act. ind. u; sub. ō; opt. oe;  inf. īn; part. ōn usa on ont- (3-1-3); Imperf. e- o/e
-- P Praes. m/p. ind. on; sub. ōn; opt. oin;  inf. -esthae; part. menos (2-1-2); Imperf. e- on
+- Vocalis intercalaris: **V** (pers.) -o- -e- -e- -o- -e- -o-; (inf.) -e-; (part.) -o-; **VS** (sub. pers.) -ô- -ê- -ê- -ô- -ê- -ô-
 
-- F   Fut. act. ind. su; opt. soe; inf. sīn; part. sōn usa on ont- (3-1-3)
-- F   Fut. mid. ind. son; opt. soen; inf. sesthae; part. somenos (2-1-2)
-- A1P Fut. pas. ind. thēson; opt. thēsoen; inf. thēsesthae; part. thēsomenos (2-1-2)
+- Infixa: **P** (praes. act. & med. & pass.) -; **F** (fut. act & med.) -s- + -V-; **A** (aor. act. & med.) -sa-;**A'** (aor. act. & med.) -; **PF** (perf. act.) -ka-; **PFP** (perf. med. & pass.) -; **AP** (aor. pass.) -thē-; **FP** (fut pass.) -thēs- + -V-.
 
-- A   Aor. act. ind. e- sa; sub. sō; opt. sae;  inf. sae; part. sas sasa san sant- (3-1-3)
-- A   Aor. act. mid. e- san; sub. sōn; opt. saen;  inf. sasthae; part. samenos (2-1-2)
-- A1P Aor. act. pas. e- thē; sub. thō; opt. thīē;  inf. thēnae; part. thīs thīsa then thent- (3-1-3)
+- Suffixa
 
-- P  Perf. act. ind. ka; sub. kō; opt. koe;  inf. kenae; part. kōs kyia kos kot- (3-1-3); Plpf. e- ke
-- PM Perf. m/p. ind. -; sub./opt. (periphr.)  inf. sthae; part. menos (2-1-2); Plpf. e- 
-- PM Fut. Perf. m/p. ind. so opt. soe; inf. sesthae; part. somenos (2-1-2)
+  - **I (pro sub., ind.praes./fut./perf./fut.perf.)** - s e men te si (imp.) e tō te ntōn; (inf.) nai (part.) -n -sa -n **IM** mai ai tai methai sthe ntai (imp.) o sthō sthe sthōn (inf.) sthai (part.) -menos -ē -on
+  - **II (pro opt., ind.imperf./aor./pqpf.)** n s - men te n (imper.) on tō te ntōn; **IIM** mēn o to metha sthe nto (imper.) ai sthō sthe sthōn
 
-### Terminationes personales
-
-| Lat. A. | I (P&Fut./Perf.) | I-Mi | Sub.   | II (Imperf./Aor./Plpf.) | II-Mi&Aor.P./Opt. |
-| ------- | ---------------- | ---- | ------ | ----------------------- | ----------------- |
-| **o/m** | ō a              | mi   | ō      | on a ē                  | n/mi              |
-| **s**   | īs as            | s    | ēs     | es as ēs                | s                 |
-| **t**   | ī e              | si   | ē      | e(n) e ī(n)             | -                 |
-| **mus** | -men             | men  | ōmen   | -men                    | men               |
-| **tis** | -te              | te   | ēte    | -te                     | te                |
-| **nt**  | usi(n) -si       | asi  | ōsi(n) | on an -san              | san               |
-
-
-| Lat P.   | I (P&Fut.) | I-Mi&Perf. | Sub.   | II (Imperf./Aor.) | II-Mi/Opt. |
-| -------- | ---------- | ---------- | ------ | ----------------- | ---------- |
-| **r**    | omae       | mae        | ōmae   | -mēn              | mēn        |
-| **ris**  | ē/ī        | sae        | ē      | u/ō               | so/o       |
-| **tur**  | etae       | tae        | ētae   | -to               | to         |
-| **mur**  | ometha     | metha      | ōmetha | -metha            | metha      |
-| **mini** | esthe      | sthe       | ēsthe  | -sthe             | sthe       |
-| **ntur** | ontae      | ntae       | ōntae  | -nto              | nto        |
-
-
-
+- Exceptiones:
+  - **Opt.** act. 1sg -mi.
+  - **Praes. I** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
+  - **Praes. II** act. ind. 3g -si 3pl -asi;
+  - **Fut.** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
