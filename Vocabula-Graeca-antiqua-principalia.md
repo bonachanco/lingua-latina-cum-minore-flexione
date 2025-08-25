@@ -166,6 +166,26 @@
 
 ## VIII. Familia et Amicitia et Domus
 
+| Ancient Greek                                                              | Latin                                               |          |
+| -------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
+| πατήρ, πατρός, ὁ (masc. noun, 3rd decl.)                                   | pater, patris (masc. noun, 3rd decl.)               | patro    |
+| γένος, γένους, τό (neut. noun, 3rd decl.)                                  | genus, generis (neut. noun, 3rd decl.)              | geno     |
+| παῖς, παιδός, ὁ/ἡ (masc./fem. noun, 3rd decl.)                             | puer, puerī (masc. noun.) / puella, ‑ae (fem. noun) | paido    |
+| υἱός, υἱοῦ, ὁ (masc. noun, 2nd decl.)                                      | fīlius, fīliī (masc. noun, 2nd decl.)               | huio     |
+| φίλος, φίλη, φίλον (adj./noun, 2-1-2 decl.)                                | amīcus, ‑a, ‑um (adj./noun, 2-1-2 decl.)            | phila    |
+| συμβαίνω, συμβήσομαι, συνέβην, συμβέβηκα, —, — (verb, 2nd aor.)            | accidō, accidere, accidī, — (3rd conj.)             | symbaini |
+| οὐσία, οὐσίας, ἡ (fem. noun, 1st decl.)                                    | substantia, ‑ae (fem. noun, 1st decl.)              | ousia    |
+| οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην (verb, 1st conj.)                      | habitō, habitāre, habitāvī, habitātum (1st conj.)   | oikei    |
+| οἰκεῖος, οἰκεία, οἰκεῖον (adj., 2-1-2 decl.)                               | domesticus, ‑a, ‑um (adj., 2-1-2 decl.)             | oikeia   |
+| ἀδελφός, ἀδελφοῦ, ὁ (masc. noun, 2nd decl.)                                | frāter, frātris (masc. noun, 3rd decl.)             | adelpho  |
+| μήτηρ, μητρός, ἡ (fem. noun, 3rd decl.)                                    | māter, mātris (fem. noun, 3rd decl.)                | mētro    |
+| οἶκος, οἴκου, ὁ (masc. noun, 2nd decl.)                                    | domus, domūs / domī (fem. noun, 4th/2nd decl.)      | oiko     |
+| δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, ἐδέχθην (verb, mid./pass., 1st aor.) | accipiō, accipere, accēpī, acceptum (3rd-iō conj.)  | dechi    |
+| θυγάτηρ, θυγατρός, ἡ (fem. noun, 3rd decl.)                                | fīlia, fīliae (fem. noun, 1st decl.)                | thygatro |
+| οἰκία, οἰκίας, ἡ (fem. noun, 1st decl.)                                    | domus, domūs (fem. noun, 4th decl.)                 | oikio    |
+| τέκνον, τέκνου, τό (neut. noun, 2nd decl.)                                 | līber, līberī (masc. noun, 2nd decl.)               | tekno    |
+| τίκτω, τέξω / τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην (verb, 2nd aor.)  | pariō, parere, peperī, partum (3rd-iō conj.)        | tikti    |
+
 ## IX. Gubernatio et Societas
 
 ## X. Auxilium et Salus
