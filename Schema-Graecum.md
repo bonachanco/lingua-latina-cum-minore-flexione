@@ -46,17 +46,17 @@
 
 ## Verba
 
-| Tempora              | Inf.        | Part.           | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
-| -------------------- | ----------- | --------------- | ------------- | ------------ | ------- | -------------- |
-| **Praes. I**         | P + V       | P + V           | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
-| **Praes. II**        | P           | P               | P             | P + -i-      | P + VS  | e- + P         |
-| **Fut. a.&m.**       | F           | F               | F             | F + -oi-     | —       | —              |
-| **Fut. p. + M**      | FP          | FP              | FP            | FP + -oi-    | —       | —              |
-| **Aor. a.&m.**       | A           | A               | A             | A + -ai-     | A + VS  | —              |
-| **Aor. p. + A**      | AP          | AP              | AP            | AP + ‑eiē-   | AP + VS | —              |
-| **Perf. a.**         | PF + -e-    | PF + -ōs/uîa/os | PF            | PF + -oi-    | PF + VS | e- + PF + ‑e-  |
-| **Perf. m.&p.**      | PFP         | PFP             | PFP           | —            | —       | e- + PFP       |
-| **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-      | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
+| Tempora              | Inf.        | Part.                 | Ind. / Imp.   | Opt.         | Sub.    | Imper. / Pqpf. |
+| -------------------- | ----------- | --------------------- | ------------- | ------------ | ------- | -------------- |
+| **Praes. I**         | P + V       | P + V                 | P + V         | P + ‑oi-     | P + VS  | e- + P + V     |
+| **Praes. II**        | P           | P                     | P             | P + -i-      | P + VS  | e- + P         |
+| **Fut. a.&m.**       | F           | F                     | F             | F + -oi-     | —       | —              |
+| **Fut. p. + M**      | FP          | FP                    | FP            | FP + -oi-    | —       | —              |
+| **Aor. a.&m.**       | A           | A                     | A             | A + -ai-     | A + VS  | —              |
+| **Aor. p. + A**      | AP          | AP                    | AP            | AP + ‑eiē-   | AP + VS | —              |
+| **Perf. a.**         | PF + -e-    | PF + -ōs/uîa/os (ot-) | PF            | PF + -oi-    | PF + VS | e- + PF + ‑e-  |
+| **Perf. m.&p.**      | PFP         | PFP                   | PFP           | —            | —       | e- + PFP       |
+| **Fut. perf. m.&p.** | PFP + -ses- | PFP + ‑so-            | PFP + ‑s- + V | FPFP + ‑soi- | —       | —              |
 
 | Suffixa pro...      | A.                                | M.                                            |
 | ------------------- | --------------------------------- | --------------------------------------------- |
@@ -95,9 +95,9 @@
 3. Adiectivi: -o (I & II) -e (III) invariante.
 4. Pronomini: ego/eme sy/se auto, autē, nt. to; hemes hymes autos.
 5. Verbi (ex 2sg. imp. aut 3sg. ind. praes.): -o > -e; -eo > -ei; -ao > -ā; -oo > -ou; -mi > -si
-    - Deponente et passive (ex part.pass. ): -o > -o; -eo > -ou; -ao > -ō; oo > -oû; -mi > -
-    - Imperf. / aor. : e- (e- + h > h, e+e > ei)
-    - Perf.: eti
-    - Fut: melle
-    - Opt: melloi
-    - Participii: -nte, -meno.
+   - Deponente et passive (ex part.pass. ): -o > -o; -eo > -ou; -ao > -ō; oo > -oû; -mi > -
+   - Imperf. / aor. : e- (e- + h > h, e+e > ei)
+   - Perf.: eti
+   - Fut: melle
+   - Opt: melloi
+   - Participii: -nte, -meno.
