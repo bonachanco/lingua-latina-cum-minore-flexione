@@ -87,3 +87,17 @@
   - **Praes. I** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
   - **Praes. II** act. ind. 3g -si 3pl -asi;
   - **Fut.** act. inf. -ein; ind. 2sg. -eis; 3sg. -ei; 3pl. -ousi;
+
+# Schema Graecium II
+
+1. Articulo definite: to.
+2. Substantivi: -o (II) -e/-a (I) -e (III), plurale: -s.
+3. Adiectivi: -o (I & II) -e (III) invariante.
+4. Pronomini: ego/eme sy/se auto, autē, nt. to; hemes hymes autos.
+5. Verbi (ex 2sg. imp. aut 3sg. ind. praes.): -o > -e; -eo > -ei; -ao > -ā; -oo > -ou; -mi > -si
+    - Deponente et passive (ex part.pass. ): -o > -o; -eo > -ou; -ao > -ō; oo > -oû; -mi > -
+    - Imperf. / aor. : e- (e- + h > h, e+e > ei)
+    - Perf.: eti
+    - Fut: melle
+    - Opt: melloi
+    - Participii: -nte, -meno.
