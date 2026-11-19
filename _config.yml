@@ -5,10 +5,6 @@ baseurl: "/lingua-latina-cum-minore-flexione" # the subpath of your site, e.g. /
 url: "https://bonachanco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bonachanco
 
-# Google Search Console verification (rendered by jekyll-seo-tag)
-webmaster_verifications:
-  google: WgblAihGx0YIw7uHCImnCnQVg35UgiNUqTQ4qPGDwQQ
-
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
